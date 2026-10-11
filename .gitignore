@@ -1,0 +1,7 @@
+# The public copy of the site (made by scripts/export_public_site.py in the private project).
+node_modules/
+dist/
+*.tsbuildinfo
+
+# the audio is never published here; the atlas links those genres to YouTube instead
+public/audio/

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // apply the saved theme before first paint, so there is no flash of the wrong one (dark is the default)
+      try {
+        var t = localStorage.getItem("theme");
+        document.documentElement.setAttribute("data-theme", ["light", "dark", "dark-classic"].indexOf(t) >= 0 ? t : "dark");
+      } catch (e) {}
+    </script>
+    <title>Every Genre on RateYourMusic &mdash; By the Numbers</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23181715'/%3E%3Ccircle cx='10' cy='21' r='4.2' fill='%237ea3d6'/%3E%3Ccircle cx='21' cy='12' r='4.2' fill='%23d98a62'/%3E%3Ccircle cx='23' cy='24' r='3' fill='%236fb79c'/%3E%3Cpath d='M10 21L21 12M21 12L23 24' stroke='%23ece8df' stroke-width='1.4' fill='none'/%3E%3C/svg%3E" />
+    <meta
+      name="description"
+      content="An interactive dashboard covering every genre sampled in the RYM Genre Sampler video: popularity, taxonomy, dates, countries, track length and more."
+    />
+  </head>
+  <body>
+    <div class="page" id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

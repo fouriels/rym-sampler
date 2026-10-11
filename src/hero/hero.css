@@ -1,0 +1,64 @@
+/* The hero images' look (2026-10-11): the dashboard's dark viridis, drawn to a fixed 2000 x 1500 canvas.
+   A deep purple -> blue -> teal -> green page, frosted type in off-white, the viridis scale as the data's
+   colour. Sizes are in px of the export canvas, not responsive. Tokens mirror design.css (dark). */
+:root {
+  --ink: #f0eff9;
+  --ink-2: #bcbad2;
+  --muted: #8e8ca8;
+  --rule: rgba(255, 255, 255, 0.13);
+  --faint: rgba(255, 255, 255, 0.065);
+  --display: "Iowan Old Style", "Palatino Linotype", Georgia, "Times New Roman", serif;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #0a0c1a; }
+#canvas {
+  position: relative;
+  width: 2000px;
+  height: 1500px;
+  overflow: hidden;
+  color: var(--ink);
+  font-family: "Inter", "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background:
+    radial-gradient(1200px 820px at 4% -4%, rgba(72, 36, 117, 0.66), transparent 62%),
+    radial-gradient(1100px 760px at 104% 2%, rgba(33, 145, 140, 0.30), transparent 62%),
+    radial-gradient(1200px 860px at -8% 56%, rgba(53, 95, 141, 0.26), transparent 64%),
+    radial-gradient(1100px 860px at 108% 82%, rgba(68, 191, 112, 0.16), transparent 62%),
+    linear-gradient(180deg, #14082a 0%, #0d1236 22%, #0a2234 50%, #0a3033 76%, #0f3a2c 100%);
+}
+/* the whole scale as a hairline across the top, as on the site */
+#canvas::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 9px; z-index: 3; background: linear-gradient(90deg, #440154, #482475, #414487, #355f8d, #2a788e, #21918c, #22a884, #44bf70, #7ad151, #bddf26, #fde725); }
+#canvas svg { position: absolute; left: 0; top: 0; }
+
+.kicker {
+  position: absolute; left: 100px; top: 76px; display: flex; align-items: center; gap: 16px;
+  font-size: 21px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; color: #bddf26;
+}
+.kicker::before { content: ""; width: 54px; height: 5px; border-radius: 3px; background: linear-gradient(90deg, #440154, #482475, #414487, #355f8d, #2a788e, #21918c, #22a884, #44bf70, #7ad151, #bddf26, #fde725); }
+.title {
+  position: absolute; left: 100px; top: 128px; width: 1800px; margin: 0; text-wrap: balance;
+  font-family: var(--display); font-weight: 700; font-size: 84px; line-height: 1.08; letter-spacing: -0.012em;
+  color: #f6f5ff;
+}
+.sub {
+  position: absolute; left: 100px; width: 1560px; margin: 0; text-wrap: pretty;
+  font-size: 29px; line-height: 1.42; color: var(--ink-2);
+}
+.foot {
+  position: absolute; left: 100px; right: 100px; bottom: 56px;
+  display: flex; justify-content: space-between; align-items: flex-end; gap: 60px;
+  font-size: 18.5px; line-height: 1.45; color: var(--muted);
+  border-top: 1px solid var(--rule); padding-top: 16px;
+}
+.foot b { color: var(--ink-2); font-weight: 600; }
+.foot span:last-child { white-space: nowrap; color: var(--ink-2); font-family: var(--display); font-size: 21px; font-style: italic; }
+.note { position: absolute; font-size: 22px; line-height: 1.45; color: var(--ink-2); }
+.note b { color: var(--ink); }
+
+.stat { position: absolute; }
+.stat .n { font-family: var(--display); font-weight: 700; font-size: 84px; line-height: 1; letter-spacing: -0.02em; }
+.stat .l { margin-top: 8px; font-size: 24px; line-height: 1.35; color: var(--ink-2); }
+.stat .l b { color: var(--ink); }
+
+svg text { font-family: "Inter", "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif; }
+svg .serif { font-family: var(--display); }

@@ -1,0 +1,7984 @@
+{
+  "ambient": {
+    "art_key": "145246:1783203480"
+  },
+  "ambient-americana": {
+    "art_key": "52173:1783203489"
+  },
+  "dark-ambient": {
+    "art_key": "92857:1783203493"
+  },
+  "black-ambient": {
+    "art_key": "38368:1782076419"
+  },
+  "ritual-ambient": {
+    "art_key": "20852:1783281464"
+  },
+  "space-ambient": {
+    "art_key": "69203:1783203507"
+  },
+  "tribal-ambient": {
+    "art_key": "58828:1791745584"
+  },
+  "blues": {
+    "art_key": "139748:1783203520"
+  },
+  "acoustic-blues": {
+    "art_key": "86249:1783203525",
+    "audio_key": "2812583:1783203525|None|None|96k|full"
+  },
+  "acoustic-chicago-blues": {
+    "art_key": "126392:1783203528",
+    "audio_key": "3165355:1783203528|None|None|96k|full"
+  },
+  "acoustic-texas-blues": {
+    "art_key": "94346:1783203533"
+  },
+  "jug-band": {
+    "art_key": "121741:1783203539"
+  },
+  "piedmont-blues": {
+    "art_key": "131467:1783203544"
+  },
+  "boogie-woogie": {
+    "art_key": "39761:1783203548"
+  },
+  "country-blues": {
+    "art_key": "118472:1783203553"
+  },
+  "delta-blues": {
+    "art_key": "20872:1788900755"
+  },
+  "bentonia-school": {
+    "art_key": "40286:1788900844"
+  },
+  "hill-country-blues": {
+    "art_key": "264667:1783203569"
+  },
+  "electric-blues": {
+    "art_key": "105472:1783203579"
+  },
+  "british-blues": {
+    "art_key": "60853:1783203585"
+  },
+  "chicago-blues": {
+    "art_key": "185503:1783203591",
+    "audio_key": "7849132:1783203590|None|None|96k|full"
+  },
+  "electric-texas-blues": {
+    "art_key": "113996:1783203595"
+  },
+  "swamp-blues": {
+    "art_key": "145114:1783203600",
+    "audio_key": "5714373:1783203599|None|None|96k|full"
+  },
+  "jump-blues": {
+    "art_key": "120854:1783203605",
+    "audio_key": "2290448:1783203605|None|None|96k|full"
+  },
+  "piano-blues": {
+    "art_key": "80714:1783203609"
+  },
+  "soul-blues": {
+    "art_key": "153205:1783203613"
+  },
+  "vaudeville-blues": {
+    "art_key": "78218:1783203619"
+  },
+  "classical-music": {
+    "art_key": "115436:1783203623"
+  },
+  "east-asian-classical-music": {
+    "art_key": "5894:1788893998"
+  },
+  "chinese-classical-music": {
+    "art_key": "137032:1788972033"
+  },
+  "baisha-xiyue": {
+    "art_key": "13126:1788983881"
+  },
+  "chinese-literati-music": {
+    "art_key": "139937:1783203655"
+  },
+  "dongjing": {
+    "art_key": "157654:1783203659"
+  },
+  "yayue": {
+    "art_key": "169558:1788972035"
+  },
+  "japanese-classical-music": {
+    "art_key": "182419:1783203669"
+  },
+  "gagaku": {
+    "art_key": "147915:1783203675"
+  },
+  "heikyoku": {
+    "art_key": "41448:1782071290"
+  },
+  "honkyoku": {
+    "art_key": "80713:1783203686"
+  },
+  "jiuta": {
+    "art_key": "171418:1783203691"
+  },
+  "joruri": {
+    "art_key": "202504:1783203696",
+    "audio_key": "1462436:1783203696|None|None|96k|full"
+  },
+  "meiji-shinkyoku": {
+    "art_key": "192095:1783203703"
+  },
+  "nagauta": {
+    "art_key": "82420:1782160949",
+    "audio_key": "4739076:1783203713|None|None|96k|full"
+  },
+  "noh": {
+    "art_key": "110883:1783203721"
+  },
+  "shomyo": {
+    "art_key": "44647:1783203726"
+  },
+  "sokyoku": {
+    "art_key": "34636:1782162433"
+  },
+  "danmono": {
+    "art_key": "28006:1783025355",
+    "audio_key": "6092097:1783203735|None|None|96k|full"
+  },
+  "kumiuta": {
+    "art_key": "143067:1783203743"
+  },
+  "korean-classical-music": {
+    "art_key": "59018:1783203748"
+  },
+  "dang-ak": {
+    "art_key": "11096:1782071408"
+  },
+  "hyang-ak": {
+    "art_key": "75287:1783203760"
+  },
+  "jeong-ak": {
+    "art_key": "16458:1782071463"
+  },
+  "gagok": {
+    "art_key": "64220:1782071423"
+  },
+  "vietnamese-court-music": {
+    "art_key": "78658:1788984137"
+  },
+  "inkiranya": {
+    "art_key": "262120:1783203783"
+  },
+  "maqamic-music": {
+    "art_key": "136805:1783203788"
+  },
+  "arabic-classical-music": {
+    "art_key": "46614:1782076030"
+  },
+  "andalusian-classical-music": {
+    "art_key": "11124:1788972125"
+  },
+  "iraqi-maqam": {
+    "art_key": "187655:1783203810"
+  },
+  "sawt": {
+    "art_key": "36428:1788956219"
+  },
+  "azerbaijani-mugham": {
+    "art_key": "134720:1783203827"
+  },
+  "persian-classical-music": {
+    "art_key": "100531:1783203832"
+  },
+  "shashmaqam": {
+    "art_key": "117070:1783203841"
+  },
+  "sufiana-kalam": {
+    "art_key": "195741:1783203848"
+  },
+  "turkish-classical-music": {
+    "art_key": "71834:1782162754"
+  },
+  "turkish-mevlevi-music": {
+    "art_key": "81064:1783203865"
+  },
+  "twelve-muqam": {
+    "art_key": "52202:1782071679"
+  },
+  "minyue": {
+    "art_key": "188995:1783203881"
+  },
+  "piobaireachd": {
+    "art_key": "88640:1783203888"
+  },
+  "south-asian-classical-music": {
+    "art_key": "168701:1783203893"
+  },
+  "carnatic-classical-music": {
+    "art_key": "61114:1783203902"
+  },
+  "hindustani-classical-music": {
+    "art_key": "92366:1783203908"
+  },
+  "dhrupad": {
+    "art_key": "107553:1783203915"
+  },
+  "kafi": {
+    "art_key": "166812:1783203920"
+  },
+  "khayal": {
+    "art_key": "90222:1783203924"
+  },
+  "klasik": {
+    "art_key": "127425:1783203929"
+  },
+  "qawwali": {
+    "art_key": "150119:1783203934"
+  },
+  "shabad-kirtan": {
+    "art_key": "103698:1788956304"
+  },
+  "tarana": {
+    "art_key": "55268:1782071518"
+  },
+  "thumri": {
+    "art_key": "33672:1782162607"
+  },
+  "odissi-classical-music": {
+    "art_key": "196801:1783203964"
+  },
+  "southeast-asian-classical-music": {
+    "art_key": "35230:1782071491"
+  },
+  "burmese-classical-music": {
+    "art_key": "178398:1782076566"
+  },
+  "gamelan": {
+    "art_key": "45454:1783203982"
+  },
+  "balinese-gamelan": {
+    "art_key": "85182:1788956497"
+  },
+  "gamelan-angklung": {
+    "art_key": "107640:1783203996"
+  },
+  "gamelan-beleganjur": {
+    "art_key": "96074:1782071435"
+  },
+  "gamelan-gender-wayang": {
+    "art_key": "62176:1782077468"
+  },
+  "gamelan-gong-gede": {
+    "art_key": "76317:1783204019"
+  },
+  "gamelan-gong-kebyar": {
+    "art_key": "218987:1783204026"
+  },
+  "gamelan-jegog": {
+    "art_key": "114373:1783204031"
+  },
+  "gamelan-selonding": {
+    "art_key": "213806:1783204036"
+  },
+  "gamelan-semar-pegulingan": {
+    "art_key": "44424:1782071445"
+  },
+  "gamelan-degung": {
+    "art_key": "77906:1788956554"
+  },
+  "javanese-gamelan": {
+    "art_key": "53968:1788956614"
+  },
+  "gamelan-sekaten": {
+    "art_key": "33374:1783204067"
+  },
+  "solonese-gamelan": {
+    "art_key": "44013:1788972184"
+  },
+  "kacapi-suling": {
+    "art_key": "49482:1782159965"
+  },
+  "kulintang": {
+    "art_key": "105039:1783204091"
+  },
+  "mahori": {
+    "art_key": "146006:1783204097"
+  },
+  "malay-classical-music": {
+    "art_key": "37268:1783204101"
+  },
+  "pinpeat": {
+    "art_key": "184083:1783204108"
+  },
+  "saluang-klasik": {
+    "art_key": "250506:1783204119"
+  },
+  "tembang-sunda-cianjuran": {
+    "art_key": "105755:1783204123",
+    "audio_key": "8363123:1783204122|None|None|96k|full"
+  },
+  "thai-classical-music": {
+    "art_key": "61104:1782245673"
+  },
+  "fon-leb": {
+    "art_key": "26052:1782245514"
+  },
+  "piphat": {
+    "art_key": "208192:1783204151"
+  },
+  "tibetan-buddhist-chant": {
+    "art_key": "34586:1782075519",
+    "audio_key": "14122163:1783204157|None|None|96k|full"
+  },
+  "western-classical-music": {
+    "art_key": "41884:1788956779"
+  },
+  "art-song": {
+    "art_key": "147781:1783204168"
+  },
+  "elizabethan-song": {
+    "art_key": "55448:1783204172"
+  },
+  "lied": {
+    "art_key": "123579:1783204176"
+  },
+  "melodie": {
+    "art_key": "123444:1783204181"
+  },
+  "orchestral-song": {
+    "art_key": "197193:1783204186"
+  },
+  "bagatelle": {
+    "art_key": "54745:1783204197"
+  },
+  "ballet": {
+    "art_key": "129179:1783204201"
+  },
+  "ballet-de-cour": {
+    "art_key": "89682:1783204205"
+  },
+  "comedie-ballet": {
+    "art_key": "130990:1783204209"
+  },
+  "opera-ballet": {
+    "art_key": "90846:1783204214"
+  },
+  "baroque-music": {
+    "art_key": "135234:1788972037"
+  },
+  "zarzuela-barroca": {
+    "art_key": "182148:1783204227"
+  },
+  "baroque-suite": {
+    "art_key": "57643:1783204232"
+  },
+  "brazilian-classical-music": {
+    "art_key": "161996:1783204237"
+  },
+  "valsa-brasileira": {
+    "art_key": "42960:1788956851"
+  },
+  "byzantine-music": {
+    "art_key": "53042:1782071311"
+  },
+  "byzantine-chant": {
+    "art_key": "82614:1782068358"
+  },
+  "cantata": {
+    "art_key": "202821:1783204264"
+  },
+  "canzona": {
+    "art_key": "85934:1788956902"
+  },
+  "capriccio": {
+    "art_key": "106675:1783204310"
+  },
+  "chamber-music": {
+    "art_key": "17438:1788957016",
+    "audio_key": "7195918:1783204315|None|None|96k|full"
+  },
+  "string-quartet": {
+    "art_key": "103804:1783204322"
+  },
+  "character-piece": {
+    "art_key": "23934:1788957081"
+  },
+  "nocturne": {
+    "art_key": "107281:1783204339"
+  },
+  "choral": {
+    "art_key": "14818:1788957640",
+    "audio_key": "16525160:1789075699|None|None|96k|full"
+  },
+  "choral-concerto": {
+    "art_key": "5736:1788957712"
+  },
+  "choral-symphony": {
+    "art_key": "135877:1788972037"
+  },
+  "cinematic-classical": {
+    "art_key": "147378:1783204363"
+  },
+  "epic-music": {
+    "art_key": "78349:1783204369"
+  },
+  "spaghetti-western": {
+    "art_key": "153536:1783204374"
+  },
+  "classic-ragtime": {
+    "art_key": "74110:1789068247"
+  },
+  "classical-period": {
+    "art_key": "170537:1783204385"
+  },
+  "concerto": {
+    "art_key": "127721:1783204389"
+  },
+  "concerto-for-orchestra": {
+    "art_key": "162957:1783204395"
+  },
+  "concerto-grosso": {
+    "art_key": "77449:1788972037"
+  },
+  "sinfonia-concertante": {
+    "art_key": "199610:1783204405"
+  },
+  "divertissement": {
+    "art_key": "21888:1782077158"
+  },
+  "english-pastoral-school": {
+    "art_key": "220154:1783204415"
+  },
+  "fantasia": {
+    "art_key": "171102:1783204420"
+  },
+  "fugue": {
+    "art_key": "290376:1783204425"
+  },
+  "impromptu": {
+    "art_key": "94505:1783204429"
+  },
+  "latin-american-classical-music": {
+    "art_key": "58620:1788957968"
+  },
+  "light-music": {
+    "art_key": "70644:1788957994"
+  },
+  "madrigal": {
+    "art_key": "112261:1783204443"
+  },
+  "medieval-classical-music": {
+    "art_key": "105124:1782074489"
+  },
+  "ars-antiqua": {
+    "art_key": "194189:1783204454"
+  },
+  "ars-nova": {
+    "art_key": "133862:1783204458"
+  },
+  "ars-subtilior": {
+    "art_key": "182362:1783204464"
+  },
+  "medieval-lyric-poetry": {
+    "art_key": "232989:1783204469"
+  },
+  "plainsong": {
+    "art_key": "71122:1788958203"
+  },
+  "ambrosian-chant": {
+    "art_key": "128536:1788972214"
+  },
+  "canto-mozarabe": {
+    "art_key": "102773:1783204483"
+  },
+  "celtic-chant": {
+    "art_key": "101255:1783204488"
+  },
+  "gregorian-chant": {
+    "art_key": "102622:1788972223"
+  },
+  "sarum-chant": {
+    "art_key": "238943:1783204498"
+  },
+  "old-roman-chant": {
+    "art_key": "108951:1783204506"
+  },
+  "modern-classical": {
+    "art_key": "21928:1788958394"
+  },
+  "american-gamelan": {
+    "art_key": "235072:1783204517"
+  },
+  "expressionism": {
+    "art_key": "12846:1788958437",
+    "audio_key": "1753933:1783204522|None|None|96k|full"
+  },
+  "futurism": {
+    "art_key": "46462:1783194829"
+  },
+  "impressionism": {
+    "art_key": "151604:1783204531"
+  },
+  "indeterminacy": {
+    "art_key": "133598:1783204537"
+  },
+  "microtonal-classical": {
+    "art_key": "48877:1783204547"
+  },
+  "minimalism": {
+    "art_key": "122727:1783204551"
+  },
+  "holy-minimalism": {
+    "art_key": "62640:1783204556"
+  },
+  "musique-concrete-instrumentale": {
+    "art_key": "138150:1783204562"
+  },
+  "neoromanticism": {
+    "art_key": "207264:1783204567",
+    "audio_key": "3294696:1783204566|None|None|96k|full"
+  },
+  "new-complexity": {
+    "art_key": "162589:1783204573"
+  },
+  "post-minimalism": {
+    "art_key": "56805:1783204579"
+  },
+  "totalism": {
+    "art_key": "166699:1783204584"
+  },
+  "process-music": {
+    "art_key": "71327:1783204593"
+  },
+  "serialism": {
+    "art_key": "18712:1788958502"
+  },
+  "integral-serialism": {
+    "art_key": "96687:1783204602",
+    "audio_key": "1297008:1783204602|None|None|96k|full"
+  },
+  "sonorism": {
+    "art_key": "24952:1788958528"
+  },
+  "spectralism": {
+    "art_key": "175860:1783204612"
+  },
+  "stochastic-music": {
+    "art_key": "98767:1783204621"
+  },
+  "motet": {
+    "art_key": "27640:1788958554"
+  },
+  "neoclassicism": {
+    "art_key": "183530:1783204630"
+  },
+  "opera": {
+    "art_key": "60209:1783204636"
+  },
+  "ballad-opera": {
+    "art_key": "184403:1783204639"
+  },
+  "grand-opera": {
+    "art_key": "134975:1783204644"
+  },
+  "monodrama": {
+    "art_key": "44324:1783204652"
+  },
+  "opera-buffa": {
+    "art_key": "148603:1783204658"
+  },
+  "opera-semiseria": {
+    "art_key": "127496:1783204662"
+  },
+  "opera-seria": {
+    "art_key": "134686:1788972039"
+  },
+  "operetta": {
+    "art_key": "59136:1783204677",
+    "audio_key": "5515033:1783204673|None|None|96k|full"
+  },
+  "kalonny-fahiny": {
+    "art_key": "50598:1783204681"
+  },
+  "opera-comique": {
+    "art_key": "157514:1783204686"
+  },
+  "romantische-oper": {
+    "art_key": "26550:1788958743"
+  },
+  "singspiel": {
+    "art_key": "207970:1783204694"
+  },
+  "tragedie-en-musique": {
+    "art_key": "218853:1783204700"
+  },
+  "verismo": {
+    "art_key": "130249:1783204704"
+  },
+  "zarzuela": {
+    "art_key": "150403:1788972039"
+  },
+  "genero-chico": {
+    "art_key": "228653:1783204714"
+  },
+  "zarzuela-grande": {
+    "art_key": "164694:1783204719"
+  },
+  "zeitoper": {
+    "art_key": "191494:1788972040"
+  },
+  "oratorio": {
+    "art_key": "168860:1788972040"
+  },
+  "orchestral-music": {
+    "art_key": "104269:1788972489"
+  },
+  "tone-poem": {
+    "art_key": "79584:1788972040"
+  },
+  "overture": {
+    "art_key": "63870:1788958899"
+  },
+  "passion": {
+    "art_key": "147830:1783204749"
+  },
+  "prelude": {
+    "art_key": "151951:1783204753"
+  },
+  "renaissance-music": {
+    "art_key": "134660:1783204758"
+  },
+  "franco-flemish-school": {
+    "art_key": "120397:1783204763"
+  },
+  "ricercar": {
+    "art_key": "125019:1783204768"
+  },
+  "roman-school": {
+    "art_key": "93965:1783204772"
+  },
+  "romanticism": {
+    "art_key": "12532:1788984336"
+  },
+  "new-german-school": {
+    "art_key": "51672:1788984390"
+  },
+  "saint-petersburg-school": {
+    "art_key": "186365:1783204790"
+  },
+  "serenade": {
+    "art_key": "147076:1783204798"
+  },
+  "sonata": {
+    "art_key": "81416:1783204803"
+  },
+  "spanish-classical-music": {
+    "art_key": "53418:1783195209"
+  },
+  "symphony": {
+    "art_key": "117375:1788972041"
+  },
+  "theme-and-variation": {
+    "art_key": "102292:1783204825"
+  },
+  "toccata": {
+    "art_key": "105396:1783204829"
+  },
+  "etude": {
+    "art_key": "190811:1783204834"
+  },
+  "country": {
+    "art_key": "201336:1783204838"
+  },
+  "alt-country": {
+    "art_key": "123609:1783204843"
+  },
+  "gothic-country": {
+    "art_key": "195567:1783204849"
+  },
+  "bluegrass": {
+    "art_key": "121182:1783204852",
+    "audio_key": "2813903:1783204852|None|None|96k|full"
+  },
+  "progressive-bluegrass": {
+    "art_key": "230790:1783204856"
+  },
+  "jamgrass": {
+    "art_key": "118752:1783204862"
+  },
+  "traditional-bluegrass": {
+    "art_key": "163833:1788725834",
+    "audio_key": "4955761:1783204864|None|None|96k|full"
+  },
+  "bluegrass-gospel": {
+    "art_key": "108785:1783204872"
+  },
+  "contemporary-country": {
+    "art_key": "136745:1783204884"
+  },
+  "boyfriend-country": {
+    "art_key": "162614:1783204890"
+  },
+  "bro-country": {
+    "art_key": "73581:1783204914"
+  },
+  "neo-traditionalist-country": {
+    "art_key": "151904:1783204917"
+  },
+  "country-and-irish": {
+    "art_key": "311590:1783204921"
+  },
+  "country-boogie": {
+    "art_key": "122267:1783204925"
+  },
+  "country-folk": {
+    "art_key": "165805:1783204929"
+  },
+  "country-pop": {
+    "art_key": "110397:1783204933"
+  },
+  "countrypolitan": {
+    "art_key": "70136:1783204939"
+  },
+  "urban-cowboy": {
+    "art_key": "160256:1783204942"
+  },
+  "honky-tonk": {
+    "art_key": "31790:1788725951"
+  },
+  "bakersfield-sound": {
+    "art_key": "132119:1783204951"
+  },
+  "truck-driving-country": {
+    "art_key": "186431:1783204958"
+  },
+  "nashville-sound": {
+    "art_key": "97074:1783204962"
+  },
+  "progressive-country": {
+    "art_key": "120642:1783204967"
+  },
+  "outlaw-country": {
+    "art_key": "86387:1783204972"
+  },
+  "traditional-country": {
+    "art_key": "328723:1783204982"
+  },
+  "close-harmony": {
+    "art_key": "109909:1783204987",
+    "audio_key": "1897294:1783204987|None|None|96k|full"
+  },
+  "country-gospel": {
+    "art_key": "152456:1783204991"
+  },
+  "country-yodeling": {
+    "art_key": "160464:1783204995"
+  },
+  "western-2": {
+    "art_key": "116876:1783205001"
+  },
+  "western-swing": {
+    "art_key": "151691:1783205006",
+    "audio_key": "2319145:1783205006|None|None|96k|full"
+  },
+  "dance": {
+    "art_key": "73209:1783205011"
+  },
+  "alternative-dance": {
+    "art_key": "81557:1783205015"
+  },
+  "grebo": {
+    "art_key": "218678:1783205019"
+  },
+  "new-rave": {
+    "art_key": "152506:1783205023"
+  },
+  "dance-pop": {
+    "art_key": "104094:1783205027"
+  },
+  "bubblegum-dance": {
+    "art_key": "205192:1783205031"
+  },
+  "disco-polo": {
+    "art_key": "144078:1783205036"
+  },
+  "freestyle": {
+    "art_key": "54279:1783205039"
+  },
+  "latin-freestyle": {
+    "art_key": "102276:1783205044"
+  },
+  "funk-melody": {
+    "art_key": "106386:1783205048"
+  },
+  "romanian-popcorn": {
+    "art_key": "121102:1783205054"
+  },
+  "tecnorumba": {
+    "art_key": "161263:1783205058"
+  },
+  "township-bubblegum": {
+    "art_key": "105232:1783205063"
+  },
+  "disco": {
+    "art_key": "126719:1783205067"
+  },
+  "boogie": {
+    "art_key": "114805:1783205079"
+  },
+  "electro-disco": {
+    "art_key": "24531:1783205083"
+  },
+  "hi-nrg": {
+    "art_key": "82957:1783205087"
+  },
+  "italo-disco": {
+    "art_key": "136192:1783205092",
+    "audio_key": "6133024:1783205092|None|None|96k|full"
+  },
+  "spacesynth": {
+    "art_key": "107854:1783205097"
+  },
+  "doskpop": {
+    "art_key": "104260:1783205101"
+  },
+  "red-disco": {
+    "art_key": "179014:1783205107"
+  },
+  "space-disco": {
+    "art_key": "15570:1783205112"
+  },
+  "euro-disco": {
+    "art_key": "103640:1783205116"
+  },
+  "latin-disco": {
+    "art_key": "207179:1783205120"
+  },
+  "mutant-disco": {
+    "art_key": "114021:1783205125"
+  },
+  "nu-disco": {
+    "art_key": "55910:1783205128"
+  },
+  "electronic-dance-music": {
+    "art_key": "33021:1783205132"
+  },
+  "artcore": {
+    "art_key": "159582:1783205137"
+  },
+  "balani-show": {
+    "art_key": "83441:1783205141"
+  },
+  "balearic-beat": {
+    "art_key": "18160:1782073061"
+  },
+  "breakbeat": {
+    "art_key": "156494:1783205153"
+  },
+  "acid-breaks": {
+    "art_key": "94260:1783205158"
+  },
+  "baltimore-club": {
+    "art_key": "72108:1782073086"
+  },
+  "big-beat": {
+    "art_key": "104033:1783205170"
+  },
+  "breakbeat-hardcore": {
+    "art_key": "330589:1783205174",
+    "audio_key": "4683186:1783205174|None|None|96k|full"
+  },
+  "darkside": {
+    "art_key": "38824:1782073660"
+  },
+  "hardcore-breaks": {
+    "art_key": "244091:1783205186"
+  },
+  "breakbeat-kota": {
+    "art_key": "119330:1783205191"
+  },
+  "jungle-dutch": {
+    "art_key": "76127:1783205195"
+  },
+  "florida-breaks": {
+    "art_key": "71446:1783280180"
+  },
+  "funky-breaks": {
+    "art_key": "184081:1783205204"
+  },
+  "nu-skool-breaks": {
+    "art_key": "65596:1783205210"
+  },
+  "progressive-breaks": {
+    "art_key": "230883:1783205233"
+  },
+  "psybreaks": {
+    "art_key": "105759:1783205238"
+  },
+  "west-coast-breaks": {
+    "art_key": "227999:1783205243"
+  },
+  "broken-beat": {
+    "art_key": "66331:1783205248"
+  },
+  "bubblegum-bass": {
+    "art_key": "30389:1783205252"
+  },
+  "bubbling": {
+    "art_key": "100680:1783205257"
+  },
+  "budots": {
+    "art_key": "295156:1783205261"
+  },
+  "berite-club": {
+    "art_key": "101975:1783205266"
+  },
+  "coupe-decale": {
+    "art_key": "208880:1783205270"
+  },
+  "cruise": {
+    "art_key": "155990:1783205281"
+  },
+  "dariacore": {
+    "art_key": "64978:1783280241"
+  },
+  "deconstructed-club": {
+    "art_key": "116636:1783205290"
+  },
+  "dek-bass": {
+    "art_key": "29490:1782077060"
+  },
+  "digital-cumbia": {
+    "art_key": "63956:1782073687"
+  },
+  "drum-and-bass": {
+    "art_key": "111364:1783205304"
+  },
+  "atmospheric-drum-and-bass": {
+    "art_key": "248497:1783205308"
+  },
+  "dancefloor-drum-and-bass": {
+    "art_key": "192634:1783205312"
+  },
+  "darkstep": {
+    "art_key": "114333:1783205322"
+  },
+  "crossbreed": {
+    "art_key": "96117:1783205326"
+  },
+  "skullstep": {
+    "art_key": "134646:1783205330"
+  },
+  "deep-drum-and-bass": {
+    "art_key": "94027:1783205334"
+  },
+  "drumfunk": {
+    "art_key": "254657:1783205340"
+  },
+  "drumstep": {
+    "art_key": "126890:1783205345"
+  },
+  "dubwise-drum-and-bass": {
+    "art_key": "146919:1783205349"
+  },
+  "footwork-jungle": {
+    "art_key": "155434:1783205360"
+  },
+  "halftime": {
+    "art_key": "105218:1783205364"
+  },
+  "hardstep": {
+    "art_key": "84740:1783205368"
+  },
+  "jazzstep": {
+    "art_key": "69318:1783205372"
+  },
+  "jump-up": {
+    "art_key": "77379:1783205380"
+  },
+  "jungle": {
+    "art_key": "178345:1783205384"
+  },
+  "ragga-jungle": {
+    "art_key": "129622:1783205388"
+  },
+  "liquid-drum-and-bass": {
+    "art_key": "147844:1783205393"
+  },
+  "sambass": {
+    "art_key": "117158:1783205404"
+  },
+  "minimal-drum-and-bass": {
+    "art_key": "79934:1783205409"
+  },
+  "autonomic": {
+    "art_key": "149299:1783205414"
+  },
+  "microfunk": {
+    "art_key": "64950:1783205417"
+  },
+  "neurofunk": {
+    "art_key": "140699:1788726940"
+  },
+  "technoid": {
+    "art_key": "42141:1783205426"
+  },
+  "techstep": {
+    "art_key": "81543:1783205431"
+  },
+  "trancestep": {
+    "art_key": "76509:1783205437"
+  },
+  "dubstep": {
+    "art_key": "85759:1783205441"
+  },
+  "brostep": {
+    "art_key": "216114:1783205446"
+  },
+  "briddim": {
+    "art_key": "107703:1783205451"
+  },
+  "colour-bass": {
+    "art_key": "222537:1783205456"
+  },
+  "deathstep": {
+    "art_key": "116682:1783205460",
+    "audio_key": "3193610:1783205460|None|None|96k|full"
+  },
+  "minatory": {
+    "art_key": "191141:1783205465"
+  },
+  "tearout-brostep": {
+    "art_key": "47780:1783205470"
+  },
+  "chillstep": {
+    "art_key": "62980:1783205475"
+  },
+  "dungeon-sound": {
+    "art_key": "107281:1783205480"
+  },
+  "melodic-dubstep": {
+    "art_key": "102430:1783205485"
+  },
+  "purple-sound": {
+    "art_key": "58377:1783205489"
+  },
+  "riddim": {
+    "art_key": "130268:1783205494"
+  },
+  "future-riddim": {
+    "art_key": "238777:1783205499"
+  },
+  "liquid-riddim": {
+    "art_key": "96414:1783205504"
+  },
+  "tearout-1": {
+    "art_key": "153091:1783205508"
+  },
+  "ebm": {
+    "art_key": "156579:1783205514"
+  },
+  "dark-electro": {
+    "art_key": "131685:1783205517"
+  },
+  "aggrotech": {
+    "art_key": "250855:1783205522"
+  },
+  "futurepop": {
+    "art_key": "141820:1783205527"
+  },
+  "new-beat": {
+    "art_key": "161643:1783205531"
+  },
+  "hard-beat": {
+    "art_key": "97293:1783205536"
+  },
+  "east-coast-club": {
+    "art_key": "76161:1783205543"
+  },
+  "jersey-club": {
+    "art_key": "236311:1783205549"
+  },
+  "philly-club": {
+    "art_key": "176202:1783205553"
+  },
+  "electro": {
+    "art_key": "111184:1783205557"
+  },
+  "electro-swing": {
+    "art_key": "63531:1783205561"
+  },
+  "electro-latino": {
+    "art_key": "177583:1783205567"
+  },
+  "electroclash": {
+    "art_key": "145975:1783205571"
+  },
+  "eurobeat": {
+    "art_key": "82869:1783205576"
+  },
+  "j-euro": {
+    "art_key": "38862:1782159819"
+  },
+  "eurodance": {
+    "art_key": "171500:1783205585"
+  },
+  "italo-dance": {
+    "art_key": "149284:1783205599"
+  },
+  "flex-dance-music": {
+    "art_key": "56709:1783205606"
+  },
+  "footwork": {
+    "art_key": "201198:1783205610"
+  },
+  "funk-mandelao": {
+    "art_key": "96877:1783205615"
+  },
+  "beat-bruxaria": {
+    "art_key": "27369:1788729620"
+  },
+  "brazilian-phonk": {
+    "art_key": "151256:1783205625"
+  },
+  "funk-automotivo": {
+    "art_key": "122585:1783205630"
+  },
+  "ritmada": {
+    "art_key": "178686:1783205634"
+  },
+  "funkot": {
+    "art_key": "155114:1783205645"
+  },
+  "future-bass": {
+    "art_key": "53729:1788729714"
+  },
+  "kawaii-future-bass": {
+    "art_key": "148204:1783205654"
+  },
+  "future-core": {
+    "art_key": "104325:1783205658"
+  },
+  "future-rave": {
+    "art_key": "109985:1783205663"
+  },
+  "ghettotech": {
+    "art_key": "26084:1782077489"
+  },
+  "glitch-hop-edm": {
+    "art_key": "79637:1783205675"
+  },
+  "ghetto-funk": {
+    "art_key": "129781:1783205681"
+  },
+  "neurohop": {
+    "art_key": "35414:1783205686"
+  },
+  "gqom": {
+    "art_key": "15002:1782073938"
+  },
+  "grime": {
+    "art_key": "62151:1783205694"
+  },
+  "neo-grime": {
+    "art_key": "139849:1783205699",
+    "audio_key": "3176646:1783205698|None|None|96k|full"
+  },
+  "weightless": {
+    "art_key": "212328:1783205709",
+    "audio_key": "3573476:1783205709|None|None|96k|full"
+  },
+  "hard-dance": {
+    "art_key": "83366:1782077573"
+  },
+  "hard-trance": {
+    "art_key": "128955:1783205718"
+  },
+  "hardstyle": {
+    "art_key": "44990:1788781469"
+  },
+  "dubstyle": {
+    "art_key": "132822:1783205728"
+  },
+  "early-hardstyle": {
+    "art_key": "130597:1783205734"
+  },
+  "euphoric-hardstyle": {
+    "art_key": "199890:1783205738"
+  },
+  "nustyle": {
+    "art_key": "224168:1791661427"
+  },
+  "psystyle": {
+    "art_key": "196458:1783205748"
+  },
+  "rawstyle": {
+    "art_key": "163846:1783205753"
+  },
+  "rawphoric": {
+    "art_key": "219194:1783205758"
+  },
+  "jumpstyle": {
+    "art_key": "147131:1783205763"
+  },
+  "lento-violento": {
+    "art_key": "76494:1783205769"
+  },
+  "nrg": {
+    "art_key": "711552:1788782330"
+  },
+  "uk-hard-house": {
+    "art_key": "105791:1783205779"
+  },
+  "scouse-house": {
+    "art_key": "33090:1782162091"
+  },
+  "hardbass": {
+    "art_key": "345447:1783205787"
+  },
+  "speed-house": {
+    "art_key": "38276:1783112236"
+  },
+  "hard-drum": {
+    "art_key": "92662:1783205796"
+  },
+  "hardcore-edm": {
+    "art_key": "59607:1783205800"
+  },
+  "acidcore": {
+    "art_key": "172396:1783205805"
+  },
+  "amigacore": {
+    "art_key": "198930:1782075995"
+  },
+  "belgian-techno": {
+    "art_key": "158581:1783205815"
+  },
+  "breakcore": {
+    "art_key": "174468:1783205821"
+  },
+  "lolicore": {
+    "art_key": "113347:1783205830"
+  },
+  "mashcore": {
+    "art_key": "152801:1783205834"
+  },
+  "raggacore": {
+    "art_key": "116490:1791661127"
+  },
+  "darkcore": {
+    "art_key": "75005:1783205844"
+  },
+  "deathchant-hardcore": {
+    "art_key": "85920:1783205850"
+  },
+  "digital-hardcore": {
+    "art_key": "259500:1783205855",
+    "audio_key": "3672720:1783205855|None|None|96k|full"
+  },
+  "doomcore": {
+    "art_key": "107845:1783205859"
+  },
+  "frapcore": {
+    "art_key": "191037:1783205870"
+  },
+  "freeform-hardcore": {
+    "art_key": "44584:1783112425"
+  },
+  "frenchcore": {
+    "art_key": "137086:1783205878"
+  },
+  "gabber": {
+    "art_key": "92208:1788783930"
+  },
+  "nu-style-gabber": {
+    "art_key": "118116:1783205889"
+  },
+  "happy-hardcore": {
+    "art_key": "235909:1783205894"
+  },
+  "bouncy-techno": {
+    "art_key": "46729:1783205898"
+  },
+  "uk-hardcore": {
+    "art_key": "138352:1783205909"
+  },
+  "powerstomp": {
+    "art_key": "116232:1783205913"
+  },
+  "hardtek": {
+    "art_key": "165870:1783205919"
+  },
+  "raggatek": {
+    "art_key": "160037:1783205923"
+  },
+  "industrial-hardcore": {
+    "art_key": "66476:1783205934"
+  },
+  "speedcore": {
+    "art_key": "42404:1783205939"
+  },
+  "extratone": {
+    "art_key": "57342:1782077331"
+  },
+  "splittercore": {
+    "art_key": "71234:1782075382"
+  },
+  "terrorcore": {
+    "art_key": "206031:1783205956"
+  },
+  "uptempo-hardcore": {
+    "art_key": "143011:1783205962"
+  },
+  "hardvapour": {
+    "art_key": "66392:1782077600"
+  },
+  "hardwave": {
+    "art_key": "53549:1783205971"
+  },
+  "house": {
+    "art_key": "138018:1783205975",
+    "audio_key": "4020016:1783205974|None|None|96k|full"
+  },
+  "acid-house": {
+    "art_key": "53680:1788784333"
+  },
+  "afro-house": {
+    "art_key": "161284:1783205991"
+  },
+  "3-step": {
+    "art_key": "149689:1783206002"
+  },
+  "amapiano": {
+    "art_key": "161925:1783206007"
+  },
+  "afropiano": {
+    "art_key": "128667:1783206012"
+  },
+  "ambient-house": {
+    "art_key": "69532:1783206016"
+  },
+  "ballroom": {
+    "art_key": "162381:1783206020"
+  },
+  "bass-house": {
+    "art_key": "31284:1782076323"
+  },
+  "bassline": {
+    "art_key": "89388:1783206028"
+  },
+  "big-room-house": {
+    "art_key": "59486:1783206032"
+  },
+  "brazilian-bass": {
+    "art_key": "162528:1783206038"
+  },
+  "mega-funk": {
+    "art_key": "191245:1783206042"
+  },
+  "slap-house": {
+    "art_key": "83326:1783206048"
+  },
+  "bubbling-house": {
+    "art_key": "97499:1783206053"
+  },
+  "changa-tuki": {
+    "art_key": "298870:1783206058"
+  },
+  "chicago-hard-house": {
+    "art_key": "65320:1782076798"
+  },
+  "la-hard-house": {
+    "art_key": "75312:1782074298"
+  },
+  "chicago-house": {
+    "art_key": "180236:1783206083"
+  },
+  "deep-house": {
+    "art_key": "49848:1782073671"
+  },
+  "lo-fi-house": {
+    "art_key": "17693:1783206092"
+  },
+  "diva-house": {
+    "art_key": "54604:1783206098"
+  },
+  "hardbag": {
+    "art_key": "137969:1783206103"
+  },
+  "electro-house": {
+    "art_key": "265570:1783206113"
+  },
+  "complextro": {
+    "art_key": "32075:1783206117"
+  },
+  "dutch-house": {
+    "art_key": "37480:1783206121",
+    "audio_key": "1726705:1783206120|None|None|96k|full"
+  },
+  "noiadance": {
+    "art_key": "91875:1783206125"
+  },
+  "fidget-house": {
+    "art_key": "15360:1783206130"
+  },
+  "french-electro": {
+    "art_key": "141464:1783206134"
+  },
+  "melbourne-bounce": {
+    "art_key": "81588:1783206139"
+  },
+  "eletrofunk": {
+    "art_key": "122304:1783206144"
+  },
+  "euro-house": {
+    "art_key": "129159:1783206147"
+  },
+  "festival-progressive-house": {
+    "art_key": "343324:1783206152"
+  },
+  "french-house": {
+    "art_key": "143228:1783206156"
+  },
+  "funky-house": {
+    "art_key": "191995:1783206161"
+  },
+  "future-funk": {
+    "art_key": "4094:1782077459"
+  },
+  "future-house": {
+    "art_key": "60888:1783206170"
+  },
+  "future-bounce": {
+    "art_key": "162583:1783206174"
+  },
+  "g-house": {
+    "art_key": "79532:1783206178"
+  },
+  "garage-house": {
+    "art_key": "138584:1783206183"
+  },
+  "gospel-house": {
+    "art_key": "102935:1783206187"
+  },
+  "jersey-sound": {
+    "art_key": "53065:1783206193"
+  },
+  "ghetto-house": {
+    "art_key": "148422:1783206197"
+  },
+  "juke": {
+    "art_key": "215707:1783206201"
+  },
+  "hip-house": {
+    "art_key": "133367:1783206206"
+  },
+  "italo-house": {
+    "art_key": "90185:1783206211"
+  },
+  "jackin-house": {
+    "art_key": "55766:1782159861"
+  },
+  "kwaito": {
+    "art_key": "113963:1783206220"
+  },
+  "bacardi": {
+    "art_key": "204719:1783206225"
+  },
+  "latin-house": {
+    "art_key": "25968:1782160453"
+  },
+  "melodic-house": {
+    "art_key": "57798:1783206232"
+  },
+  "microhouse": {
+    "art_key": "54262:1783206237"
+  },
+  "organic-house": {
+    "art_key": "143180:1783206242"
+  },
+  "outsider-house": {
+    "art_key": "224490:1783206247"
+  },
+  "phonk-house": {
+    "art_key": "52114:1783206251"
+  },
+  "progressive-house": {
+    "art_key": "131729:1783206256"
+  },
+  "speed-garage": {
+    "art_key": "138316:1783206259"
+  },
+  "stutter-house": {
+    "art_key": "107163:1783206265"
+  },
+  "tech-house": {
+    "art_key": "15649:1783206269"
+  },
+  "deep-tech": {
+    "art_key": "178879:1783206279"
+  },
+  "rominimal": {
+    "art_key": "44034:1783206284"
+  },
+  "tribal-house": {
+    "art_key": "216909:1783206287"
+  },
+  "guaracha-edm": {
+    "art_key": "185723:1783206293"
+  },
+  "tropical-house": {
+    "art_key": "156607:1783206297"
+  },
+  "uk-jackin": {
+    "art_key": "234172:1783206301"
+  },
+  "vinahouse": {
+    "art_key": "31200:1783206305"
+  },
+  "hyper-techno": {
+    "art_key": "94086:1782159599"
+  },
+  "hypertechno": {
+    "art_key": "102488:1783206316"
+  },
+  "jungle-terror": {
+    "art_key": "29978:1783206321"
+  },
+  "krushclub": {
+    "art_key": "133567:1783206326"
+  },
+  "kuduro": {
+    "art_key": "76034:1783206331",
+    "audio_key": "4031553:1783206331|None|None|96k|full"
+  },
+  "batida": {
+    "art_key": "124180:1783206335"
+  },
+  "makina": {
+    "art_key": "158116:1783206339"
+  },
+  "manyao": {
+    "art_key": "56299:1783206349"
+  },
+  "melodic-bass": {
+    "art_key": "109361:1783206353"
+  },
+  "midtempo-bass": {
+    "art_key": "150225:1783206367"
+  },
+  "moombahcore": {
+    "art_key": "164989:1783206370"
+  },
+  "moombahton": {
+    "art_key": "85502:1782160911"
+  },
+  "nerdcore-techno": {
+    "art_key": "172117:1783206379"
+  },
+  "post-dubstep": {
+    "art_key": "91734:1783206390"
+  },
+  "shangaan-electro": {
+    "art_key": "230049:1783206395"
+  },
+  "singeli": {
+    "art_key": "111750:1783206400"
+  },
+  "skweee": {
+    "art_key": "14854:1782075272"
+  },
+  "slimepunk": {
+    "art_key": "194459:1783206410"
+  },
+  "techno": {
+    "art_key": "57529:1783206415",
+    "audio_key": "1614742:1783206415|None|None|96k|full"
+  },
+  "acid-techno": {
+    "art_key": "30848:1782072730"
+  },
+  "ambient-techno": {
+    "art_key": "32277:1783206426"
+  },
+  "bleep-techno": {
+    "art_key": "27338:1783206430"
+  },
+  "detroit-techno": {
+    "art_key": "162336:1783206435"
+  },
+  "freetekno": {
+    "art_key": "61520:1782073864"
+  },
+  "hard-techno": {
+    "art_key": "217014:1783206449"
+  },
+  "schranz": {
+    "art_key": "227522:1783206453"
+  },
+  "hardgroove-techno": {
+    "art_key": "21386:1783206457"
+  },
+  "industrial-techno": {
+    "art_key": "52877:1783206461"
+  },
+  "birmingham-sound": {
+    "art_key": "53118:1783206465"
+  },
+  "melodic-techno": {
+    "art_key": "206484:1783206469"
+  },
+  "minimal-techno": {
+    "art_key": "171547:1783206475"
+  },
+  "dub-techno": {
+    "art_key": "189803:1783206481"
+  },
+  "peak-time-techno": {
+    "art_key": "92861:1783206486"
+  },
+  "wonky-techno": {
+    "art_key": "153017:1783206492"
+  },
+  "techno-bass": {
+    "art_key": "234593:1783206495"
+  },
+  "car-audio-bass": {
+    "art_key": "135226:1783206501"
+  },
+  "trance": {
+    "art_key": "159371:1783206506"
+  },
+  "acid-trance": {
+    "art_key": "19558:1782746324"
+  },
+  "big-room-trance": {
+    "art_key": "38262:1783206517"
+  },
+  "dream-trance": {
+    "art_key": "14342:1782077176"
+  },
+  "euro-trance": {
+    "art_key": "187797:1783206526"
+  },
+  "hands-up": {
+    "art_key": "181783:1783206530"
+  },
+  "buchiage-trance": {
+    "art_key": "140445:1783206534"
+  },
+  "hi-tech-full-on": {
+    "art_key": "68584:1783206539"
+  },
+  "ibiza-trance": {
+    "art_key": "64544:1783206543"
+  },
+  "progressive-trance": {
+    "art_key": "90678:1783206547"
+  },
+  "psytrance": {
+    "art_key": "112482:1782074997"
+  },
+  "dark-psytrance": {
+    "art_key": "188646:1788811118"
+  },
+  "hi-tech-psytrance": {
+    "art_key": "179459:1783206561"
+  },
+  "psycore": {
+    "art_key": "45802:1782074969"
+  },
+  "forest-psytrance": {
+    "art_key": "198247:1783206568"
+  },
+  "full-on-psytrance": {
+    "art_key": "152842:1782073895"
+  },
+  "goa-trance": {
+    "art_key": "196897:1783206578"
+  },
+  "nitzhonot": {
+    "art_key": "162801:1783206584"
+  },
+  "progressive-psytrance": {
+    "art_key": "100532:1783206589"
+  },
+  "zenonesque": {
+    "art_key": "289717:1783206594"
+  },
+  "suomisaundi": {
+    "art_key": "167939:1783206598"
+  },
+  "tech-trance": {
+    "art_key": "174489:1783206603"
+  },
+  "uplifting-trance": {
+    "art_key": "83554:1783206609"
+  },
+  "vocal-trance": {
+    "art_key": "73170:1783206614"
+  },
+  "trap-edm": {
+    "art_key": "205608:1783206618",
+    "audio_key": "1507661:1783206617|None|None|96k|full"
+  },
+  "festival-trap": {
+    "art_key": "42071:1783206623"
+  },
+  "hard-trap": {
+    "art_key": "209876:1783206628"
+  },
+  "heaven-trap": {
+    "art_key": "249106:1783206633"
+  },
+  "hybrid-trap": {
+    "art_key": "79854:1783206638"
+  },
+  "twerk": {
+    "art_key": "89016:1783206643"
+  },
+  "tribal-guarachero": {
+    "art_key": "96583:1783206649"
+  },
+  "uk-bass": {
+    "art_key": "137771:1783206654"
+  },
+  "uk-funky": {
+    "art_key": "99514:1783206658"
+  },
+  "uk-garage": {
+    "art_key": "59774:1783206662"
+  },
+  "2-step": {
+    "art_key": "55241:1783206665"
+  },
+  "breakstep": {
+    "art_key": "202818:1783206676"
+  },
+  "future-garage": {
+    "art_key": "106903:1783206680",
+    "audio_key": "3831677:1783206680|None|None|96k|full"
+  },
+  "wonky": {
+    "art_key": "256629:1783206684"
+  },
+  "aquacrunk": {
+    "art_key": "113248:1783206688"
+  },
+  "miami-bass": {
+    "art_key": "145164:1783206694"
+  },
+  "atlanta-bass": {
+    "art_key": "114508:1788811476",
+    "audio_key": "3913256:1783206717|None|None|96k|full"
+  },
+  "tamborzao": {
+    "art_key": "165868:1783206721"
+  },
+  "wa-euro": {
+    "art_key": "107645:1783206726"
+  },
+  "easy-listening": {
+    "art_key": "121248:1783206731"
+  },
+  "cocktail-nation": {
+    "art_key": "72918:1783206738"
+  },
+  "exotica": {
+    "art_key": "176219:1783206744"
+  },
+  "sitarsploitation": {
+    "art_key": "247084:1783206749"
+  },
+  "lounge": {
+    "art_key": "60927:1783206758"
+  },
+  "pops-orchestra": {
+    "art_key": "369339:1788811841"
+  },
+  "space-age-pop": {
+    "art_key": "32430:1788811948"
+  },
+  "electronic": {
+    "art_key": "173324:1783206772"
+  },
+  "acholitronix": {
+    "art_key": "215065:1783206777"
+  },
+  "algorave": {
+    "art_key": "148822:1783206782"
+  },
+  "binaural-beats": {
+    "art_key": "91819:1783206786"
+  },
+  "bit-music": {
+    "art_key": "53742:1788985780"
+  },
+  "chiptune": {
+    "art_key": "62844:1782076924"
+  },
+  "fm-synthesis": {
+    "art_key": "109916:1782077411"
+  },
+  "midi-music": {
+    "art_key": "186603:1783206805"
+  },
+  "black-midi": {
+    "art_key": "102066:1783206811"
+  },
+  "sequencer-and-tracker": {
+    "art_key": "225217:1783206823"
+  },
+  "16-bit": {
+    "art_key": "24534:1782075664"
+  },
+  "tracker-music": {
+    "art_key": "53406:1788986018"
+  },
+  "demostyle": {
+    "art_key": "7306:1782163848"
+  },
+  "bitpop": {
+    "art_key": "137865:1783206846",
+    "audio_key": "3381272:1783206845|None|None|96k|full"
+  },
+  "celtic-electronica": {
+    "art_key": "94817:1783206849"
+  },
+  "chillout": {
+    "art_key": "86571:1783206855"
+  },
+  "ambient-dub": {
+    "art_key": "71238:1783206858"
+  },
+  "ambient-trance": {
+    "art_key": "72184:1782075977"
+  },
+  "barber-beats": {
+    "art_key": "46888:1782076304"
+  },
+  "downtempo": {
+    "art_key": "76246:1783206875"
+  },
+  "trip-hop": {
+    "art_key": "84015:1783206880"
+  },
+  "psybient": {
+    "art_key": "78158:1783206883"
+  },
+  "digital-fusion": {
+    "art_key": "112262:1783206888"
+  },
+  "drift-phonk": {
+    "art_key": "54099:1783206891"
+  },
+  "dungeon-synth": {
+    "art_key": "215834:1788986082"
+  },
+  "comfy-synth": {
+    "art_key": "142025:1783206898"
+  },
+  "winter-synth": {
+    "art_key": "17160:1782162926"
+  },
+  "electro-hop": {
+    "art_key": "67273:1783206906"
+  },
+  "electro-industrial": {
+    "art_key": "170730:1783206917"
+  },
+  "electroacoustic": {
+    "art_key": "59625:1783206922"
+  },
+  "acousmatic-music": {
+    "art_key": "70902:1782075838"
+  },
+  "eai": {
+    "art_key": "50941:1783206932"
+  },
+  "musique-concrete": {
+    "art_key": "35914:1783206943"
+  },
+  "electropop": {
+    "art_key": "17584:1783206947"
+  },
+  "epic-collage": {
+    "art_key": "40268:1782077243"
+  },
+  "flashcore": {
+    "art_key": "15024:1783206966"
+  },
+  "folktronica": {
+    "art_key": "9664:1782077442"
+  },
+  "funktronica": {
+    "art_key": "206051:1783206976"
+  },
+  "glitch": {
+    "art_key": "108322:1783206981"
+  },
+  "glitch-hop": {
+    "art_key": "62399:1783206985"
+  },
+  "graphical-sound": {
+    "art_key": "130071:1783206989"
+  },
+  "hexd": {
+    "art_key": "98534:1783206995"
+  },
+  "horror-synth": {
+    "art_key": "186691:1783206999"
+  },
+  "hyperpop": {
+    "art_key": "85492:1783207004"
+  },
+  "idm": {
+    "art_key": "187046:1783207013"
+  },
+  "drill-and-bass": {
+    "art_key": "112421:1783207017"
+  },
+  "illbient": {
+    "art_key": "268633:1783207021"
+  },
+  "indietronica": {
+    "art_key": "163372:1783207025"
+  },
+  "chillwave": {
+    "art_key": "128400:1783207031"
+  },
+  "chillsynth": {
+    "art_key": "150214:1783207037"
+  },
+  "glitch-pop": {
+    "art_key": "145083:1783207042"
+  },
+  "picopop": {
+    "art_key": "192799:1783207048"
+  },
+  "latin-electronic": {
+    "art_key": "51544:1782160338"
+  },
+  "electrotango": {
+    "art_key": "140476:1783207057"
+  },
+  "nortec": {
+    "art_key": "23595:1783207062"
+  },
+  "livetronica": {
+    "art_key": "209247:1783207072"
+  },
+  "maloya-electronique": {
+    "art_key": "254261:1783207077"
+  },
+  "micromontage": {
+    "art_key": "100592:1783207081"
+  },
+  "minimal-wave": {
+    "art_key": "126167:1783207085",
+    "audio_key": "9700113:1783207085|None|None|96k|full"
+  },
+  "minimal-synth": {
+    "art_key": "106999:1783207089"
+  },
+  "moogsploitation": {
+    "art_key": "67104:1788986591"
+  },
+  "nightcore": {
+    "art_key": "34254:1782074782"
+  },
+  "nu-jazz": {
+    "art_key": "48866:1783207101"
+  },
+  "power-electronics": {
+    "art_key": "111070:1783207106"
+  },
+  "death-industrial": {
+    "art_key": "122485:1783207111"
+  },
+  "power-noise": {
+    "art_key": "34872:1782161602"
+  },
+  "progressive-electronic": {
+    "art_key": "31162:1783207119",
+    "audio_key": "7223131:1783207119|None|None|96k|full"
+  },
+  "berlin-school": {
+    "art_key": "90050:1783207125"
+  },
+  "synth-punk": {
+    "art_key": "130609:1783207128"
+  },
+  "synthpop": {
+    "art_key": "105974:1783207132"
+  },
+  "pon-chak-disco": {
+    "art_key": "114941:1783207136"
+  },
+  "techno-kayo": {
+    "art_key": "173194:1783207140"
+  },
+  "synthwave": {
+    "art_key": "117937:1783207145"
+  },
+  "darksynth": {
+    "art_key": "193244:1783207150"
+  },
+  "sovietwave": {
+    "art_key": "73548:1782075354"
+  },
+  "tecnobrega": {
+    "art_key": "319622:1783207160"
+  },
+  "tecnofunk": {
+    "art_key": "173684:1783207164",
+    "audio_key": "2525183:1783207163|None|None|96k|full"
+  },
+  "vapor": {
+    "art_key": "198858:1783207168"
+  },
+  "dreampunk": {
+    "art_key": "213871:1783207172"
+  },
+  "utopian-virtual": {
+    "art_key": "128956:1783207177"
+  },
+  "vapornoise": {
+    "art_key": "83944:1782162798"
+  },
+  "vaportrap": {
+    "art_key": "100359:1783207186"
+  },
+  "vaporwave": {
+    "art_key": "5810:1788986780"
+  },
+  "broken-transmission": {
+    "art_key": "29878:1788986846"
+  },
+  "eccojams": {
+    "art_key": "54169:1783207214"
+  },
+  "mallsoft": {
+    "art_key": "141265:1783207218"
+  },
+  "slushwave": {
+    "art_key": "9330:1782162373"
+  },
+  "wave": {
+    "art_key": "20438:1782162899"
+  },
+  "witch-house": {
+    "art_key": "195231:1783207232"
+  },
+  "experimental": {
+    "art_key": "94009:1783207236"
+  },
+  "conducted-improvisation": {
+    "art_key": "119083:1783207241"
+  },
+  "data-sonification": {
+    "art_key": "2864:1782076983"
+  },
+  "drone": {
+    "art_key": "150475:1783207255"
+  },
+  "free-improvisation": {
+    "art_key": "25892:1782073840"
+  },
+  "industrial": {
+    "art_key": "22311:1788813375"
+  },
+  "modern-creative": {
+    "art_key": "96332:1783207273"
+  },
+  "noise": {
+    "art_key": "164714:1783207279"
+  },
+  "ambient-noise-wall": {
+    "art_key": "67178:1782075960"
+  },
+  "black-noise": {
+    "art_key": "53222:1782076472"
+  },
+  "gorenoise": {
+    "art_key": "93586:1783207296"
+  },
+  "harsh-noise": {
+    "art_key": "42016:1783207305"
+  },
+  "harsh-noise-wall": {
+    "art_key": "10152:1782074017"
+  },
+  "plunderphonics": {
+    "art_key": "215998:1783207315"
+  },
+  "reductionism": {
+    "art_key": "64286:1788814080"
+  },
+  "lowercase": {
+    "art_key": "179326:1783207331"
+  },
+  "onkyo": {
+    "art_key": "40639:1783207337"
+  },
+  "sound-art": {
+    "art_key": "126881:1783207345"
+  },
+  "sound-collage": {
+    "art_key": "44144:1788814188"
+  },
+  "sound-poetry": {
+    "art_key": "22796:1788814303"
+  },
+  "tape-music": {
+    "art_key": "89548:1783207362"
+  },
+  "turntable-music": {
+    "art_key": "90691:1783207370"
+  },
+  "folk": {
+    "art_key": "107119:1783207375"
+  },
+  "contemporary-folk": {
+    "art_key": "222550:1783207379"
+  },
+  "american-primitivism": {
+    "art_key": "44413:1783207383"
+  },
+  "anti-folk": {
+    "art_key": "163298:1783207387"
+  },
+  "avant-folk": {
+    "art_key": "164893:1783207392"
+  },
+  "free-folk": {
+    "art_key": "172974:1783207400"
+  },
+  "campus-folk": {
+    "art_key": "20130:1788988944"
+  },
+  "chamber-folk": {
+    "art_key": "159691:1783207410"
+  },
+  "folk-baroque": {
+    "art_key": "178872:1783207415"
+  },
+  "folk-pop": {
+    "art_key": "119510:1783207419",
+    "audio_key": "5060277:1783207419|None|None|96k|full"
+  },
+  "stomp-and-holler": {
+    "art_key": "53706:1783207424"
+  },
+  "indie-folk": {
+    "art_key": "157246:1783207427",
+    "audio_key": "5120561:1783207427|None|None|96k|full"
+  },
+  "loner-folk": {
+    "art_key": "23114:1783207432"
+  },
+  "neofolk": {
+    "art_key": "163426:1783207436"
+  },
+  "dark-folk": {
+    "art_key": "223310:1783207448"
+  },
+  "neofolklore": {
+    "art_key": "38764:1788897608"
+  },
+  "progressive-folk": {
+    "art_key": "139094:1783207458"
+  },
+  "psychedelic-folk": {
+    "art_key": "141568:1783207463",
+    "audio_key": "3623436:1783207462|None|None|96k|full"
+  },
+  "freak-folk": {
+    "art_key": "129843:1783207469"
+  },
+  "udigrudi": {
+    "art_key": "34722:1782075539"
+  },
+  "wyrd-folk": {
+    "art_key": "97299:1783207478"
+  },
+  "skiffle": {
+    "art_key": "93690:1783207482"
+  },
+  "traditional-folk-music": {
+    "art_key": "125981:1783207486"
+  },
+  "african-folk-music": {
+    "art_key": "61036:1782075852"
+  },
+  "ambasse-bey": {
+    "art_key": "77870:1783207497"
+  },
+  "apala": {
+    "art_key": "228425:1783207501"
+  },
+  "batuque": {
+    "art_key": "102662:1783207506"
+  },
+  "dagomba-music": {
+    "art_key": "101888:1783207511"
+  },
+  "gnawa": {
+    "art_key": "44748:1788900436"
+  },
+  "malagasy-folk-music": {
+    "art_key": "26426:1788900490"
+  },
+  "mbenga-mbuti-music": {
+    "art_key": "192941:1783207530"
+  },
+  "ngoma": {
+    "art_key": "127729:1783207535"
+  },
+  "southern-african-folk-music": {
+    "art_key": "110078:1783207541"
+  },
+  "afrikaner-folk-music": {
+    "art_key": "155955:1783207547"
+  },
+  "khoisan-folk-music": {
+    "art_key": "137739:1783207551"
+  },
+  "nguni-folk-music": {
+    "art_key": "110226:1783207555"
+  },
+  "sotho-tswana-folk-music": {
+    "art_key": "68160:1783207560"
+  },
+  "tchinkoume": {
+    "art_key": "59466:1782075449"
+  },
+  "traditional-maloya": {
+    "art_key": "149224:1783207577"
+  },
+  "traditional-sega": {
+    "art_key": "140256:1783207587"
+  },
+  "zinli": {
+    "art_key": "39592:1782162961"
+  },
+  "american-folk-music": {
+    "art_key": "116129:1783207595"
+  },
+  "appalachian-folk-music": {
+    "art_key": "46034:1788900665"
+  },
+  "old-time": {
+    "art_key": "141514:1783207624"
+  },
+  "field-hollers": {
+    "art_key": "124450:1783207631"
+  },
+  "ring-shout": {
+    "art_key": "130411:1783207635"
+  },
+  "sacred-harp-singing": {
+    "art_key": "120305:1783207638"
+  },
+  "spiritual": {
+    "art_key": "83215:1783207644"
+  },
+  "talking-blues": {
+    "art_key": "118082:1783207647"
+  },
+  "traditional-black-gospel": {
+    "art_key": "153148:1783207652"
+  },
+  "traditional-cajun-music": {
+    "art_key": "43624:1788900939"
+  },
+  "arabic-folk-music": {
+    "art_key": "50878:1783207661"
+  },
+  "aita": {
+    "art_key": "23324:1782072755"
+  },
+  "arabic-bellydance-music": {
+    "art_key": "23646:1782073009"
+  },
+  "raqs-baladi": {
+    "art_key": "188681:1783207673"
+  },
+  "ayyalah": {
+    "art_key": "59687:1783207677"
+  },
+  "saidi": {
+    "art_key": "166121:1783207681"
+  },
+  "australian-folk-music": {
+    "art_key": "128568:1783207689"
+  },
+  "brazilian-folk-music": {
+    "art_key": "139687:1783207693",
+    "audio_key": "5584062:1783207692|None|None|96k|full"
+  },
+  "aboio": {
+    "art_key": "178819:1783207698"
+  },
+  "aboio-cantado": {
+    "art_key": "160528:1783207703"
+  },
+  "banda-de-pifano": {
+    "art_key": "157015:1783207707"
+  },
+  "candomble-music": {
+    "art_key": "63935:1783207712"
+  },
+  "cantoria": {
+    "art_key": "49004:1782073423"
+  },
+  "repente": {
+    "art_key": "94880:1782161781"
+  },
+  "capoeira-music": {
+    "art_key": "188783:1783207736"
+  },
+  "jongo": {
+    "art_key": "101360:1783207740",
+    "audio_key": "3667964:1783207739|None|None|96k|full"
+  },
+  "ponto-de-umbanda": {
+    "art_key": "201296:1783207744"
+  },
+  "lundu": {
+    "art_key": "113023:1783207748"
+  },
+  "maracatu": {
+    "art_key": "277250:1783207753"
+  },
+  "modinha": {
+    "art_key": "97657:1783207760",
+    "audio_key": "2778796:1783207759|None|None|96k|full"
+  },
+  "rasqueado": {
+    "art_key": "36856:1782075089"
+  },
+  "samba-de-roda": {
+    "art_key": "208846:1783207775"
+  },
+  "sertanejo-de-raiz": {
+    "art_key": "69234:1783207780"
+  },
+  "moda-de-viola": {
+    "art_key": "40578:1782074641"
+  },
+  "toada-de-boi": {
+    "art_key": "123524:1783207799"
+  },
+  "xaxado": {
+    "art_key": "146443:1783207805"
+  },
+  "canadian-folk-music": {
+    "art_key": "170469:1783207809"
+  },
+  "canadian-maritime-folk": {
+    "art_key": "165835:1783207813"
+  },
+  "cape-breton-folk-music": {
+    "art_key": "150628:1783207824"
+  },
+  "cape-breton-fiddling": {
+    "art_key": "105020:1782076617"
+  },
+  "french-canadian-folk-music": {
+    "art_key": "40506:1788901262"
+  },
+  "metis-fiddling": {
+    "art_key": "43194:1782160633"
+  },
+  "newfoundland-folk-music": {
+    "art_key": "170020:1783207841"
+  },
+  "caribbean-folk-music": {
+    "art_key": "273502:1783207845"
+  },
+  "bele": {
+    "art_key": "93938:1783207851"
+  },
+  "bomba": {
+    "art_key": "34078:1782076513"
+  },
+  "fungi": {
+    "art_key": "163010:1783207860"
+  },
+  "haitian-vodou-drumming": {
+    "art_key": "43057:1783207864",
+    "audio_key": "4886435:1783207864|None|None|96k|full"
+  },
+  "jibaro": {
+    "art_key": "178239:1783207871"
+  },
+  "kaiso": {
+    "art_key": "140375:1783207875"
+  },
+  "kitchen-dance-music": {
+    "art_key": "228312:1783207880"
+  },
+  "mento": {
+    "art_key": "97456:1783207883"
+  },
+  "meringue": {
+    "art_key": "89616:1783207889"
+  },
+  "plena": {
+    "art_key": "109800:1788901362"
+  },
+  "tumba": {
+    "art_key": "48218:1783207897"
+  },
+  "caucasian-folk-music": {
+    "art_key": "53738:1783207903"
+  },
+  "abkhazian-folk-music": {
+    "art_key": "37768:1782072695"
+  },
+  "chechen-folk-music": {
+    "art_key": "258444:1783207913"
+  },
+  "circassian-folk-music": {
+    "art_key": "104921:1783207918"
+  },
+  "dagestani-folk-music": {
+    "art_key": "208127:1783207924"
+  },
+  "georgian-folk-music": {
+    "art_key": "178640:1783207930"
+  },
+  "ossetian-folk-music": {
+    "art_key": "86516:1782074828"
+  },
+  "chukchi-folk-music": {
+    "art_key": "15790:1782073557"
+  },
+  "drinking-song": {
+    "art_key": "125978:1783207946"
+  },
+  "east-asian-folk-music": {
+    "art_key": "132275:1783207950"
+  },
+  "amami-shimauta": {
+    "art_key": "21230:1782075925",
+    "audio_key": "5945604:1783207954|None|None|96k|full"
+  },
+  "chinese-folk-music": {
+    "art_key": "73761:1783207960"
+  },
+  "chaozhou-xianshi": {
+    "art_key": "42172:1782073480"
+  },
+  "han-folk-music": {
+    "art_key": "26106:1782077557"
+  },
+  "jiangnan-sizhu": {
+    "art_key": "129524:1783207975"
+  },
+  "indigenous-taiwanese-music": {
+    "art_key": "98915:1783207979",
+    "audio_key": "2366740:1783207978|None|None|96k|full"
+  },
+  "japanese-folk-music": {
+    "art_key": "174097:1783207983"
+  },
+  "kagura": {
+    "art_key": "33398:1782160005"
+  },
+  "kouta": {
+    "art_key": "182870:1783207993",
+    "audio_key": "353630:1783207993|None|None|96k|full"
+  },
+  "minyo": {
+    "art_key": "213280:1783207999",
+    "audio_key": "4294498:1783207998|None|None|96k|full"
+  },
+  "ondo": {
+    "art_key": "261063:1783208005",
+    "audio_key": "5297737:1783208004|None|None|96k|full"
+  },
+  "rokyoku": {
+    "art_key": "32792:1782161994"
+  },
+  "taiko": {
+    "art_key": "99745:1783208017",
+    "audio_key": "5046530:1783208016|None|None|96k|full"
+  },
+  "tsugaru-shamisen": {
+    "art_key": "109986:1783208022"
+  },
+  "korean-folk-music": {
+    "art_key": "128674:1783208030"
+  },
+  "muak": {
+    "art_key": "91074:1783208035"
+  },
+  "pansori": {
+    "art_key": "33050:1782161453"
+  },
+  "pungmul": {
+    "art_key": "72934:1782161675",
+    "audio_key": "14707486:1783208048|None|None|96k|full"
+  },
+  "sanjo": {
+    "art_key": "22428:1782162070",
+    "audio_key": "9109275:1783208052|None|None|96k|full"
+  },
+  "sinawi": {
+    "art_key": "25616:1782162352"
+  },
+  "vietnamese-folk-music": {
+    "art_key": "57912:1782075548"
+  },
+  "cheo": {
+    "art_key": "70438:1782076650"
+  },
+  "quan-ho": {
+    "art_key": "63942:1783208075"
+  },
+  "xam": {
+    "art_key": "93221:1783208081"
+  },
+  "european-folk-music": {
+    "art_key": "156555:1783208086"
+  },
+  "alpine-folk-music": {
+    "art_key": "62365:1783208092"
+  },
+  "canto-degli-alpini": {
+    "art_key": "211250:1783208097"
+  },
+  "landler": {
+    "art_key": "192068:1783208102"
+  },
+  "narodno-zabavna-glasba": {
+    "art_key": "219247:1783208112"
+  },
+  "naturjodel": {
+    "art_key": "182512:1783208116"
+  },
+  "balkan-folk-music": {
+    "art_key": "52137:1783208125"
+  },
+  "albanian-folk-music": {
+    "art_key": "162777:1783208130",
+    "audio_key": "2660966:1783208130|None|None|96k|full"
+  },
+  "lab-polyphony": {
+    "art_key": "22490:1783208138"
+  },
+  "musika-popullore": {
+    "art_key": "178195:1783208143"
+  },
+  "tosk-polyphony": {
+    "art_key": "372086:1783208149"
+  },
+  "aromanian-folk-music": {
+    "art_key": "56413:1783208152"
+  },
+  "balkan-brass-band": {
+    "art_key": "144154:1783208156"
+  },
+  "bosnian-folk-music": {
+    "art_key": "384816:1783208160"
+  },
+  "izvorna-bosanska-muzika": {
+    "art_key": "111319:1783208166",
+    "audio_key": "6025229:1783208165|None|None|96k|full"
+  },
+  "sevdalinka": {
+    "art_key": "141320:1783208169"
+  },
+  "bulgarian-folk-music": {
+    "art_key": "103727:1783208181",
+    "audio_key": "3692733:1783208181|None|None|96k|full"
+  },
+  "croatian-folk-music": {
+    "art_key": "164416:1783208186"
+  },
+  "klapa": {
+    "art_key": "129160:1783208191"
+  },
+  "csango-folk-music": {
+    "art_key": "163080:1783208195"
+  },
+  "greek-folk-music": {
+    "art_key": "10076:1788901663"
+  },
+  "aegean-islands-folk-music": {
+    "art_key": "142230:1783208210"
+  },
+  "cretan-folk-music": {
+    "art_key": "94651:1783208215"
+  },
+  "rizitika": {
+    "art_key": "154453:1783208220"
+  },
+  "dimotika": {
+    "art_key": "45568:1783208227",
+    "audio_key": "4334697:1783208223|None|None|96k|full"
+  },
+  "ionian-islands-folk-music": {
+    "art_key": "25370:1782159787"
+  },
+  "rembetika": {
+    "art_key": "99370:1788901731"
+  },
+  "macedonian-folk-music": {
+    "art_key": "137420:1783208258"
+  },
+  "calgija": {
+    "art_key": "117641:1783208263"
+  },
+  "montenegrin-folk-music": {
+    "art_key": "128078:1783208267"
+  },
+  "muzica-lautareasca": {
+    "art_key": "165939:1783208271"
+  },
+  "serbian-folk-music": {
+    "art_key": "141226:1783208275"
+  },
+  "starogradska-muzika": {
+    "art_key": "143370:1783208278"
+  },
+  "baltic-folk-music": {
+    "art_key": "72751:1783208284"
+  },
+  "latvian-folk-music": {
+    "art_key": "14434:1788901990"
+  },
+  "lithuanian-folk-music": {
+    "art_key": "393006:1783208292"
+  },
+  "sutartines": {
+    "art_key": "218946:1783208297"
+  },
+  "balto-finnic-folk-music": {
+    "art_key": "342473:1783208309",
+    "audio_key": "3904104:1783208308|None|None|96k|full"
+  },
+  "estonian-folk-music": {
+    "art_key": "67023:1783208315"
+  },
+  "seto-leelo": {
+    "art_key": "46152:1782075193"
+  },
+  "finnish-folk-music": {
+    "art_key": "115068:1782073821"
+  },
+  "karelian-folk-music": {
+    "art_key": "66604:1783208332"
+  },
+  "livonian-folk-music": {
+    "art_key": "232487:1783208336"
+  },
+  "rune-singing": {
+    "art_key": "280251:1783208341"
+  },
+  "basque-folk-music": {
+    "art_key": "306192:1783208346"
+  },
+  "trikitixa": {
+    "art_key": "181692:1783208357"
+  },
+  "catalan-folk-music": {
+    "art_key": "136074:1783208363"
+  },
+  "sardana": {
+    "art_key": "21988:1788902089"
+  },
+  "celtic-folk-music": {
+    "art_key": "80502:1783208371"
+  },
+  "breton-celtic-folk-music": {
+    "art_key": "257723:1783208376"
+  },
+  "bagad": {
+    "art_key": "215976:1783208382"
+  },
+  "cornish-folk-music": {
+    "art_key": "164573:1783208388"
+  },
+  "irish-folk-music": {
+    "art_key": "187119:1783208393"
+  },
+  "sean-nos": {
+    "art_key": "214820:1783208398"
+  },
+  "manx-folk-music": {
+    "art_key": "12246:1782160535"
+  },
+  "scottish-folk-music": {
+    "art_key": "25628:1782075172"
+  },
+  "pipe-band": {
+    "art_key": "29934:1782074920"
+  },
+  "scots-song": {
+    "art_key": "120912:1783208422"
+  },
+  "scottish-country-dance-music": {
+    "art_key": "82117:1783208426"
+  },
+  "shetland-and-orkney-folk-music": {
+    "art_key": "90718:1783208431"
+  },
+  "orain-ghaidhlig": {
+    "art_key": "119434:1783208435"
+  },
+  "seinn-nan-salm": {
+    "art_key": "217380:1783208441"
+  },
+  "orain-luaidh": {
+    "art_key": "132610:1783208445"
+  },
+  "welsh-folk-music": {
+    "art_key": "92489:1783208456"
+  },
+  "dutch-folk-music": {
+    "art_key": "106022:1783208462"
+  },
+  "english-folk-music": {
+    "art_key": "112684:1783208467"
+  },
+  "northumbrian-folk-music": {
+    "art_key": "141310:1783208471"
+  },
+  "scrumpy-and-western": {
+    "art_key": "59100:1782162108"
+  },
+  "flemish-folk-music": {
+    "art_key": "113594:1783208481"
+  },
+  "french-folk-music": {
+    "art_key": "109921:1783208486"
+  },
+  "alsatian-folk-music": {
+    "art_key": "26428:1788902330"
+  },
+  "breton-folk-music": {
+    "art_key": "144287:1783208504"
+  },
+  "kan-ha-diskan": {
+    "art_key": "65127:1783208511"
+  },
+  "corsican-folk-music": {
+    "art_key": "141577:1783208523"
+  },
+  "paghjella": {
+    "art_key": "85700:1783208530"
+  },
+  "musette": {
+    "art_key": "51946:1788902478"
+  },
+  "swing-musette": {
+    "art_key": "128403:1783208546",
+    "audio_key": "2033371:1783208546|None|None|96k|full"
+  },
+  "occitan-folk-music": {
+    "art_key": "69986:1788902595"
+  },
+  "auvergnat-folk-music": {
+    "art_key": "289417:1783208555"
+  },
+  "gascon-folk-music": {
+    "art_key": "247848:1783208568"
+  },
+  "polifonia-occitana": {
+    "art_key": "215355:1783208574",
+    "audio_key": "11806119:1783208574|None|None|96k|full"
+  },
+  "german-folk-music": {
+    "art_key": "273522:1783208580"
+  },
+  "gstanzl": {
+    "art_key": "129388:1783208584"
+  },
+  "ghana": {
+    "art_key": "161514:1783208589"
+  },
+  "hungarian-folk-music": {
+    "art_key": "247140:1783208594"
+  },
+  "csardas": {
+    "art_key": "120324:1783208600"
+  },
+  "magyar-nota": {
+    "art_key": "236171:1783208604"
+  },
+  "istrian-folk-music": {
+    "art_key": "49356:1782159801"
+  },
+  "italian-folk-music": {
+    "art_key": "104748:1783208620",
+    "audio_key": "4966682:1783208619|None|None|96k|full"
+  },
+  "canzone-napoletana": {
+    "art_key": "109833:1783208623",
+    "audio_key": "3085198:1783208623|None|None|96k|full"
+  },
+  "liscio": {
+    "art_key": "134931:1783208628"
+  },
+  "sardinian-folk-music": {
+    "art_key": "205039:1783208632"
+  },
+  "cantu-a-chiterra": {
+    "art_key": "151949:1783208638"
+  },
+  "cantu-a-tenore": {
+    "art_key": "122065:1783208644"
+  },
+  "stornello": {
+    "art_key": "201575:1783208649"
+  },
+  "tarantella": {
+    "art_key": "122499:1783208653"
+  },
+  "pizzica": {
+    "art_key": "105384:1783208658"
+  },
+  "tammurriata": {
+    "art_key": "15402:1788902732",
+    "audio_key": "3360064:1783208662|None|None|96k|full"
+  },
+  "trallalero": {
+    "art_key": "80318:1788902782"
+  },
+  "luxembourgish-folk-music": {
+    "art_key": "307782:1783208672",
+    "audio_key": "2174568:1783208672|None|None|96k|full"
+  },
+  "neo-medieval-folk": {
+    "art_key": "192397:1783208678"
+  },
+  "bardcore": {
+    "art_key": "214923:1783208682"
+  },
+  "neo-pagan-folk": {
+    "art_key": "78820:1783208686"
+  },
+  "nordic-folk-music": {
+    "art_key": "97892:1783208692"
+  },
+  "danish-folk-music": {
+    "art_key": "123722:1783208697"
+  },
+  "faroese-folk-music": {
+    "art_key": "134019:1783208702"
+  },
+  "icelandic-folk-music": {
+    "art_key": "140489:1783208707"
+  },
+  "joik": {
+    "art_key": "179999:1783208713"
+  },
+  "nordic-old-time-dance-music": {
+    "art_key": "137908:1783208718"
+  },
+  "polska": {
+    "art_key": "145669:1783208724"
+  },
+  "hambo": {
+    "art_key": "19546:1782073987"
+  },
+  "norwegian-folk-music": {
+    "art_key": "129711:1783208733"
+  },
+  "swedish-folk-music": {
+    "art_key": "155219:1783208736"
+  },
+  "polka": {
+    "art_key": "168335:1783208741"
+  },
+  "chicago-polka": {
+    "art_key": "68279:1783208746"
+  },
+  "eastern-style-polka": {
+    "art_key": "75820:1782077209"
+  },
+  "portuguese-folk-music": {
+    "art_key": "193282:1783208755",
+    "audio_key": "7479145:1783208754|None|None|96k|full"
+  },
+  "cante-alentejano": {
+    "art_key": "71458:1788902926"
+  },
+  "desgarrada": {
+    "art_key": "170061:1783208763"
+  },
+  "fado": {
+    "art_key": "74933:1783208767"
+  },
+  "fado-de-coimbra": {
+    "art_key": "61479:1783208771"
+  },
+  "tras-os-montes-folk-music": {
+    "art_key": "183533:1783208774"
+  },
+  "romanian-folk-music": {
+    "art_key": "39584:1788903000"
+  },
+  "colinde": {
+    "art_key": "111673:1783208784"
+  },
+  "doina": {
+    "art_key": "92159:1783208788"
+  },
+  "slavic-folk-music": {
+    "art_key": "141106:1783208793"
+  },
+  "belarusian-folk-music": {
+    "art_key": "87060:1782076343"
+  },
+  "czech-folk-music": {
+    "art_key": "98799:1783208802"
+  },
+  "goral-music": {
+    "art_key": "232819:1783208807"
+  },
+  "polish-goral-music": {
+    "art_key": "94950:1783208811"
+  },
+  "moravian-folk-music": {
+    "art_key": "29354:1782074686"
+  },
+  "polish-folk-music": {
+    "art_key": "105120:1783208821"
+  },
+  "folklor-miejski": {
+    "art_key": "125770:1783208826"
+  },
+  "warsaw-city-folk": {
+    "art_key": "107465:1783208831"
+  },
+  "kashubian-folk-music": {
+    "art_key": "266084:1783208837"
+  },
+  "krakowiak": {
+    "art_key": "106935:1783208843"
+  },
+  "kujawiak": {
+    "art_key": "40124:1782160238"
+  },
+  "kurpian-folk-music": {
+    "art_key": "46586:1783208863"
+  },
+  "oberek": {
+    "art_key": "109638:1783208866"
+  },
+  "russian-folk-music": {
+    "art_key": "124193:1783208872"
+  },
+  "slovak-folk-music": {
+    "art_key": "138639:1783208877"
+  },
+  "slovenian-folk-music": {
+    "art_key": "206158:1783208882"
+  },
+  "ukrainian-folk-music": {
+    "art_key": "21696:1788903200"
+  },
+  "duma": {
+    "art_key": "61762:1782073730"
+  },
+  "hutsul-folk-music": {
+    "art_key": "190424:1783208900"
+  },
+  "spanish-folk-music": {
+    "art_key": "48085:1783208906"
+  },
+  "andalusian-folk-music": {
+    "art_key": "196437:1783208909"
+  },
+  "saeta": {
+    "art_key": "110060:1783208916"
+  },
+  "sevillanas": {
+    "art_key": "154124:1783208921"
+  },
+  "aragonese-folk-music": {
+    "art_key": "182697:1783208934"
+  },
+  "asturian-folk-music": {
+    "art_key": "63458:1783208939"
+  },
+  "canarian-folk-music": {
+    "art_key": "176338:1783208945"
+  },
+  "chotis-madrileno": {
+    "art_key": "165384:1783208950"
+  },
+  "copla": {
+    "art_key": "152396:1783208955"
+  },
+  "cuple": {
+    "art_key": "125499:1783208960"
+  },
+  "galician-folk-music": {
+    "art_key": "82729:1783208964"
+  },
+  "pasodoble": {
+    "art_key": "170968:1783208968"
+  },
+  "valencian-folk-music": {
+    "art_key": "194314:1783208972"
+  },
+  "volga-ural-folk-music": {
+    "art_key": "37552:1783023772"
+  },
+  "bashkir-folk-music": {
+    "art_key": "52134:1783281356"
+  },
+  "chuvash-folk-music": {
+    "art_key": "46950:1782073578"
+  },
+  "mari-folk-music": {
+    "art_key": "47032:1782074437"
+  },
+  "mordvin-folk-music": {
+    "art_key": "28154:1782074702"
+  },
+  "volga-tatar-folk-music": {
+    "art_key": "15244:1788903361"
+  },
+  "walloon-folk-music": {
+    "art_key": "73062:1783209003"
+  },
+  "white-voice": {
+    "art_key": "13474:1782162910"
+  },
+  "yiddish-folksong": {
+    "art_key": "207313:1783209011"
+  },
+  "football-chant": {
+    "art_key": "206712:1783209016"
+  },
+  "hazara-folk-music": {
+    "art_key": "66177:1783209021"
+  },
+  "hispanic-american-folk-music": {
+    "art_key": "79532:1783209025"
+  },
+  "bambuco": {
+    "art_key": "23374:1782073108"
+  },
+  "candombe": {
+    "art_key": "47362:1788903454"
+  },
+  "canto-a-lo-poeta": {
+    "art_key": "182392:1783209040"
+  },
+  "carranga": {
+    "art_key": "198362:1783209044"
+  },
+  "chacarera": {
+    "art_key": "183960:1783209050"
+  },
+  "chamame": {
+    "art_key": "73290:1788903639"
+  },
+  "chamame-tropical": {
+    "art_key": "91082:1783209061"
+  },
+  "chamarrita-rioplatense": {
+    "art_key": "107113:1783209067"
+  },
+  "cueca": {
+    "art_key": "92608:1783209071"
+  },
+  "joropo": {
+    "art_key": "51800:1788903799"
+  },
+  "malaguena-venezolana": {
+    "art_key": "118515:1783209082"
+  },
+  "mexican-folk-music": {
+    "art_key": "62637:1783209086"
+  },
+  "canto-cardenche": {
+    "art_key": "170086:1783209091"
+  },
+  "pirekua": {
+    "art_key": "159877:1783209098",
+    "audio_key": "2938195:1783209097|None|None|96k|full"
+  },
+  "son-calentano": {
+    "art_key": "120933:1783209104"
+  },
+  "son-huasteco": {
+    "art_key": "184906:1783209111"
+  },
+  "son-istmeno": {
+    "art_key": "151288:1783209122"
+  },
+  "son-jarocho": {
+    "art_key": "161682:1783209127"
+  },
+  "trova-yucateca": {
+    "art_key": "187559:1783209132"
+  },
+  "milonga": {
+    "art_key": "72827:1783209137"
+  },
+  "muliza": {
+    "art_key": "235464:1783209143"
+  },
+  "musica-llanera": {
+    "art_key": "177566:1783209147"
+  },
+  "tamborito": {
+    "art_key": "167450:1783209152"
+  },
+  "taquirari": {
+    "art_key": "137990:1783209156"
+  },
+  "tonada-chilena": {
+    "art_key": "24302:1789043602"
+  },
+  "yaravi": {
+    "art_key": "72701:1783209166"
+  },
+  "zamba": {
+    "art_key": "60314:1783209170"
+  },
+  "indigenous-american-traditional-music": {
+    "art_key": "30700:1788904056"
+  },
+  "athabaskan-fiddling": {
+    "art_key": "16726:1782073019"
+  },
+  "inuit-vocal-games": {
+    "art_key": "69196:1782074128"
+  },
+  "james-bay-fiddling": {
+    "art_key": "54254:1782074168"
+  },
+  "mapuche-folk-music": {
+    "art_key": "25862:1782074418"
+  },
+  "powwow-music": {
+    "art_key": "285254:1783209210",
+    "audio_key": "6105533:1783209209|None|None|96k|full"
+  },
+  "tonada-potosina": {
+    "art_key": "33054:1782162647",
+    "audio_key": "3208430:1783209213|None|None|96k|full"
+  },
+  "unakesa": {
+    "art_key": "123467:1783209219"
+  },
+  "indigenous-australian-traditional-music": {
+    "art_key": "86830:1783209223"
+  },
+  "industrial-folk-song": {
+    "art_key": "84453:1783209228"
+  },
+  "ladino-folksong": {
+    "art_key": "259061:1783209232"
+  },
+  "payada": {
+    "art_key": "17994:1782161471"
+  },
+  "romani-folk-music": {
+    "art_key": "16574:1782075104"
+  },
+  "samoyedic-folk-music": {
+    "art_key": "38062:1782162050"
+  },
+  "south-asian-folk-music": {
+    "art_key": "54872:1782075327"
+  },
+  "assamese-folk-music": {
+    "art_key": "116862:1783209263"
+  },
+  "bengali-folk-music": {
+    "art_key": "238148:1783209268"
+  },
+  "baul-gaan": {
+    "art_key": "150185:1783209274"
+  },
+  "bhojpuri-folk-music": {
+    "art_key": "44960:1782073283"
+  },
+  "boduberu": {
+    "art_key": "99747:1783209282"
+  },
+  "burushaski-folk-music": {
+    "art_key": "125906:1783209288"
+  },
+  "gujarati-folk-music": {
+    "art_key": "46882:1789072905"
+  },
+  "kirtan": {
+    "art_key": "186558:1783209297"
+  },
+  "malayali-folk-music": {
+    "art_key": "194344:1783209303"
+  },
+  "marathi-folk-music": {
+    "art_key": "81072:1788904336"
+  },
+  "newa-folk-music": {
+    "art_key": "218277:1783209315"
+  },
+  "odia-folk-music": {
+    "art_key": "98120:1782161408"
+  },
+  "pashto-folk-music": {
+    "art_key": "132899:1783209327"
+  },
+  "punjabi-folk-music": {
+    "art_key": "47542:1782161689"
+  },
+  "rajasthani-folk-music": {
+    "art_key": "42910:1782161764"
+  },
+  "sinhalese-folk-music": {
+    "art_key": "34370:1782075232"
+  },
+  "sarala-gee": {
+    "art_key": "16324:1782075162"
+  },
+  "tamil-folk-music": {
+    "art_key": "206911:1783209354"
+  },
+  "urumi-melam": {
+    "art_key": "258486:1783209358"
+  },
+  "telugu-folk-music": {
+    "art_key": "47552:1788904448"
+  },
+  "southeast-asian-folk-music": {
+    "art_key": "156446:1789073428"
+  },
+  "balitaw": {
+    "art_key": "209060:1783209379"
+  },
+  "bamar-folk-music": {
+    "art_key": "143459:1783209385"
+  },
+  "gondang": {
+    "art_key": "171816:1783209391"
+  },
+  "harana": {
+    "art_key": "188972:1783209397"
+  },
+  "hmong-folk-music": {
+    "art_key": "57208:1782074043"
+  },
+  "khmer-folk-music": {
+    "art_key": "79042:1783209412"
+  },
+  "kuda-kepang": {
+    "art_key": "95070:1782160224"
+  },
+  "lao-folk-music": {
+    "art_key": "159892:1783209422"
+  },
+  "malay-folk-music": {
+    "art_key": "253373:1783209427"
+  },
+  "philippine-rondalla": {
+    "art_key": "38986:1788904578"
+  },
+  "tarawangsa": {
+    "art_key": "47961:1783209437"
+  },
+  "thai-folk-music": {
+    "art_key": "128104:1782245794"
+  },
+  "west-asian-folk-music": {
+    "art_key": "14002:1788904640"
+  },
+  "alevi-folk-music": {
+    "art_key": "216713:1783209453"
+  },
+  "armenian-folk-music": {
+    "art_key": "65082:1782247190"
+  },
+  "kef-music": {
+    "art_key": "192885:1783209464"
+  },
+  "assyrian-folk-music": {
+    "art_key": "185823:1783209469",
+    "audio_key": "6408737:1783209469|None|None|96k|full"
+  },
+  "israeli-folk-music": {
+    "art_key": "157824:1783209473"
+  },
+  "luri-folk-music": {
+    "art_key": "156458:1783209480"
+  },
+  "meyxana": {
+    "art_key": "209707:1783209486"
+  },
+  "persian-folk-music": {
+    "art_key": "186437:1783209491"
+  },
+  "turkish-folk-music": {
+    "art_key": "305664:1783209497"
+  },
+  "turkish-black-sea-region-folk-music": {
+    "art_key": "78239:1783209502"
+  },
+  "uzun-hava": {
+    "art_key": "180298:1783209506",
+    "audio_key": "7567069:1783209506|None|None|96k|full"
+  },
+  "zeybek": {
+    "art_key": "59333:1783209511"
+  },
+  "work-song": {
+    "art_key": "133098:1783209515"
+  },
+  "military-cadence": {
+    "art_key": "125110:1783209520"
+  },
+  "sea-shanty": {
+    "art_key": "158160:1783209524"
+  },
+  "yodeling": {
+    "art_key": "16474:1783209529"
+  },
+  "hip-hop": {
+    "art_key": "122240:1783209532"
+  },
+  "abstract-hip-hop": {
+    "art_key": "161371:1783209535"
+  },
+  "afro-trap": {
+    "art_key": "79736:1783209541"
+  },
+  "afroswing": {
+    "art_key": "92111:1783209546"
+  },
+  "arabesque-rap": {
+    "art_key": "182436:1783209549"
+  },
+  "bongo-flava": {
+    "art_key": "158328:1783209555"
+  },
+  "boom-bap": {
+    "art_key": "110572:1783209560"
+  },
+  "bounce": {
+    "art_key": "253788:1783209566"
+  },
+  "sissy-bounce": {
+    "art_key": "206526:1783209571"
+  },
+  "chipmunk-soul": {
+    "art_key": "125199:1783209574"
+  },
+  "chopped-and-screwed": {
+    "art_key": "50152:1791745621"
+  },
+  "christian-hip-hop": {
+    "art_key": "126590:1783209583"
+  },
+  "cloud-rap": {
+    "art_key": "103397:1783209587"
+  },
+  "comedy-rap": {
+    "art_key": "71730:1782073606"
+  },
+  "chap-hop": {
+    "art_key": "157351:1783209596"
+  },
+  "conscious-hip-hop": {
+    "art_key": "106985:1783209600"
+  },
+  "country-rap": {
+    "art_key": "45102:1783209609"
+  },
+  "crunk": {
+    "art_key": "201260:1783209615"
+  },
+  "crunkcore": {
+    "art_key": "108541:1783209619"
+  },
+  "detroit-sound": {
+    "art_key": "104523:1783209623"
+  },
+  "flint-sound": {
+    "art_key": "123019:1783209628"
+  },
+  "philly-drill": {
+    "art_key": "106461:1783209631"
+  },
+  "digicore": {
+    "art_key": "96627:1783209637"
+  },
+  "dirty-south": {
+    "art_key": "130783:1783209641"
+  },
+  "disco-rap": {
+    "art_key": "233894:1783209645"
+  },
+  "drill": {
+    "art_key": "295164:1783209648"
+  },
+  "chicago-drill": {
+    "art_key": "148862:1783209653"
+  },
+  "bop": {
+    "art_key": "234197:1783209658"
+  },
+  "free-car-music": {
+    "art_key": "107505:1783209663"
+  },
+  "jersey-drill": {
+    "art_key": "60518:1783209666"
+  },
+  "new-york-drill": {
+    "art_key": "84806:1783209671"
+  },
+  "sample-drill": {
+    "art_key": "80575:1783209681"
+  },
+  "sexy-drill": {
+    "art_key": "142640:1783209685"
+  },
+  "uk-drill": {
+    "art_key": "138220:1783209690"
+  },
+  "drumless": {
+    "art_key": "79679:1783209695"
+  },
+  "emo-rap": {
+    "art_key": "90973:1783209700"
+  },
+  "experimental-hip-hop": {
+    "art_key": "75946:1783209703"
+  },
+  "industrial-hip-hop": {
+    "art_key": "87778:1783209709"
+  },
+  "g-funk": {
+    "art_key": "315671:1783209713"
+  },
+  "genge": {
+    "art_key": "32383:1783209729"
+  },
+  "gengetone": {
+    "art_key": "173767:1783209734",
+    "audio_key": "5087103:1783209733|None|None|96k|full"
+  },
+  "hardcore-hip-hop": {
+    "art_key": "138277:1783209739"
+  },
+  "britcore": {
+    "art_key": "179160:1783209742"
+  },
+  "chopper": {
+    "art_key": "151325:1783209754"
+  },
+  "gangsta-rap": {
+    "art_key": "142570:1783209768"
+  },
+  "coke-rap": {
+    "art_key": "230186:1783209772"
+  },
+  "mafioso-rap": {
+    "art_key": "180202:1783209775"
+  },
+  "road-rap": {
+    "art_key": "75849:1783209780"
+  },
+  "scam-rap": {
+    "art_key": "179029:1783209785"
+  },
+  "horrorcore": {
+    "art_key": "129213:1783209790"
+  },
+  "memphis-rap": {
+    "art_key": "173721:1783209795"
+  },
+  "dungeon-rap": {
+    "art_key": "173948:1783209800"
+  },
+  "phonk-1": {
+    "art_key": "198390:1783209811"
+  },
+  "mid-school-hip-hop": {
+    "art_key": "94690:1783209815"
+  },
+  "trap-metal": {
+    "art_key": "20966:1782162712"
+  },
+  "hipco": {
+    "art_key": "77055:1783209824"
+  },
+  "hiplife": {
+    "art_key": "116139:1783209830"
+  },
+  "houston-sound": {
+    "art_key": "173045:1788812909"
+  },
+  "hyphy": {
+    "art_key": "192375:1783209839"
+  },
+  "jerk-rap": {
+    "art_key": "98281:1783209843"
+  },
+  "instrumental-hip-hop": {
+    "art_key": "76265:1783209847"
+  },
+  "rare-phonk": {
+    "art_key": "324557:1783209853"
+  },
+  "jazz-rap": {
+    "art_key": "221576:1783209858"
+  },
+  "jerk": {
+    "art_key": "42072:1783209864"
+  },
+  "jersey-club-rap": {
+    "art_key": "173211:1783209873"
+  },
+  "jigg": {
+    "art_key": "153942:1783209877"
+  },
+  "jook": {
+    "art_key": "183120:1783209882"
+  },
+  "latin-rap": {
+    "art_key": "158899:1783209886"
+  },
+  "chicano-rap": {
+    "art_key": "118206:1783209890"
+  },
+  "lo-fi-hip-hop": {
+    "art_key": "194476:1783209895"
+  },
+  "lowend": {
+    "art_key": "139148:1783209899"
+  },
+  "mobb-music": {
+    "art_key": "180886:1783209904"
+  },
+  "motswako": {
+    "art_key": "138937:1783209910"
+  },
+  "nerdcore-hip-hop": {
+    "art_key": "14190:1782161146"
+  },
+  "nervous-music": {
+    "art_key": "133533:1783209920"
+  },
+  "philly-club-rap": {
+    "art_key": "112505:1783209923"
+  },
+  "political-hip-hop": {
+    "art_key": "148295:1783209927"
+  },
+  "pop-rap": {
+    "art_key": "75020:1783209931"
+  },
+  "frat-rap": {
+    "art_key": "319986:1783209936"
+  },
+  "futuristic-swag": {
+    "art_key": "157842:1788813138"
+  },
+  "ratchet": {
+    "art_key": "53922:1783209944"
+  },
+  "sigilkore": {
+    "art_key": "157623:1783209949"
+  },
+  "snap": {
+    "art_key": "175010:1783209955"
+  },
+  "stoner-rap": {
+    "art_key": "216521:1783209966"
+  },
+  "trap": {
+    "art_key": "121192:1783209970"
+  },
+  "new-jazz": {
+    "art_key": "116802:1783209976"
+  },
+  "no-melody": {
+    "art_key": "154859:1783209981"
+  },
+  "plugg": {
+    "art_key": "207238:1783209985"
+  },
+  "ambient-plugg": {
+    "art_key": "46411:1783209991"
+  },
+  "dark-plugg": {
+    "art_key": "88067:1783209995"
+  },
+  "pluggnb": {
+    "art_key": "195699:1783210000"
+  },
+  "asian-rock": {
+    "art_key": "292955:1783210005"
+  },
+  "terror-plugg": {
+    "art_key": "738:1788813269"
+  },
+  "rage": {
+    "art_key": "220954:1783210031"
+  },
+  "regalia": {
+    "art_key": "177397:1783210036"
+  },
+  "trap-soul": {
+    "art_key": "33199:1783210040"
+  },
+  "trap-latino": {
+    "art_key": "155822:1783210045"
+  },
+  "tread": {
+    "art_key": "62038:1782162736"
+  },
+  "trap-shaabi": {
+    "art_key": "90583:1783210055"
+  },
+  "turntablism": {
+    "art_key": "211893:1783210061"
+  },
+  "industrial-and-noise": {
+    "art_key": "81097:1783210065"
+  },
+  "post-industrial": {
+    "art_key": "189332:1783210070"
+  },
+  "industrial-metal": {
+    "art_key": "123195:1783210075"
+  },
+  "cyber-metal": {
+    "art_key": "215542:1783210079"
+  },
+  "neue-deutsche-harte": {
+    "art_key": "104893:1783210084"
+  },
+  "industrial-rock": {
+    "art_key": "264336:1783210088"
+  },
+  "machine-rock": {
+    "art_key": "118375:1783210093"
+  },
+  "martial-industrial": {
+    "art_key": "11782:1782074449"
+  },
+  "jazz": {
+    "art_key": "102845:1783210103"
+  },
+  "afro-jazz": {
+    "art_key": "149170:1783210107"
+  },
+  "arabic-jazz": {
+    "art_key": "128673:1783210111"
+  },
+  "avant-garde-jazz": {
+    "art_key": "81934:1783210117"
+  },
+  "experimental-big-band": {
+    "art_key": "114316:1782077318"
+  },
+  "free-jazz": {
+    "art_key": "144920:1783210126"
+  },
+  "european-free-jazz": {
+    "art_key": "28214:1782077287"
+  },
+  "bebop": {
+    "art_key": "113402:1783210135"
+  },
+  "big-band": {
+    "art_key": "109788:1783210140"
+  },
+  "progressive-big-band": {
+    "art_key": "93109:1783210145"
+  },
+  "british-dance-band": {
+    "art_key": "106448:1783210149"
+  },
+  "bulawayo-jazz": {
+    "art_key": "139758:1783210153",
+    "audio_key": "4515806:1783210152|None|None|96k|full"
+  },
+  "cape-jazz": {
+    "art_key": "25632:1782076639"
+  },
+  "cartoon-music": {
+    "art_key": "105841:1783210164"
+  },
+  "chamber-jazz": {
+    "art_key": "58434:1783210168"
+  },
+  "cool-jazz": {
+    "art_key": "83420:1783210173"
+  },
+  "crime-jazz": {
+    "art_key": "122822:1783210177"
+  },
+  "dark-jazz": {
+    "art_key": "101828:1783210182"
+  },
+  "dixieland": {
+    "art_key": "89307:1783210186"
+  },
+  "ecm-style-jazz": {
+    "art_key": "114673:1783210191"
+  },
+  "ethio-jazz": {
+    "art_key": "70068:1788816662"
+  },
+  "flamenco-jazz": {
+    "art_key": "134604:1783210201"
+  },
+  "hard-bop": {
+    "art_key": "121317:1783210205"
+  },
+  "indo-jazz": {
+    "art_key": "152418:1783210211"
+  },
+  "jazz-fusion": {
+    "art_key": "88854:1783210216"
+  },
+  "jazz-poetry": {
+    "art_key": "36607:1783210220"
+  },
+  "jazz-manouche": {
+    "art_key": "121377:1783210223"
+  },
+  "jazz-funk": {
+    "art_key": "155584:1783210229"
+  },
+  "kreyol-djaz": {
+    "art_key": "106164:1783210235"
+  },
+  "latin-jazz": {
+    "art_key": "78407:1783210238"
+  },
+  "afro-cuban-jazz": {
+    "art_key": "158923:1783210244"
+  },
+  "samba-jazz": {
+    "art_key": "123415:1783210248"
+  },
+  "marabi": {
+    "art_key": "165041:1783210253"
+  },
+  "kwela": {
+    "art_key": "25952:1782160280"
+  },
+  "mbaqanga": {
+    "art_key": "86937:1783210264"
+  },
+  "modal-jazz": {
+    "art_key": "81423:1783210270",
+    "audio_key": "10143024:1783210269|None|None|96k|full"
+  },
+  "jazz-mugham": {
+    "art_key": "192166:1783210274"
+  },
+  "post-bop": {
+    "art_key": "108967:1783210279"
+  },
+  "smooth-jazz": {
+    "art_key": "123448:1783210283",
+    "audio_key": "5041597:1783210283|None|None|96k|full"
+  },
+  "soul-jazz": {
+    "art_key": "72489:1783210288"
+  },
+  "spiritual-jazz": {
+    "art_key": "91572:1783210294"
+  },
+  "spy-music": {
+    "art_key": "92780:1783210300"
+  },
+  "stride": {
+    "art_key": "37213:1788816908"
+  },
+  "sweet-jazz": {
+    "art_key": "40498:1788816999"
+  },
+  "swing": {
+    "art_key": "57552:1783210312"
+  },
+  "swing-revival": {
+    "art_key": "223534:1783210316"
+  },
+  "third-stream": {
+    "art_key": "117693:1783210319"
+  },
+  "vocal-jazz": {
+    "art_key": "69558:1783210324"
+  },
+  "vocalese": {
+    "art_key": "119754:1783210329"
+  },
+  "west-coast-jazz": {
+    "art_key": "162086:1783210335",
+    "audio_key": "5188011:1783210334|None|None|96k|full"
+  },
+  "metal": {
+    "art_key": "107796:1783210339",
+    "audio_key": "2697933:1783210339|None|None|96k|full"
+  },
+  "alternative-metal": {
+    "art_key": "203993:1783210344"
+  },
+  "funk-metal": {
+    "art_key": "165483:1783210348"
+  },
+  "nu-metal": {
+    "art_key": "135973:1783210353"
+  },
+  "rap-metal": {
+    "art_key": "152787:1783210357"
+  },
+  "avant-garde-metal": {
+    "art_key": "63344:1783210362"
+  },
+  "black-metal": {
+    "art_key": "29320:1788814430"
+  },
+  "atmospheric-black-metal": {
+    "art_key": "153409:1783210371"
+  },
+  "blackgaze": {
+    "art_key": "109251:1783210375"
+  },
+  "black-n-roll": {
+    "art_key": "280146:1783210379"
+  },
+  "dsbm": {
+    "art_key": "77434:1783210392"
+  },
+  "dissonant-black-metal": {
+    "art_key": "150055:1783210398"
+  },
+  "hellenic-black-metal": {
+    "art_key": "117208:1783210403"
+  },
+  "melodic-black-metal": {
+    "art_key": "166603:1783210407"
+  },
+  "pagan-black-metal": {
+    "art_key": "201090:1783210411"
+  },
+  "symphonic-black-metal": {
+    "art_key": "250461:1783210415"
+  },
+  "war-metal": {
+    "art_key": "119326:1783210420"
+  },
+  "death-metal": {
+    "art_key": "216819:1783210425"
+  },
+  "brutal-death-metal": {
+    "art_key": "133642:1783210429"
+  },
+  "slam-death-metal": {
+    "art_key": "200511:1783210434",
+    "audio_key": "4738784:1783210434|None|None|96k|full"
+  },
+  "death-n-roll": {
+    "art_key": "98626:1783210446"
+  },
+  "deathgrind": {
+    "art_key": "249548:1783210451"
+  },
+  "melodic-death-metal": {
+    "art_key": "260044:1783210456"
+  },
+  "gothenburg-sound": {
+    "art_key": "188702:1783210461"
+  },
+  "technical-death-metal": {
+    "art_key": "211795:1783210466"
+  },
+  "dissonant-death-metal": {
+    "art_key": "197794:1783210471"
+  },
+  "djent": {
+    "art_key": "244688:1783210475"
+  },
+  "thall": {
+    "art_key": "161432:1783210479"
+  },
+  "doom-metal": {
+    "art_key": "107164:1783210484"
+  },
+  "death-doom-metal": {
+    "art_key": "246653:1783210488"
+  },
+  "funeral-doom-metal": {
+    "art_key": "249204:1783210500"
+  },
+  "traditional-doom-metal": {
+    "art_key": "55018:1783210513"
+  },
+  "epic-doom-metal": {
+    "art_key": "85628:1783210517"
+  },
+  "drone-metal": {
+    "art_key": "87082:1783210522"
+  },
+  "folk-metal": {
+    "art_key": "82193:1783210527"
+  },
+  "celtic-metal": {
+    "art_key": "40904:1783210532"
+  },
+  "mittelalter-metal": {
+    "art_key": "144604:1783210536"
+  },
+  "gothic-metal": {
+    "art_key": "117454:1783210540"
+  },
+  "grindcore": {
+    "art_key": "134351:1783210543"
+  },
+  "cybergrind": {
+    "art_key": "280893:1783210547"
+  },
+  "goregrind": {
+    "art_key": "137817:1783210552"
+  },
+  "pornogrind": {
+    "art_key": "217303:1783210558"
+  },
+  "mincecore": {
+    "art_key": "232878:1788815084"
+  },
+  "noisegrind": {
+    "art_key": "74055:1783210566"
+  },
+  "groove-metal": {
+    "art_key": "169276:1783210571"
+  },
+  "heavy-metal": {
+    "art_key": "58068:1783210575",
+    "audio_key": "4968595:1783210575|None|None|96k|full"
+  },
+  "speed-metal": {
+    "art_key": "133571:1783210580"
+  },
+  "us-power-metal": {
+    "art_key": "176219:1783210585"
+  },
+  "kawaii-metal": {
+    "art_key": "52082:1782160081"
+  },
+  "metalcore": {
+    "art_key": "134915:1783210593"
+  },
+  "deathcore": {
+    "art_key": "138292:1783210598"
+  },
+  "downtempo-deathcore": {
+    "art_key": "89054:1783210602"
+  },
+  "mathcore": {
+    "art_key": "208209:1783210607"
+  },
+  "melodic-metalcore": {
+    "art_key": "165013:1783210612"
+  },
+  "neoclassical-metal": {
+    "art_key": "195927:1783210617"
+  },
+  "post-metal": {
+    "art_key": "80074:1783210622"
+  },
+  "atmospheric-sludge-metal": {
+    "art_key": "121011:1783210628"
+  },
+  "doomgaze": {
+    "art_key": "126728:1783210632"
+  },
+  "power-metal": {
+    "art_key": "221643:1783210637"
+  },
+  "progressive-metal": {
+    "art_key": "222013:1783210642"
+  },
+  "sludge-metal": {
+    "art_key": "132206:1783210646"
+  },
+  "southern-metal": {
+    "art_key": "95180:1783210651"
+  },
+  "stenchcore": {
+    "art_key": "48855:1783210655"
+  },
+  "stoner-metal": {
+    "art_key": "50391:1783210660"
+  },
+  "symphonic-metal": {
+    "art_key": "163847:1783210664"
+  },
+  "thrash-metal": {
+    "art_key": "185316:1788815448"
+  },
+  "crossover-thrash": {
+    "art_key": "250161:1783210674"
+  },
+  "technical-thrash-metal": {
+    "art_key": "125515:1783210678"
+  },
+  "trance-metal": {
+    "art_key": "155448:1783210683"
+  },
+  "viking-metal": {
+    "art_key": "199407:1783210688"
+  },
+  "musical-theatre-and-entertainment": {
+    "art_key": "127826:1783210693",
+    "audio_key": "3152608:1783210692|None|None|96k|full"
+  },
+  "cabaret": {
+    "art_key": "186920:1783210697"
+  },
+  "dutch-cabaret": {
+    "art_key": "199974:1783210702"
+  },
+  "kabarett": {
+    "art_key": "152288:1783210706"
+  },
+  "kanto": {
+    "art_key": "166617:1783210711",
+    "audio_key": "2839216:1783210710|None|None|96k|full"
+  },
+  "murga": {
+    "art_key": "126085:1783210721"
+  },
+  "murga-uruguaya": {
+    "art_key": "46752:1789056708"
+  },
+  "music-hall": {
+    "art_key": "105057:1783210738"
+  },
+  "revue": {
+    "art_key": "18190:1782161852",
+    "audio_key": "1732017:1783210744|None|None|96k|full"
+  },
+  "rock-musical": {
+    "art_key": "97732:1783210750"
+  },
+  "show-tunes": {
+    "art_key": "224816:1783210753"
+  },
+  "siffleur": {
+    "art_key": "137207:1783210758"
+  },
+  "vaudeville": {
+    "art_key": "158074:1783210762"
+  },
+  "new-age": {
+    "art_key": "278033:1783210766"
+  },
+  "andean-new-age": {
+    "art_key": "145354:1783210771",
+    "audio_key": "6403339:1783210770|None|None|96k|full"
+  },
+  "celtic-new-age": {
+    "art_key": "128528:1783210776",
+    "audio_key": "1973753:1783210775|None|None|96k|full"
+  },
+  "native-american-new-age": {
+    "art_key": "143054:1783210780"
+  },
+  "neoclassical-new-age": {
+    "art_key": "96674:1783210786"
+  },
+  "new-age-kirtan": {
+    "art_key": "212746:1783210792"
+  },
+  "tibetan-new-age": {
+    "art_key": "79929:1783210799"
+  },
+  "pop": {
+    "art_key": "189940:1783210803"
+  },
+  "adult-contemporary": {
+    "art_key": "250531:1783210808"
+  },
+  "afrobeats": {
+    "art_key": "190842:1783210813"
+  },
+  "alte": {
+    "art_key": "280144:1783210818"
+  },
+  "alt-pop": {
+    "art_key": "157019:1783210823"
+  },
+  "arabic-pop": {
+    "art_key": "96574:1783210827"
+  },
+  "al-jeel": {
+    "art_key": "26592:1782762966"
+  },
+  "musiqa-lubnaniyya": {
+    "art_key": "141784:1783210837"
+  },
+  "art-pop": {
+    "art_key": "169669:1783210844"
+  },
+  "balkan-pop-folk": {
+    "art_key": "166983:1783210856",
+    "audio_key": "4307541:1783210855|None|None|96k|full"
+  },
+  "chalga": {
+    "art_key": "70936:1783210860"
+  },
+  "manele": {
+    "art_key": "148778:1782074391"
+  },
+  "modern-laika": {
+    "art_key": "213136:1783210870"
+  },
+  "muzica-de-mahala": {
+    "art_key": "59948:1782160932"
+  },
+  "skiladika": {
+    "art_key": "33760:1782075247"
+  },
+  "tallava": {
+    "art_key": "88922:1783210884"
+  },
+  "turbo-folk": {
+    "art_key": "165549:1783210889"
+  },
+  "baroque-pop": {
+    "art_key": "173876:1783210894"
+  },
+  "blue-eyed-soul": {
+    "art_key": "123341:1783210900"
+  },
+  "boy-band": {
+    "art_key": "168659:1783210904"
+  },
+  "brega-calypso": {
+    "art_key": "145437:1783210910"
+  },
+  "brill-building": {
+    "art_key": "135070:1783210914"
+  },
+  "bubblegum": {
+    "art_key": "91640:1783210918"
+  },
+  "cambodian-pop": {
+    "art_key": "123660:1783210923"
+  },
+  "rom-kbach": {
+    "art_key": "20592:1782162027"
+  },
+  "cancion-melodica": {
+    "art_key": "136560:1783210933"
+  },
+  "bolero-beat": {
+    "art_key": "89428:1783210936"
+  },
+  "musica-cebolla": {
+    "art_key": "138102:1783210947"
+  },
+  "city-pop": {
+    "art_key": "55614:1788955048"
+  },
+  "neo-city-pop": {
+    "art_key": "48572:1782160993"
+  },
+  "classical-crossover": {
+    "art_key": "60015:1783210960"
+  },
+  "dangdut": {
+    "art_key": "85067:1783210968"
+  },
+  "dangdut-koplo": {
+    "art_key": "41404:1788955141"
+  },
+  "dansbandsmusik": {
+    "art_key": "24416:1782076963"
+  },
+  "dansktop": {
+    "art_key": "8122:1788955199"
+  },
+  "europop": {
+    "art_key": "119661:1783210987"
+  },
+  "flamenco-pop": {
+    "art_key": "92321:1783210991"
+  },
+  "french-pop": {
+    "art_key": "191329:1783210995"
+  },
+  "girl-group": {
+    "art_key": "108137:1783210999"
+  },
+  "hmong-pop": {
+    "art_key": "104827:1783211004",
+    "audio_key": "3864835:1783211004|None|None|96k|full"
+  },
+  "indian-pop": {
+    "art_key": "200698:1783211009"
+  },
+  "bhojpuri-pop": {
+    "art_key": "72556:1782076390"
+  },
+  "indie-pop": {
+    "art_key": "12992:1788955416"
+  },
+  "bedroom-pop": {
+    "art_key": "56875:1783211030"
+  },
+  "c86": {
+    "art_key": "106852:1783211034"
+  },
+  "chamber-pop": {
+    "art_key": "180361:1783211039"
+  },
+  "neo-acoustic": {
+    "art_key": "82432:1783211043"
+  },
+  "tontipop": {
+    "art_key": "120871:1783211047"
+  },
+  "twee-pop": {
+    "art_key": "101560:1783211052",
+    "audio_key": "3272257:1783211052|None|None|96k|full"
+  },
+  "cuddlecore": {
+    "art_key": "179611:1783211057"
+  },
+  "irish-showband": {
+    "art_key": "216207:1783211061"
+  },
+  "italo-pop": {
+    "art_key": "100164:1783211067",
+    "audio_key": "4146745:1783211066|None|None|96k|full"
+  },
+  "canzone-neomelodica": {
+    "art_key": "92434:1783211071"
+  },
+  "j-pop": {
+    "art_key": "131158:1783211077"
+  },
+  "akishibu-kei": {
+    "art_key": "114083:1783211082"
+  },
+  "denpa": {
+    "art_key": "170531:1783211086"
+  },
+  "yakousei": {
+    "art_key": "96830:1783211091"
+  },
+  "jazz-pop": {
+    "art_key": "191280:1783211096"
+  },
+  "k-pop": {
+    "art_key": "132509:1783211100"
+  },
+  "semi-trot": {
+    "art_key": "82430:1782162196"
+  },
+  "kayokyoku": {
+    "art_key": "73660:1783211116",
+    "audio_key": "3978623:1783211115|None|None|96k|full"
+  },
+  "idol-kayo": {
+    "art_key": "111326:1783211120"
+  },
+  "mood-kayo": {
+    "art_key": "36000:1782160885"
+  },
+  "korean-ballad": {
+    "art_key": "192505:1783211130"
+  },
+  "oriental-ballad": {
+    "art_key": "114370:1783211135"
+  },
+  "latin-pop": {
+    "art_key": "107500:1783211145"
+  },
+  "cumbia-pop": {
+    "art_key": "161404:1783211150"
+  },
+  "tropipop": {
+    "art_key": "58705:1783211155"
+  },
+  "lokal-musik": {
+    "art_key": "268323:1783211160"
+  },
+  "mulatos": {
+    "art_key": "87800:1783211164"
+  },
+  "nederpop": {
+    "art_key": "118368:1783211167"
+  },
+  "palingsound": {
+    "art_key": "339959:1783211170"
+  },
+  "new-music": {
+    "art_key": "142038:1783211175"
+  },
+  "opm": {
+    "art_key": "25538:1782074793"
+  },
+  "orthodox-pop": {
+    "art_key": "206857:1783211194"
+  },
+  "p-pop": {
+    "art_key": "162463:1783211199"
+  },
+  "persian-pop": {
+    "art_key": "74476:1783211205"
+  },
+  "pop-batak": {
+    "art_key": "164001:1783211211"
+  },
+  "pop-ghazal": {
+    "art_key": "143626:1783211215"
+  },
+  "pop-minang": {
+    "art_key": "74498:1782074958"
+  },
+  "talempong-goyang": {
+    "art_key": "135633:1783211228"
+  },
+  "pop-rai": {
+    "art_key": "219337:1783211232"
+  },
+  "pop-reggae": {
+    "art_key": "141739:1783211237"
+  },
+  "pop-rock": {
+    "art_key": "171011:1783211259"
+  },
+  "beat": {
+    "art_key": "145561:1783211263"
+  },
+  "freakbeat": {
+    "art_key": "171198:1783211267"
+  },
+  "group-sounds": {
+    "art_key": "199713:1783211279"
+  },
+  "jovem-guarda": {
+    "art_key": "130808:1783211284"
+  },
+  "merseybeat": {
+    "art_key": "171015:1783211290"
+  },
+  "nederbeat": {
+    "art_key": "54646:1783211293"
+  },
+  "beat-rock": {
+    "art_key": "15256:1788955679"
+  },
+  "big-music": {
+    "art_key": "111232:1783211302"
+  },
+  "britpop": {
+    "art_key": "176581:1783211306"
+  },
+  "jangle-pop": {
+    "art_key": "95456:1783211311"
+  },
+  "dolewave": {
+    "art_key": "86034:1783211316"
+  },
+  "paisley-underground": {
+    "art_key": "131956:1783211319"
+  },
+  "neon-pop-punk": {
+    "art_key": "99440:1783211323"
+  },
+  "piano-rock": {
+    "art_key": "82227:1783211333",
+    "audio_key": "3646960:1783211333|None|None|96k|full"
+  },
+  "pop-yeh-yeh": {
+    "art_key": "116783:1783211337"
+  },
+  "post-britpop": {
+    "art_key": "101682:1783211348"
+  },
+  "power-pop": {
+    "art_key": "90636:1783211352"
+  },
+  "soft-rock": {
+    "art_key": "67924:1783211363"
+  },
+  "tropical-rock": {
+    "art_key": "164353:1783211369"
+  },
+  "yacht-rock": {
+    "art_key": "20673:1783211374"
+  },
+  "stereo": {
+    "art_key": "74344:1782075404"
+  },
+  "vocal-surf": {
+    "art_key": "191430:1783211381"
+  },
+  "pop-soul": {
+    "art_key": "127130:1783211385"
+  },
+  "motown-sound": {
+    "art_key": "158680:1783211396"
+  },
+  "pop-sunda": {
+    "art_key": "113109:1783211401"
+  },
+  "progressive-pop": {
+    "art_key": "45164:1783211405"
+  },
+  "psychedelic-pop": {
+    "art_key": "257764:1783211408"
+  },
+  "rabiz": {
+    "art_key": "241238:1783211412"
+  },
+  "rumba-catalana": {
+    "art_key": "149468:1783211418"
+  },
+  "russian-chanson": {
+    "art_key": "36258:1782075125"
+  },
+  "schlager": {
+    "art_key": "111308:1783211427"
+  },
+  "humppa": {
+    "art_key": "244095:1783211432"
+  },
+  "levenslied": {
+    "art_key": "170894:1783211436"
+  },
+  "volkstumliche-musik": {
+    "art_key": "91902:1783211442"
+  },
+  "sertanejo-romantico": {
+    "art_key": "102953:1783211447"
+  },
+  "sertanejo-universitario": {
+    "art_key": "77933:1783211452"
+  },
+  "agronejo": {
+    "art_key": "148501:1783211458"
+  },
+  "arrocha-sertanejo": {
+    "art_key": "116383:1783211463"
+  },
+  "funknejo": {
+    "art_key": "114793:1783211467"
+  },
+  "sophisti-pop": {
+    "art_key": "55382:1783211471"
+  },
+  "soviet-estrada": {
+    "art_key": "144053:1783211476"
+  },
+  "sunshine-pop": {
+    "art_key": "160855:1783211488"
+  },
+  "tarz": {
+    "art_key": "62220:1788955898"
+  },
+  "teen-pop": {
+    "art_key": "179439:1783211505"
+  },
+  "toytown-pop": {
+    "art_key": "139981:1783211516"
+  },
+  "traditional-pop": {
+    "art_key": "128967:1783211521"
+  },
+  "romante": {
+    "art_key": "53138:1788955998"
+  },
+  "standards": {
+    "art_key": "66405:1783211530"
+  },
+  "tin-pan-alley": {
+    "art_key": "127674:1783211534"
+  },
+  "turkish-pop": {
+    "art_key": "128824:1783211538"
+  },
+  "ye-ye": {
+    "art_key": "143968:1783211542"
+  },
+  "psychedelia": {
+    "art_key": "186064:1783211546"
+  },
+  "neo-psychedelia": {
+    "art_key": "244337:1783211551"
+  },
+  "baggy": {
+    "art_key": "346042:1783211556",
+    "audio_key": "4382176:1783211556|None|None|96k|full"
+  },
+  "dream-pop": {
+    "art_key": "80001:1783211560"
+  },
+  "hypnagogic-pop": {
+    "art_key": "121417:1783211564"
+  },
+  "space-rock-revival": {
+    "art_key": "139801:1783211568"
+  },
+  "psychedelic-rock": {
+    "art_key": "179127:1783211573"
+  },
+  "acid-rock": {
+    "art_key": "185695:1783211577"
+  },
+  "garage-psych": {
+    "art_key": "122610:1783211581"
+  },
+  "heavy-psych": {
+    "art_key": "270222:1783211586"
+  },
+  "raga-rock": {
+    "art_key": "62565:1783211592"
+  },
+  "space-rock": {
+    "art_key": "50572:1788816019"
+  },
+  "xian-psych": {
+    "art_key": "60131:1783211606"
+  },
+  "zamrock": {
+    "art_key": "42444:1788991407"
+  },
+  "psychedelic-soul": {
+    "art_key": "131227:1783211618"
+  },
+  "psychsploitation": {
+    "art_key": "159755:1783211622",
+    "audio_key": "10287603:1783211622|None|None|96k|full"
+  },
+  "stoner-rock": {
+    "art_key": "55026:1783211626"
+  },
+  "tropicalia": {
+    "art_key": "207359:1783211632"
+  },
+  "punk": {
+    "art_key": "117023:1783211643"
+  },
+  "art-punk": {
+    "art_key": "124568:1783211647"
+  },
+  "egg-punk": {
+    "art_key": "133619:1783211650"
+  },
+  "cowpunk": {
+    "art_key": "261022:1783211655",
+    "audio_key": "2452789:1783211655|None|None|96k|full"
+  },
+  "emo": {
+    "art_key": "145140:1783211667"
+  },
+  "emo-pop": {
+    "art_key": "160506:1783211672"
+  },
+  "emocore": {
+    "art_key": "88502:1783211683"
+  },
+  "mall-screamo": {
+    "art_key": "176639:1783211688"
+  },
+  "midwest-emo": {
+    "art_key": "99657:1783211692"
+  },
+  "screamo": {
+    "art_key": "41444:1783211697"
+  },
+  "emoviolence": {
+    "art_key": "61876:1783211702"
+  },
+  "folk-punk": {
+    "art_key": "130060:1783211707"
+  },
+  "celtic-punk": {
+    "art_key": "137674:1783211712"
+  },
+  "gypsy-punk": {
+    "art_key": "165703:1783211724"
+  },
+  "hardcore-punk-1": {
+    "art_key": "85404:1783211729"
+  },
+  "beatdown-hardcore": {
+    "art_key": "67602:1782073189"
+  },
+  "electronicore": {
+    "art_key": "133990:1783211737"
+  },
+  "hardcore-punk": {
+    "art_key": "105312:1783211741",
+    "audio_key": "2690197:1783211741|None|None|96k|full"
+  },
+  "burning-spirits": {
+    "art_key": "125194:1782076583"
+  },
+  "crust-punk": {
+    "art_key": "233165:1783211751"
+  },
+  "blackened-crust": {
+    "art_key": "110381:1783211756"
+  },
+  "neocrust": {
+    "art_key": "12890:1782161125"
+  },
+  "d-beat": {
+    "art_key": "106816:1783211763"
+  },
+  "melodic-hardcore": {
+    "art_key": "55928:1782074620"
+  },
+  "skacore": {
+    "art_key": "135517:1783211773"
+  },
+  "crack-rock-steady": {
+    "art_key": "110937:1783211778"
+  },
+  "street-punk": {
+    "art_key": "140371:1783211783"
+  },
+  "thrashcore": {
+    "art_key": "138589:1783211786"
+  },
+  "powerviolence": {
+    "art_key": "225500:1783211792"
+  },
+  "nintendocore": {
+    "art_key": "189138:1783211798"
+  },
+  "noisecore": {
+    "art_key": "89410:1783211805"
+  },
+  "post-hardcore": {
+    "art_key": "132730:1788896857",
+    "audio_key": "2705550:1789079568|None|None|96k|full"
+  },
+  "swancore": {
+    "art_key": "313976:1783211816"
+  },
+  "sass": {
+    "art_key": "236715:1783211819"
+  },
+  "mod-revival": {
+    "art_key": "188079:1783211824"
+  },
+  "pigfuck": {
+    "art_key": "102939:1783211829"
+  },
+  "post-punk": {
+    "art_key": "117164:1783211833",
+    "audio_key": "3626674:1783211833|None|None|96k|full"
+  },
+  "coldwave": {
+    "art_key": "94168:1783211837"
+  },
+  "dance-punk": {
+    "art_key": "156277:1783211843"
+  },
+  "dance-punk-revival": {
+    "art_key": "219798:1783211847"
+  },
+  "gothic-rock": {
+    "art_key": "162201:1788897021"
+  },
+  "deathrock": {
+    "art_key": "181134:1783211856"
+  },
+  "positive-punk": {
+    "art_key": "167370:1783211862"
+  },
+  "post-punk-revival": {
+    "art_key": "31877:1783211866"
+  },
+  "proto-punk": {
+    "art_key": "16428:1783280697"
+  },
+  "punk-blues": {
+    "art_key": "73618:1783211883"
+  },
+  "punk-poetry": {
+    "art_key": "57154:1782075009"
+  },
+  "punk-rock": {
+    "art_key": "92931:1783211893",
+    "audio_key": "3158847:1783211893|None|None|96k|full"
+  },
+  "anarcho-punk": {
+    "art_key": "231184:1783211896"
+  },
+  "deutschpunk": {
+    "art_key": "136989:1783211900"
+  },
+  "garage-punk": {
+    "art_key": "100646:1783211905"
+  },
+  "glam-punk": {
+    "art_key": "175988:1783211910"
+  },
+  "horror-punk": {
+    "art_key": "142696:1783211914"
+  },
+  "konsrock": {
+    "art_key": "71527:1788897201"
+  },
+  "oi": {
+    "art_key": "98806:1783211924"
+  },
+  "pop-punk": {
+    "art_key": "150349:1783211929"
+  },
+  "easycore": {
+    "art_key": "189880:1783211934"
+  },
+  "seishun-punk": {
+    "art_key": "173443:1783211938"
+  },
+  "psychobilly": {
+    "art_key": "654068:1788897356"
+  },
+  "ska-punk": {
+    "art_key": "110113:1783211953"
+  },
+  "skate-punk": {
+    "art_key": "54315:1783211958"
+  },
+  "surf-punk": {
+    "art_key": "100545:1783211963"
+  },
+  "vikingarock": {
+    "art_key": "157144:1783211967"
+  },
+  "randb": {
+    "art_key": "143357:1783211971"
+  },
+  "acid-jazz": {
+    "art_key": "128240:1783211975",
+    "audio_key": "4654472:1783211975|None|None|96k|full"
+  },
+  "beach-music": {
+    "art_key": "183603:1783211978"
+  },
+  "contemporary-randb": {
+    "art_key": "82045:1783211982"
+  },
+  "alternative-randb": {
+    "art_key": "21359:1783211987"
+  },
+  "hip-hop-soul": {
+    "art_key": "133026:1783211991"
+  },
+  "new-jack-swing": {
+    "art_key": "71428:1783211996"
+  },
+  "uk-street-soul": {
+    "art_key": "86999:1788817328"
+  },
+  "doo-wop": {
+    "art_key": "142294:1783212003"
+  },
+  "funk": {
+    "art_key": "169782:1783212009"
+  },
+  "afro-funk": {
+    "art_key": "142395:1783212013"
+  },
+  "britfunk": {
+    "art_key": "192554:1783212019"
+  },
+  "deep-funk": {
+    "art_key": "239167:1783212024"
+  },
+  "go-go": {
+    "art_key": "157741:1783212029"
+  },
+  "bounce-beat": {
+    "art_key": "130338:1783212034"
+  },
+  "latin-funk": {
+    "art_key": "217031:1783212039"
+  },
+  "p-funk": {
+    "art_key": "168588:1783212044"
+  },
+  "porn-groove": {
+    "art_key": "82393:1783212048"
+  },
+  "synth-funk": {
+    "art_key": "150750:1783212058"
+  },
+  "minneapolis-sound": {
+    "art_key": "193151:1783212064"
+  },
+  "new-orleans-randb": {
+    "art_key": "104964:1783212069"
+  },
+  "rhythm-and-blues": {
+    "art_key": "102114:1783212074",
+    "audio_key": "3045726:1783212073|None|None|96k|full"
+  },
+  "british-rhythm-and-blues": {
+    "art_key": "98925:1783212079"
+  },
+  "swamp-pop": {
+    "art_key": "201218:1783212084"
+  },
+  "twist": {
+    "art_key": "91800:1783212088"
+  },
+  "west-side-sound": {
+    "art_key": "190450:1783212094"
+  },
+  "soul": {
+    "art_key": "109230:1783212098"
+  },
+  "chicago-soul": {
+    "art_key": "109101:1783212102"
+  },
+  "country-soul": {
+    "art_key": "170584:1783212107"
+  },
+  "deep-soul": {
+    "art_key": "125837:1783212110"
+  },
+  "latin-soul": {
+    "art_key": "186531:1783212115"
+  },
+  "neo-soul": {
+    "art_key": "258097:1783212119"
+  },
+  "philly-soul": {
+    "art_key": "141784:1783212126"
+  },
+  "progressive-soul": {
+    "art_key": "140661:1783212130"
+  },
+  "smooth-soul": {
+    "art_key": "122949:1783212134"
+  },
+  "southern-soul": {
+    "art_key": "246246:1783212139"
+  },
+  "reggae-ska-dancehall": {
+    "art_key": "147144:1783212143"
+  },
+  "dancehall": {
+    "art_key": "139760:1783212148"
+  },
+  "digital-dancehall": {
+    "art_key": "212786:1783212154"
+  },
+  "gommance": {
+    "art_key": "34890:1782077522"
+  },
+  "ragga": {
+    "art_key": "119132:1783212164"
+  },
+  "shatta": {
+    "art_key": "210525:1783212169"
+  },
+  "trap-dancehall": {
+    "art_key": "89609:1783212174"
+  },
+  "zess": {
+    "art_key": "143023:1783212179"
+  },
+  "reggae": {
+    "art_key": "175874:1783212184"
+  },
+  "deejay": {
+    "art_key": "200509:1783212194"
+  },
+  "dub": {
+    "art_key": "76299:1783212199"
+  },
+  "lovers-rock": {
+    "art_key": "72730:1783212211"
+  },
+  "pacific-reggae": {
+    "art_key": "103948:1783212216"
+  },
+  "jawaiian": {
+    "art_key": "8565:1788817927"
+  },
+  "roots-reggae": {
+    "art_key": "166879:1783212226"
+  },
+  "dub-poetry": {
+    "art_key": "159763:1783212230",
+    "audio_key": "4474710:1783212230|None|None|96k|full"
+  },
+  "seggae": {
+    "art_key": "121724:1783212235",
+    "audio_key": "4777331:1783212235|None|None|96k|full"
+  },
+  "skinhead-reggae": {
+    "art_key": "169027:1783212238"
+  },
+  "rocksteady": {
+    "art_key": "32545:1788818013"
+  },
+  "ska": {
+    "art_key": "187405:1788818058"
+  },
+  "2-tone": {
+    "art_key": "72130:1783212253"
+  },
+  "jamaican-ska": {
+    "art_key": "145521:1783212257"
+  },
+  "new-tone": {
+    "art_key": "187592:1783212261",
+    "audio_key": "2575540:1783212261|None|None|96k|full"
+  },
+  "spouge": {
+    "art_key": "166551:1783212266"
+  },
+  "third-wave-ska": {
+    "art_key": "203222:1783212271"
+  },
+  "regional-music": {
+    "art_key": "164875:1783212274",
+    "audio_key": "3320498:1783212274|None|None|96k|full"
+  },
+  "african-music": {
+    "art_key": "175279:1783212278"
+  },
+  "cape-verdean-music": {
+    "art_key": "177214:1783212283"
+  },
+  "coladeira": {
+    "art_key": "152603:1783212287"
+  },
+  "funana": {
+    "art_key": "160907:1783212292"
+  },
+  "morna": {
+    "art_key": "115397:1783212297"
+  },
+  "central-african-music": {
+    "art_key": "134256:1783212302"
+  },
+  "assiko": {
+    "art_key": "243007:1783212307"
+  },
+  "banda-music": {
+    "art_key": "123796:1783212312"
+  },
+  "bend-skin": {
+    "art_key": "179000:1783212318"
+  },
+  "bikutsi": {
+    "art_key": "173231:1783212323"
+  },
+  "congolese-rumba": {
+    "art_key": "136270:1783212329"
+  },
+  "kalindula": {
+    "art_key": "115987:1783212334"
+  },
+  "kizomba": {
+    "art_key": "99583:1783212338",
+    "audio_key": "3074363:1783212338|None|None|96k|full"
+  },
+  "tarraxinha": {
+    "art_key": "45669:1783212342",
+    "audio_key": "4139248:1783212342|None|None|96k|full"
+  },
+  "makossa": {
+    "art_key": "105608:1783212347"
+  },
+  "mangambeu": {
+    "art_key": "213262:1783212353"
+  },
+  "mbole": {
+    "art_key": "222672:1783212358",
+    "audio_key": "7011486:1783212357|None|None|96k|full"
+  },
+  "puxa": {
+    "art_key": "210835:1783212363"
+  },
+  "semba": {
+    "art_key": "124210:1783212368"
+  },
+  "soukous": {
+    "art_key": "187709:1783212372"
+  },
+  "kwassa-kwassa": {
+    "art_key": "46838:1789041771"
+  },
+  "tradi-moderne-congolais": {
+    "art_key": "327709:1783212388"
+  },
+  "east-african-music": {
+    "art_key": "150430:1783212393"
+  },
+  "acholi-music": {
+    "art_key": "103885:1783212398"
+  },
+  "baganda-music": {
+    "art_key": "91548:1783212401"
+  },
+  "kadongo-kamu": {
+    "art_key": "33248:1782159990"
+  },
+  "benga": {
+    "art_key": "116543:1783212411"
+  },
+  "comorian-music": {
+    "art_key": "195113:1783212416"
+  },
+  "dinka-music": {
+    "art_key": "24532:1782077108"
+  },
+  "gogo-music": {
+    "art_key": "184975:1783212423"
+  },
+  "kapuka": {
+    "art_key": "150653:1783212428"
+  },
+  "kidandali": {
+    "art_key": "38138:1789041883"
+  },
+  "marrabenta": {
+    "art_key": "210548:1783212436"
+  },
+  "mchiriku": {
+    "art_key": "25938:1782160593"
+  },
+  "muziki-wa-dansi": {
+    "art_key": "48114:1783212446"
+  },
+  "omutibo": {
+    "art_key": "113911:1783212452"
+  },
+  "soga-music": {
+    "art_key": "167685:1783212455"
+  },
+  "taarab": {
+    "art_key": "348325:1783212458"
+  },
+  "timbila": {
+    "art_key": "169638:1783212469"
+  },
+  "malagasy-music": {
+    "art_key": "204614:1783212474"
+  },
+  "salegy": {
+    "art_key": "83492:1782075150"
+  },
+  "tsapiky": {
+    "art_key": "194932:1783212485"
+  },
+  "north-african-music": {
+    "art_key": "80818:1783212493"
+  },
+  "amazigh-music": {
+    "art_key": "134309:1783212497"
+  },
+  "ahwash": {
+    "art_key": "81205:1783212502"
+  },
+  "izlan": {
+    "art_key": "40764:1789042038"
+  },
+  "kabyle-music": {
+    "art_key": "102902:1783212514"
+  },
+  "sahrawi-music": {
+    "art_key": "124693:1783212519"
+  },
+  "staifi": {
+    "art_key": "117587:1783212525"
+  },
+  "tuareg-music": {
+    "art_key": "65982:1783212529"
+  },
+  "takamba": {
+    "art_key": "17226:1782075415"
+  },
+  "tishoumaren": {
+    "art_key": "124900:1783212539"
+  },
+  "egyptian-music": {
+    "art_key": "36492:1789042091"
+  },
+  "ancient-egyptian-music": {
+    "art_key": "195393:1783212548"
+  },
+  "coptic-music": {
+    "art_key": "39018:1782073645"
+  },
+  "shaabi": {
+    "art_key": "191105:1783212561"
+  },
+  "mahraganat": {
+    "art_key": "59446:1783212566"
+  },
+  "maghrebi-music": {
+    "art_key": "26200:1789042376"
+  },
+  "algerian-chaabi": {
+    "art_key": "105469:1783212576"
+  },
+  "banga": {
+    "art_key": "53062:1783212582"
+  },
+  "jilala-music": {
+    "art_key": "19290:1782074193"
+  },
+  "malhun": {
+    "art_key": "115527:1783212594"
+  },
+  "moroccan-chaabi": {
+    "art_key": "155662:1783212605"
+  },
+  "rai": {
+    "art_key": "134141:1783212610"
+  },
+  "traditional-rai": {
+    "art_key": "22174:1782162693"
+  },
+  "moorish-music": {
+    "art_key": "65080:1783212618"
+  },
+  "northeastern-african-music": {
+    "art_key": "26146:1782161357"
+  },
+  "ethiopic-music": {
+    "art_key": "40844:1782161321"
+  },
+  "azmari": {
+    "art_key": "65910:1782076241"
+  },
+  "ethiopian-church-music": {
+    "art_key": "35032:1782077267"
+  },
+  "tigrinya-music": {
+    "art_key": "66784:1782162627"
+  },
+  "tizita": {
+    "art_key": "23948:1789042542"
+  },
+  "nubian-music": {
+    "art_key": "74166:1783212651"
+  },
+  "nuer-music": {
+    "art_key": "85693:1783212656"
+  },
+  "oromo-music": {
+    "art_key": "17218:1782854106"
+  },
+  "somali-music": {
+    "art_key": "259303:1783212666"
+  },
+  "qaraami": {
+    "art_key": "105663:1783212672"
+  },
+  "seychelles-and-mascarene-islands-music": {
+    "art_key": "134872:1783212677"
+  },
+  "maloya": {
+    "art_key": "273937:1783212681"
+  },
+  "maloya-elektrik": {
+    "art_key": "14610:1789042655"
+  },
+  "sante-engage": {
+    "art_key": "138412:1783212689"
+  },
+  "sega": {
+    "art_key": "105961:1783212693",
+    "audio_key": "4379118:1783212693|None|None|96k|full"
+  },
+  "southern-african-music": {
+    "art_key": "57280:1783212699"
+  },
+  "famo": {
+    "art_key": "26708:1782077345"
+  },
+  "isicathamiya": {
+    "art_key": "186272:1783212707"
+  },
+  "jit": {
+    "art_key": "112452:1783212711"
+  },
+  "maskandi": {
+    "art_key": "290145:1783212715"
+  },
+  "mbube": {
+    "art_key": "142551:1783212719"
+  },
+  "shona-music": {
+    "art_key": "54367:1783212726"
+  },
+  "chimurenga": {
+    "art_key": "50582:1789042743"
+  },
+  "shona-mbira-music": {
+    "art_key": "96327:1783212739"
+  },
+  "sungura": {
+    "art_key": "165522:1783212743"
+  },
+  "township-jive": {
+    "art_key": "107274:1783212748"
+  },
+  "tsonga-disco": {
+    "art_key": "118289:1783212753"
+  },
+  "west-african-music": {
+    "art_key": "14410:1789042786"
+  },
+  "afro-rock": {
+    "art_key": "96476:1788986914"
+  },
+  "afrobeat": {
+    "art_key": "14470:1789042818"
+  },
+  "akan-music": {
+    "art_key": "17820:1789042853"
+  },
+  "zoblazo": {
+    "art_key": "173822:1783212775"
+  },
+  "ewe-music": {
+    "art_key": "100809:1783212780"
+  },
+  "agbadza": {
+    "art_key": "162188:1783212783",
+    "audio_key": "4177418:1783212783|None|None|96k|full"
+  },
+  "fon-music": {
+    "art_key": "168750:1783212794"
+  },
+  "tchink-system": {
+    "art_key": "6014:1789042899"
+  },
+  "fula-music": {
+    "art_key": "146934:1783212803"
+  },
+  "griot-music": {
+    "art_key": "108618:1783212808"
+  },
+  "gumbe": {
+    "art_key": "138569:1783212812"
+  },
+  "hausa-music": {
+    "art_key": "61990:1789042930"
+  },
+  "highlife": {
+    "art_key": "163447:1783212821"
+  },
+  "burger-highlife": {
+    "art_key": "175677:1783212826"
+  },
+  "igbo-music": {
+    "art_key": "156219:1783212832"
+  },
+  "ogene-music": {
+    "art_key": "329089:1783212838"
+  },
+  "kru-music": {
+    "art_key": "137697:1783212842"
+  },
+  "alloukou": {
+    "art_key": "115412:1783212847"
+  },
+  "palm-wine-music": {
+    "art_key": "27522:1782074909"
+  },
+  "ziglibithy": {
+    "art_key": "59520:1789043011"
+  },
+  "mande-music": {
+    "art_key": "60903:1783212870"
+  },
+  "mossi-music": {
+    "art_key": "59928:1782074715"
+  },
+  "songhai-music": {
+    "art_key": "70027:1783212882"
+  },
+  "tradi-moderne-ivoirien": {
+    "art_key": "54165:1783212888"
+  },
+  "wassoulou": {
+    "art_key": "115674:1783212893"
+  },
+  "wolof-music": {
+    "art_key": "140060:1783212897"
+  },
+  "mbalax": {
+    "art_key": "172840:1783212901"
+  },
+  "tassu": {
+    "art_key": "108584:1783212907"
+  },
+  "yoruba-music": {
+    "art_key": "106634:1789043090"
+  },
+  "fuji": {
+    "art_key": "212176:1783212923"
+  },
+  "juju": {
+    "art_key": "67596:1789043111"
+  },
+  "santeria-music": {
+    "art_key": "61624:1783212932"
+  },
+  "waka": {
+    "art_key": "106111:1783212937"
+  },
+  "zouglou": {
+    "art_key": "157558:1783212943"
+  },
+  "ancient-music": {
+    "art_key": "60364:1783212948"
+  },
+  "ancient-chinese-music": {
+    "art_key": "112106:1782073000"
+  },
+  "ancient-greek-music": {
+    "art_key": "122919:1783212963"
+  },
+  "ancient-roman-music": {
+    "art_key": "16909:1783212971"
+  },
+  "mesopotamian-music": {
+    "art_key": "82425:1783212977"
+  },
+  "arabic-music": {
+    "art_key": "14732:1789043181",
+    "audio_key": "9316162:1783212981|None|None|96k|full"
+  },
+  "al-jadid": {
+    "art_key": "63560:1782763513"
+  },
+  "bedouin-music": {
+    "art_key": "46727:1783212995"
+  },
+  "khaliji-music": {
+    "art_key": "118432:1783212999"
+  },
+  "levantine-arabic-music": {
+    "art_key": "265437:1783213004"
+  },
+  "dabke": {
+    "art_key": "149345:1783213008"
+  },
+  "druze-music": {
+    "art_key": "108937:1783213014"
+  },
+  "orkes-gambus": {
+    "art_key": "112863:1783213018"
+  },
+  "zajal": {
+    "art_key": "201053:1783213023"
+  },
+  "asian-music": {
+    "art_key": "113661:1783213027"
+  },
+  "buddhist-music": {
+    "art_key": "95479:1783213032"
+  },
+  "beompae": {
+    "art_key": "32256:1782073250"
+  },
+  "chod": {
+    "art_key": "79929:1783213044"
+  },
+  "central-asian-music": {
+    "art_key": "88437:1783213049"
+  },
+  "altai-music": {
+    "art_key": "55418:1782075890"
+  },
+  "balochi-music": {
+    "art_key": "179858:1783213059"
+  },
+  "central-asian-throat-singing": {
+    "art_key": "155380:1783213064"
+  },
+  "kai": {
+    "art_key": "46306:1782074221"
+  },
+  "mongolian-throat-singing": {
+    "art_key": "160305:1783213074"
+  },
+  "tuvan-throat-singing": {
+    "art_key": "343477:1783213078"
+  },
+  "karakalpak-traditional-music": {
+    "art_key": "60052:1782160054"
+  },
+  "kazakh-music": {
+    "art_key": "176083:1783213090"
+  },
+  "khakas-traditional-music": {
+    "art_key": "44852:1782160128"
+  },
+  "kyrgyz-traditional-music": {
+    "art_key": "94343:1783213099"
+  },
+  "mongolian-music": {
+    "art_key": "174755:1783213103"
+  },
+  "bogino-duu": {
+    "art_key": "174216:1783213108"
+  },
+  "buryat-music": {
+    "art_key": "133786:1783213113"
+  },
+  "kalmyk-music": {
+    "art_key": "159803:1783213117"
+  },
+  "urtiin-duu": {
+    "art_key": "12226:1782162781"
+  },
+  "zohioliin-duu": {
+    "art_key": "64828:1782853719"
+  },
+  "pamiri-music": {
+    "art_key": "101896:1783213136"
+  },
+  "tajik-music": {
+    "art_key": "164999:1783213141"
+  },
+  "tibetan-music": {
+    "art_key": "103511:1783213146"
+  },
+  "zhabdro-gorgom": {
+    "art_key": "126790:1783213151"
+  },
+  "turkmen-music": {
+    "art_key": "102916:1783213156"
+  },
+  "uyghur-music": {
+    "art_key": "225564:1783213162"
+  },
+  "uzbek-music": {
+    "art_key": "123115:1783213168"
+  },
+  "east-asian-music": {
+    "art_key": "90534:1789069729"
+  },
+  "ainu-music": {
+    "art_key": "326281:1783213177"
+  },
+  "upopo": {
+    "art_key": "122975:1783213183"
+  },
+  "chinese-music": {
+    "art_key": "209276:1783213189"
+  },
+  "chinese-opera": {
+    "art_key": "51386:1782076899"
+  },
+  "cantonese-opera": {
+    "art_key": "31192:1782073414"
+  },
+  "kunqu-opera": {
+    "art_key": "79190:1782074281"
+  },
+  "peking-opera": {
+    "art_key": "62248:1782161518"
+  },
+  "korean-revolutionary-opera": {
+    "art_key": "74760:1782160209"
+  },
+  "revolutionary-opera": {
+    "art_key": "59404:1789070032"
+  },
+  "shaoxing-opera": {
+    "art_key": "48390:1782075203"
+  },
+  "naxi-music": {
+    "art_key": "124771:1783213232"
+  },
+  "quyi": {
+    "art_key": "149714:1783213238"
+  },
+  "shidaiqu": {
+    "art_key": "41632:1782075223"
+  },
+  "sizhu-music": {
+    "art_key": "107238:1789070080"
+  },
+  "guangdong-yinyue": {
+    "art_key": "59144:1783213251"
+  },
+  "nanyin": {
+    "art_key": "35940:1782854281"
+  },
+  "taoist-ritual-music": {
+    "art_key": "47890:1782162586"
+  },
+  "zhongguo-feng": {
+    "art_key": "42260:1788988890"
+  },
+  "japanese-music": {
+    "art_key": "33980:1782854582"
+  },
+  "eleki": {
+    "art_key": "70968:1788988070"
+  },
+  "enka": {
+    "art_key": "116692:1783213278"
+  },
+  "ryukoka": {
+    "art_key": "51090:1783213287"
+  },
+  "korean-music": {
+    "art_key": "44236:1782074253"
+  },
+  "changjak-gugak": {
+    "art_key": "60263:1783213296"
+  },
+  "fusion-gugak": {
+    "art_key": "82477:1783213305"
+  },
+  "trot": {
+    "art_key": "7898:1789070482"
+  },
+  "ryukyuan-music": {
+    "art_key": "25722:1789070511"
+  },
+  "okinawan-music": {
+    "art_key": "135942:1783213318",
+    "audio_key": "4392557:1783213317|None|None|96k|full"
+  },
+  "vietnamese-music": {
+    "art_key": "29414:1782162832"
+  },
+  "bolero-viet-nam": {
+    "art_key": "83962:1783213338"
+  },
+  "ca-tru": {
+    "art_key": "38932:1782073348"
+  },
+  "cai-l-c6-b0ong": {
+    "art_key": "151601:1783213351"
+  },
+  "hat-lo-to": {
+    "art_key": "38036:1782077648"
+  },
+  "ngam-tho": {
+    "art_key": "18386:1782161193"
+  },
+  "nhac-tien-chien": {
+    "art_key": "308450:1783213366"
+  },
+  "nhac-vang": {
+    "art_key": "150112:1783213371"
+  },
+  "nhac-do": {
+    "art_key": "155567:1783213383"
+  },
+  "tan-co-giao-duyen": {
+    "art_key": "118134:1783213390"
+  },
+  "ghazal": {
+    "art_key": "44418:1783213394"
+  },
+  "north-asian-music": {
+    "art_key": "81692:1783213404"
+  },
+  "sakha-traditional-music": {
+    "art_key": "174424:1783213409"
+  },
+  "south-asian-music": {
+    "art_key": "136978:1783213414"
+  },
+  "adhunik-geet": {
+    "art_key": "40342:1789072646"
+  },
+  "baila": {
+    "art_key": "154541:1783213424"
+  },
+  "bhajan": {
+    "art_key": "47182:1782073266"
+  },
+  "bhangra": {
+    "art_key": "206904:1783213433"
+  },
+  "folkhop": {
+    "art_key": "137958:1783213439"
+  },
+  "filmi": {
+    "art_key": "132552:1783213444"
+  },
+  "garba": {
+    "art_key": "235959:1783213448"
+  },
+  "ginan": {
+    "art_key": "122745:1783213451"
+  },
+  "sindhi-music": {
+    "art_key": "187658:1783213457"
+  },
+  "sufi-rock": {
+    "art_key": "133219:1783213461"
+  },
+  "vedic-chant": {
+    "art_key": "111446:1783213465"
+  },
+  "southeast-asian-music": {
+    "art_key": "199717:1783213470"
+  },
+  "bamar-music": {
+    "art_key": "23896:1782854940"
+  },
+  "mono": {
+    "art_key": "113750:1782074665"
+  },
+  "hill-tribe-music": {
+    "art_key": "109695:1783213490"
+  },
+  "lisu-music": {
+    "art_key": "109895:1783213495"
+  },
+  "indonesian-music": {
+    "art_key": "182128:1783213500"
+  },
+  "balinese-music": {
+    "art_key": "70411:1783213507",
+    "audio_key": "2324941:1783213504|None|None|96k|full"
+  },
+  "kecak": {
+    "art_key": "162626:1783213512"
+  },
+  "batak-music": {
+    "art_key": "115149:1783213517"
+  },
+  "gambang-kromong": {
+    "art_key": "206253:1783213529"
+  },
+  "javanese-music": {
+    "art_key": "141979:1783213533"
+  },
+  "campursari": {
+    "art_key": "78902:1782076602"
+  },
+  "langgam-jawa": {
+    "art_key": "25070:1789073032"
+  },
+  "keroncong": {
+    "art_key": "151293:1783213548"
+  },
+  "minangkabau-music": {
+    "art_key": "107405:1783213553"
+  },
+  "qasidah-modern": {
+    "art_key": "40760:1782161724"
+  },
+  "sundanese-music": {
+    "art_key": "124464:1782162502"
+  },
+  "jaipongan": {
+    "art_key": "157009:1783213585"
+  },
+  "ketuk-tilu": {
+    "art_key": "55582:1782854511"
+  },
+  "kliningan": {
+    "art_key": "105096:1789073124"
+  },
+  "tanjidor": {
+    "art_key": "117836:1782162567"
+  },
+  "khmer-music": {
+    "art_key": "189886:1783213615"
+  },
+  "kantruem": {
+    "art_key": "190147:1783213620"
+  },
+  "malay-music": {
+    "art_key": "32360:1789073221"
+  },
+  "molam": {
+    "art_key": "70536:1782160867"
+  },
+  "molam-sing": {
+    "art_key": "257029:1783213641"
+  },
+  "philippine-music": {
+    "art_key": "144573:1783213646"
+  },
+  "igorot-music": {
+    "art_key": "95558:1783213652"
+  },
+  "ilocano-music": {
+    "art_key": "168848:1783213657"
+  },
+  "kundiman": {
+    "art_key": "256689:1783213662"
+  },
+  "pinoy-folk-rock": {
+    "art_key": "67306:1788987389"
+  },
+  "thai-music": {
+    "art_key": "50208:1789073657"
+  },
+  "luk-krung": {
+    "art_key": "64824:1782160477"
+  },
+  "luk-thung": {
+    "art_key": "52324:1782767872"
+  },
+  "phleng-phuea-chiwit": {
+    "art_key": "43058:1791746081"
+  },
+  "wong-shadow": {
+    "art_key": "167338:1782075556"
+  },
+  "west-asian-music": {
+    "art_key": "141101:1783213700"
+  },
+  "armenian-music": {
+    "art_key": "153432:1783213705"
+  },
+  "armenian-church-music": {
+    "art_key": "69024:1782076052"
+  },
+  "azerbaijani-music": {
+    "art_key": "128819:1783213715"
+  },
+  "caucasian-music": {
+    "art_key": "232562:1783213726"
+  },
+  "gilaki-music": {
+    "art_key": "179188:1783213732"
+  },
+  "kurdish-music": {
+    "art_key": "79306:1782160258"
+  },
+  "maftirim": {
+    "art_key": "86376:1783213740"
+  },
+  "muzika-mizrahit": {
+    "art_key": "291470:1783213744"
+  },
+  "muzikat-dikaon": {
+    "art_key": "122500:1783213749"
+  },
+  "persian-music": {
+    "art_key": "177549:1783213754"
+  },
+  "achomi-music": {
+    "art_key": "174412:1783213759"
+  },
+  "bandari": {
+    "art_key": "61216:1789073904"
+  },
+  "koche-bazari": {
+    "art_key": "68614:1789073939"
+  },
+  "turkish-music": {
+    "art_key": "27586:1789073973"
+  },
+  "anatolian-rock": {
+    "art_key": "135216:1783213778"
+  },
+  "arabesk": {
+    "art_key": "105309:1783213781"
+  },
+  "fantezi": {
+    "art_key": "237310:1783213784"
+  },
+  "ottoman-military-music": {
+    "art_key": "156362:1783213789"
+  },
+  "ozgun-muzik": {
+    "art_key": "150244:1783213794"
+  },
+  "austronesian-music": {
+    "art_key": "54310:1782073035"
+  },
+  "pakacaping-music": {
+    "art_key": "84710:1782161428"
+  },
+  "polynesian-music": {
+    "art_key": "117557:1783213817"
+  },
+  "fijian-music": {
+    "art_key": "211710:1783213821"
+  },
+  "vude": {
+    "art_key": "124805:1783213826"
+  },
+  "hawaiian-music": {
+    "art_key": "168043:1783213831"
+  },
+  "hapa-haole": {
+    "art_key": "149219:1783213835",
+    "audio_key": "2541277:1783213834|None|None|96k|full"
+  },
+  "slack-key-guitar": {
+    "art_key": "51786:1789066919"
+  },
+  "himene-tarava": {
+    "art_key": "189088:1783213844"
+  },
+  "maori-music": {
+    "art_key": "61563:1783213850"
+  },
+  "samoan-music": {
+    "art_key": "111238:1783213855"
+  },
+  "tahitian-music": {
+    "art_key": "80694:1789066978"
+  },
+  "caribbean-music": {
+    "art_key": "73245:1783213865"
+  },
+  "aleke": {
+    "art_key": "8926:1782763740"
+  },
+  "bachata": {
+    "art_key": "163385:1783213880"
+  },
+  "brukdown": {
+    "art_key": "185441:1783213885"
+  },
+  "bullerengue": {
+    "art_key": "107331:1783213889"
+  },
+  "calypso": {
+    "art_key": "164593:1783213894"
+  },
+  "calipso-venezolano": {
+    "art_key": "153596:1783213899",
+    "audio_key": "3827902:1783213899|None|None|96k|full"
+  },
+  "champeta": {
+    "art_key": "220530:1783213903"
+  },
+  "cuban-music": {
+    "art_key": "87196:1783213907"
+  },
+  "abakua-music": {
+    "art_key": "85328:1782075712"
+  },
+  "chachacha": {
+    "art_key": "174116:1783213917"
+  },
+  "changui": {
+    "art_key": "125732:1783213924"
+  },
+  "conga": {
+    "art_key": "145865:1783213928"
+  },
+  "cuban-charanga": {
+    "art_key": "66282:1783213939"
+  },
+  "cubaton": {
+    "art_key": "230040:1783213945"
+  },
+  "reparto": {
+    "art_key": "168280:1783213950"
+  },
+  "danzon": {
+    "art_key": "121540:1783213955"
+  },
+  "descarga": {
+    "art_key": "112152:1783213960"
+  },
+  "filin": {
+    "art_key": "130375:1783213965"
+  },
+  "guajira": {
+    "art_key": "124645:1783213969"
+  },
+  "guaracha": {
+    "art_key": "20422:1789067108"
+  },
+  "habanera": {
+    "art_key": "71308:1783213979"
+  },
+  "mambo": {
+    "art_key": "222741:1783213984"
+  },
+  "mozambique": {
+    "art_key": "107052:1783213988"
+  },
+  "pachanga": {
+    "art_key": "138600:1783213993"
+  },
+  "pilon": {
+    "art_key": "147090:1783213998"
+  },
+  "rumba-cubana": {
+    "art_key": "148128:1783214002"
+  },
+  "guaguanco": {
+    "art_key": "97144:1783214006"
+  },
+  "son-cubano": {
+    "art_key": "87332:1783214011"
+  },
+  "bolero-son": {
+    "art_key": "16080:1789067515"
+  },
+  "son-montuno": {
+    "art_key": "108414:1783214017"
+  },
+  "songo": {
+    "art_key": "176347:1783214022"
+  },
+  "timba": {
+    "art_key": "182416:1783214025"
+  },
+  "trova": {
+    "art_key": "175248:1783214029"
+  },
+  "nueva-trova": {
+    "art_key": "48032:1783214034"
+  },
+  "cumbia-colombiana": {
+    "art_key": "131045:1783214039"
+  },
+  "dembow": {
+    "art_key": "56122:1783214043"
+  },
+  "french-caribbean-music": {
+    "art_key": "48964:1783214048"
+  },
+  "biguine": {
+    "art_key": "12962:1782764851"
+  },
+  "bouyon": {
+    "art_key": "66701:1783214056"
+  },
+  "cadence-lypso": {
+    "art_key": "42188:1782073360"
+  },
+  "dennery-segment": {
+    "art_key": "194469:1783214120"
+  },
+  "gwo-ka": {
+    "art_key": "127350:1789067614"
+  },
+  "haitian-music": {
+    "art_key": "124355:1783214128"
+  },
+  "cadence-rampa": {
+    "art_key": "63666:1789067644"
+  },
+  "compas": {
+    "art_key": "26400:1789067670"
+  },
+  "raboday": {
+    "art_key": "18880:1782161750"
+  },
+  "rara": {
+    "art_key": "7968:1782075052",
+    "audio_key": "2219246:1783214155|None|None|96k|full"
+  },
+  "rasin": {
+    "art_key": "196227:1783214161"
+  },
+  "twoubadou": {
+    "art_key": "195146:1783214164"
+  },
+  "tumbele": {
+    "art_key": "247236:1783214169"
+  },
+  "zouk": {
+    "art_key": "139220:1783214172"
+  },
+  "cabo-zouk": {
+    "art_key": "149883:1783214177"
+  },
+  "zouk-love": {
+    "art_key": "116961:1783214183"
+  },
+  "gaita-zuliana": {
+    "art_key": "121466:1783214188"
+  },
+  "garifuna-music": {
+    "art_key": "168651:1783214199"
+  },
+  "punta": {
+    "art_key": "9056:1789067789"
+  },
+  "goombay": {
+    "art_key": "32648:1789067836",
+    "audio_key": "2611343:1783214207|None|None|96k|full"
+  },
+  "indo-caribbean-music": {
+    "art_key": "67052:1782767093"
+  },
+  "baithak-gana": {
+    "art_key": "17098:1789067882"
+  },
+  "chutney": {
+    "art_key": "51368:1782765498",
+    "audio_key": "4760706:1783214222|None|None|96k|full"
+  },
+  "chutney-soca": {
+    "art_key": "168745:1783214226"
+  },
+  "jamaican-music": {
+    "art_key": "147122:1783214231"
+  },
+  "nyahbinghi": {
+    "art_key": "92729:1783214236"
+  },
+  "junkanoo": {
+    "art_key": "154424:1783214241"
+  },
+  "kaseko": {
+    "art_key": "40678:1782074236"
+  },
+  "merengue": {
+    "art_key": "159944:1783214249"
+  },
+  "mambo-urbano": {
+    "art_key": "264289:1783214253"
+  },
+  "merecumbe": {
+    "art_key": "42638:1782768058"
+  },
+  "merengue-tipico": {
+    "art_key": "225213:1783214263"
+  },
+  "merenhouse": {
+    "art_key": "184270:1783214269"
+  },
+  "tecnomerengue": {
+    "art_key": "93930:1783214274"
+  },
+  "palo-de-mayo": {
+    "art_key": "95014:1783214280"
+  },
+  "parang": {
+    "art_key": "61706:1789068003"
+  },
+  "porro": {
+    "art_key": "162297:1783214288"
+  },
+  "soca": {
+    "art_key": "46494:1783214293"
+  },
+  "power-soca": {
+    "art_key": "200268:1783214297"
+  },
+  "rapso": {
+    "art_key": "79147:1783214301"
+  },
+  "steel-band": {
+    "art_key": "12566:1782162485"
+  },
+  "tropicanibalismo": {
+    "art_key": "225836:1783214310"
+  },
+  "vallenato": {
+    "art_key": "149955:1783214314"
+  },
+  "central-american-music": {
+    "art_key": "113249:1783214319"
+  },
+  "cumbia-salvadorena": {
+    "art_key": "182849:1783214324"
+  },
+  "purisima": {
+    "art_key": "62926:1782161709"
+  },
+  "son-nica": {
+    "art_key": "92874:1789043309"
+  },
+  "tamborera": {
+    "art_key": "119740:1783214342"
+  },
+  "xuc": {
+    "art_key": "52934:1782075569"
+  },
+  "christian-liturgical-music": {
+    "art_key": "210088:1783214351"
+  },
+  "anglican-chant": {
+    "art_key": "193192:1783214356"
+  },
+  "kyivan-chant": {
+    "art_key": "142843:1783214369"
+  },
+  "mass": {
+    "art_key": "121144:1783214372"
+  },
+  "requiem": {
+    "art_key": "89570:1783214376"
+  },
+  "russian-orthodox-liturgical-music": {
+    "art_key": "30656:1783214382"
+  },
+  "znamenny-chant": {
+    "art_key": "185901:1783214388"
+  },
+  "syriac-chant": {
+    "art_key": "58010:1783214394"
+  },
+  "european-music": {
+    "art_key": "141038:1788972041"
+  },
+  "alpenrock": {
+    "art_key": "127424:1783214402"
+  },
+  "ashkenazi-music": {
+    "art_key": "12866:1789068327"
+  },
+  "ashkenazi-cantorial-music": {
+    "art_key": "183080:1783214413"
+  },
+  "klezmer": {
+    "art_key": "142928:1783214416"
+  },
+  "balkan-music": {
+    "art_key": "85291:1783214420"
+  },
+  "entechna": {
+    "art_key": "19068:1789068428"
+  },
+  "entechna-laika": {
+    "art_key": "25186:1782073766"
+  },
+  "neo-kyma": {
+    "art_key": "18104:1789068474"
+  },
+  "laika": {
+    "art_key": "28616:1782074374"
+  },
+  "yu-mex": {
+    "art_key": "199646:1783214447"
+  },
+  "british-music": {
+    "art_key": "164109:1783214451"
+  },
+  "british-brass-band": {
+    "art_key": "135184:1783214457",
+    "audio_key": "6564444:1783214457|None|None|96k|full"
+  },
+  "british-folk-rock": {
+    "art_key": "154563:1783214462"
+  },
+  "concertina-band": {
+    "art_key": "130212:1783214468"
+  },
+  "celtic-rock": {
+    "art_key": "208385:1783214472"
+  },
+  "chanson": {
+    "art_key": "120882:1783214476",
+    "audio_key": "2647611:1783214476|None|None|96k|full"
+  },
+  "chanson-alternative": {
+    "art_key": "306927:1783214482"
+  },
+  "chanson-quebecoise": {
+    "art_key": "159784:1783214486"
+  },
+  "chanson-realiste": {
+    "art_key": "36070:1789068633"
+  },
+  "chanson-a-texte": {
+    "art_key": "140740:1783214495"
+  },
+  "nouvelle-chanson-francaise": {
+    "art_key": "132589:1783214499"
+  },
+  "crimean-tatar-music": {
+    "art_key": "192827:1783214503"
+  },
+  "dechovka": {
+    "art_key": "31626:1782077000"
+  },
+  "fanfare": {
+    "art_key": "21550:1782077393"
+  },
+  "finnish-tango": {
+    "art_key": "136913:1783214519",
+    "audio_key": "3425605:1783214518|None|None|96k|full"
+  },
+  "german-music": {
+    "art_key": "86282:1783214523"
+  },
+  "liedermacher": {
+    "art_key": "102214:1783214529"
+  },
+  "greek-music": {
+    "art_key": "63902:1789069142"
+  },
+  "hornpipe": {
+    "art_key": "290949:1782074103"
+  },
+  "iberian-music": {
+    "art_key": "38950:1789069283"
+  },
+  "euskal-kantagintza-berria": {
+    "art_key": "275390:1783214548"
+  },
+  "nova-canco": {
+    "art_key": "176562:1783214553"
+  },
+  "portuguese-music": {
+    "art_key": "129406:1783214557"
+  },
+  "musica-de-intervencao": {
+    "art_key": "107315:1783214562"
+  },
+  "pimba": {
+    "art_key": "100311:1783214567"
+  },
+  "spanish-music": {
+    "art_key": "200404:1783214572"
+  },
+  "bolero-espanol": {
+    "art_key": "87694:1783214578"
+  },
+  "flamenco": {
+    "art_key": "140695:1783214582"
+  },
+  "buleria": {
+    "art_key": "134381:1783214587"
+  },
+  "flamenco-nuevo": {
+    "art_key": "107733:1783214592"
+  },
+  "rumba-flamenca": {
+    "art_key": "142442:1783214597",
+    "audio_key": "3966652:1783214596|None|None|96k|full"
+  },
+  "nueva-cancion-espanola": {
+    "art_key": "199158:1783214601",
+    "audio_key": "3375148:1783214601|None|None|96k|full"
+  },
+  "rock-andaluz": {
+    "art_key": "162831:1783214605"
+  },
+  "villancico": {
+    "art_key": "18984:1782162850"
+  },
+  "italian-music": {
+    "art_key": "86104:1783214614"
+  },
+  "canzone-dautore": {
+    "art_key": "196229:1783214619"
+  },
+  "kleinkunst": {
+    "art_key": "156111:1788818399"
+  },
+  "mittelalter-rock": {
+    "art_key": "85276:1783214626"
+  },
+  "nordic-music": {
+    "art_key": "169410:1783214631"
+  },
+  "greenlandic-music": {
+    "art_key": "46828:1782077544"
+  },
+  "vaigat": {
+    "art_key": "170146:1783214642"
+  },
+  "nordic-folk-rock": {
+    "art_key": "194042:1783214647"
+  },
+  "rautalanka": {
+    "art_key": "108067:1783214652",
+    "audio_key": "3805919:1783214651|None|None|96k|full"
+  },
+  "visa": {
+    "art_key": "177927:1783214656"
+  },
+  "nova-cancon": {
+    "art_key": "91234:1783214664"
+  },
+  "polish-music": {
+    "art_key": "96502:1783214671"
+  },
+  "mazurka": {
+    "art_key": "123263:1783214675"
+  },
+  "miejski-folk": {
+    "art_key": "78216:1783214680"
+  },
+  "poezja-spiewana": {
+    "art_key": "105693:1783214684"
+  },
+  "polonaise": {
+    "art_key": "103664:1783214689"
+  },
+  "romanian-music": {
+    "art_key": "262096:1783214693"
+  },
+  "romanian-etno-music": {
+    "art_key": "188291:1783214697"
+  },
+  "russian-music": {
+    "art_key": "52214:1789069474"
+  },
+  "avtorskaya-pesnya": {
+    "art_key": "37916:1782076200"
+  },
+  "bard-rock": {
+    "art_key": "26584:1782764680"
+  },
+  "russian-romance": {
+    "art_key": "77931:1783214716"
+  },
+  "schottische": {
+    "art_key": "294657:1783214723"
+  },
+  "trampska-hudba": {
+    "art_key": "217176:1783214726",
+    "audio_key": "2486244:1783214726|None|None|96k|full"
+  },
+  "waltz": {
+    "art_key": "85650:1783214729"
+  },
+  "vals-venezolano": {
+    "art_key": "142969:1783214734"
+  },
+  "hispanic-music": {
+    "art_key": "105373:1783214740"
+  },
+  "hispanic-american-music": {
+    "art_key": "175872:1783214743"
+  },
+  "argentine-music": {
+    "art_key": "70164:1783214747"
+  },
+  "cuarteto": {
+    "art_key": "63769:1783214751"
+  },
+  "cumbia-argentina": {
+    "art_key": "169407:1783214754"
+  },
+  "cumbia-santafesina": {
+    "art_key": "85437:1783214759"
+  },
+  "cumbia-turra": {
+    "art_key": "114065:1783214763"
+  },
+  "cumbia-villera": {
+    "art_key": "160504:1783214768"
+  },
+  "guaracha-santiaguena": {
+    "art_key": "169090:1783214773"
+  },
+  "nuevo-cancionero": {
+    "art_key": "150651:1783214778"
+  },
+  "rkt": {
+    "art_key": "50320:1783214783"
+  },
+  "bolero": {
+    "art_key": "114252:1783214787"
+  },
+  "boogaloo": {
+    "art_key": "122190:1783214792"
+  },
+  "caporal": {
+    "art_key": "157692:1783214795"
+  },
+  "carnaval-cruceno": {
+    "art_key": "68840:1789043420"
+  },
+  "chilean-music": {
+    "art_key": "41051:1783214806"
+  },
+  "chilote-music": {
+    "art_key": "31708:1782073541"
+  },
+  "cumbia-chilena": {
+    "art_key": "161272:1783214815"
+  },
+  "nueva-cumbia-chilena": {
+    "art_key": "210731:1783214820"
+  },
+  "jazz-guachaca": {
+    "art_key": "200960:1783214825"
+  },
+  "mambo-chileno": {
+    "art_key": "155324:1783214830"
+  },
+  "musica-tipica-chilena": {
+    "art_key": "53132:1789043557"
+  },
+  "nueva-cancion-chilena": {
+    "art_key": "106436:1783214839"
+  },
+  "conjunto-andino": {
+    "art_key": "20098:1782073620"
+  },
+  "cumbia": {
+    "art_key": "151588:1783214855"
+  },
+  "cumbia-mexicana": {
+    "art_key": "273609:1783214859"
+  },
+  "cumbia-sonidera": {
+    "art_key": "40272:1782076940"
+  },
+  "cumbia-rebajada": {
+    "art_key": "156494:1783214868"
+  },
+  "cumbia-peruana": {
+    "art_key": "206480:1783214873"
+  },
+  "chicha": {
+    "art_key": "243852:1783214879"
+  },
+  "cumbia-amazonica": {
+    "art_key": "105330:1783214883"
+  },
+  "cumbia-nortena-peruana": {
+    "art_key": "75128:1789043747"
+  },
+  "currulao": {
+    "art_key": "162218:1783214892"
+  },
+  "guarania": {
+    "art_key": "78475:1783214905"
+  },
+  "huayno": {
+    "art_key": "164337:1783214909"
+  },
+  "bolivian-huayno": {
+    "art_key": "21900:1789043802"
+  },
+  "carnavalito": {
+    "art_key": "110120:1789043825"
+  },
+  "latin-alternative": {
+    "art_key": "170292:1783214924",
+    "audio_key": "4714678:1783214923|None|None|96k|full"
+  },
+  "latin-rock": {
+    "art_key": "204333:1783214928"
+  },
+  "mexican-music": {
+    "art_key": "75092:1783214932"
+  },
+  "bandas-de-viento-de-mexico": {
+    "art_key": "95992:1783214935"
+  },
+  "banda-sinaloense": {
+    "art_key": "145215:1783214939"
+  },
+  "movimiento-alterado": {
+    "art_key": "180098:1783214944"
+  },
+  "tecnobanda": {
+    "art_key": "121479:1783214949"
+  },
+  "chilena": {
+    "art_key": "26258:1782073531"
+  },
+  "corrido": {
+    "art_key": "80199:1783214958"
+  },
+  "cumbiaton": {
+    "art_key": "202866:1783214962"
+  },
+  "mariachi": {
+    "art_key": "149635:1783214967"
+  },
+  "norteno": {
+    "art_key": "75313:1783214973"
+  },
+  "cumbia-nortena-mexicana": {
+    "art_key": "156406:1783214978"
+  },
+  "duranguense": {
+    "art_key": "192562:1783214983"
+  },
+  "sierreno": {
+    "art_key": "74342:1783214987"
+  },
+  "corrido-tumbado": {
+    "art_key": "47614:1789044017"
+  },
+  "ranchera": {
+    "art_key": "87010:1789044045"
+  },
+  "tejano-music": {
+    "art_key": "146778:1783214999"
+  },
+  "new-mexico-music": {
+    "art_key": "153004:1783215005"
+  },
+  "nueva-cancion-latinoamericana": {
+    "art_key": "146226:1783215008"
+  },
+  "onda-nueva": {
+    "art_key": "179283:1783215014"
+  },
+  "pasillo": {
+    "art_key": "97410:1783215018"
+  },
+  "peruvian-music": {
+    "art_key": "172832:1783215023"
+  },
+  "huaylarsh": {
+    "art_key": "105616:1783215027"
+  },
+  "musica-criolla-peruana": {
+    "art_key": "147175:1783215031"
+  },
+  "festejo": {
+    "art_key": "72210:1789044140"
+  },
+  "lando": {
+    "art_key": "47552:1789044183"
+  },
+  "marinera": {
+    "art_key": "171142:1783215045"
+  },
+  "tondero": {
+    "art_key": "42308:1783215049"
+  },
+  "vals-criollo": {
+    "art_key": "94191:1783215054"
+  },
+  "polka-paraguaya": {
+    "art_key": "183195:1783215059"
+  },
+  "reggaeton": {
+    "art_key": "78202:1783215063"
+  },
+  "bachaton": {
+    "art_key": "113440:1783215068"
+  },
+  "doble-paso": {
+    "art_key": "194677:1783215073"
+  },
+  "neoperreo": {
+    "art_key": "195560:1783215078"
+  },
+  "romantic-style": {
+    "art_key": "147489:1783215082"
+  },
+  "rhumba": {
+    "art_key": "41160:1789044247",
+    "audio_key": "2726396:1783215086|None|None|96k|full"
+  },
+  "rioplatense-music": {
+    "art_key": "93071:1783215091"
+  },
+  "candombe-beat": {
+    "art_key": "62580:1788987139"
+  },
+  "tango": {
+    "art_key": "36768:1789056745"
+  },
+  "tango-nuevo": {
+    "art_key": "35986:1789056872"
+  },
+  "rock-andino": {
+    "art_key": "165256:1783215110"
+  },
+  "salsa": {
+    "art_key": "183981:1783215114"
+  },
+  "salsa-dura": {
+    "art_key": "75063:1783215126"
+  },
+  "salsa-romantica": {
+    "art_key": "171847:1783215130"
+  },
+  "nueva-cancion": {
+    "art_key": "43532:1783215135"
+  },
+  "romance-2": {
+    "art_key": "196649:1783215147"
+  },
+  "indigenous-american-music": {
+    "art_key": "47144:1782159644"
+  },
+  "indigenous-andean-music": {
+    "art_key": "54332:1782159672"
+  },
+  "baguala": {
+    "art_key": "173977:1783215161"
+  },
+  "indigenous-north-american-music": {
+    "art_key": "151850:1783215166"
+  },
+  "inuit-music": {
+    "art_key": "75465:1783215171"
+  },
+  "metis-music": {
+    "art_key": "148488:1783215177"
+  },
+  "pueblo-music": {
+    "art_key": "164190:1783215185"
+  },
+  "mesoamerican-music": {
+    "art_key": "119286:1783215189"
+  },
+  "maya-music": {
+    "art_key": "162127:1783215195"
+  },
+  "nahua-music": {
+    "art_key": "10198:1782074753"
+  },
+  "islamic-religious-music-and-recitation": {
+    "art_key": "155142:1783215207"
+  },
+  "maddahi": {
+    "art_key": "20516:1789058077"
+  },
+  "shoor": {
+    "art_key": "33850:1782162302"
+  },
+  "nasheed": {
+    "art_key": "134426:1783215233"
+  },
+  "jewish-music": {
+    "art_key": "33175:1783215237"
+  },
+  "hasidic-music": {
+    "art_key": "85615:1783215245"
+  },
+  "nigun": {
+    "art_key": "37318:1783215252"
+  },
+  "jewish-liturgical-music": {
+    "art_key": "103186:1783215257"
+  },
+  "chazzanut": {
+    "art_key": "131714:1783215264"
+  },
+  "piyyut": {
+    "art_key": "118562:1783215269"
+  },
+  "muzika-yehudit-mekorit": {
+    "art_key": "42438:1783215275"
+  },
+  "oriental-jewish-music": {
+    "art_key": "198979:1783215278"
+  },
+  "sephardic-music": {
+    "art_key": "41549:1783215284"
+  },
+  "northern-american-music": {
+    "art_key": "159702:1783215289"
+  },
+  "americana": {
+    "art_key": "40762:1783215294"
+  },
+  "barbershop": {
+    "art_key": "116520:1783215298"
+  },
+  "jubilee": {
+    "art_key": "245325:1783215302"
+  },
+  "country-rock": {
+    "art_key": "185028:1783215307"
+  },
+  "cosmic-country": {
+    "art_key": "243496:1783215313"
+  },
+  "cowboy-poetry": {
+    "art_key": "26585:1788816297"
+  },
+  "foxtrot": {
+    "art_key": "49330:1789068163",
+    "audio_key": "2450990:1783215324|None|None|96k|full"
+  },
+  "louisiana-music": {
+    "art_key": "207435:1783215330"
+  },
+  "cajun-music": {
+    "art_key": "199140:1783215335"
+  },
+  "new-orleans-brass-band": {
+    "art_key": "97313:1783215340"
+  },
+  "zydeco": {
+    "art_key": "195610:1783215346"
+  },
+  "nouveau-zydeco": {
+    "art_key": "184878:1783215351"
+  },
+  "pep-band": {
+    "art_key": "276774:1783215355"
+  },
+  "ragtime": {
+    "art_key": "144225:1783215359"
+  },
+  "cakewalk": {
+    "art_key": "230787:1783215365"
+  },
+  "honky-tonk-piano": {
+    "art_key": "106221:1783215370"
+  },
+  "novelty-piano": {
+    "art_key": "143953:1783215375"
+  },
+  "ragtime-song": {
+    "art_key": "163656:1783215380"
+  },
+  "roots-rock": {
+    "art_key": "152351:1783215386"
+  },
+  "swamp-rock": {
+    "art_key": "125640:1783215389"
+  },
+  "tex-mex": {
+    "art_key": "170549:1783215393"
+  },
+  "sacred-steel": {
+    "art_key": "124647:1783215397"
+  },
+  "shaker-music": {
+    "art_key": "149825:1783215407"
+  },
+  "southern-gospel": {
+    "art_key": "153908:1783215410"
+  },
+  "texan-music": {
+    "art_key": "125322:1783215414",
+    "audio_key": "6838209:1783215414|None|None|96k|full"
+  },
+  "oceanian-music": {
+    "art_key": "50766:1783215420"
+  },
+  "melanesian-music": {
+    "art_key": "30828:1789066797"
+  },
+  "kaneka": {
+    "art_key": "187107:1783215432"
+  },
+  "papuan-folk-music": {
+    "art_key": "173336:1783215436"
+  },
+  "tolai-rock": {
+    "art_key": "220477:1783215441"
+  },
+  "micronesian-music": {
+    "art_key": "148040:1783215446"
+  },
+  "kantan-chamorrita": {
+    "art_key": "130696:1783215451"
+  },
+  "polyphonic-chant": {
+    "art_key": "89540:1783215454"
+  },
+  "prehistoric-music": {
+    "art_key": "13366:1782850479"
+  },
+  "south-american-music": {
+    "art_key": "41082:1789057179"
+  },
+  "brazilian-music": {
+    "art_key": "168127:1783215466"
+  },
+  "brega": {
+    "art_key": "125090:1783215469"
+  },
+  "arrocha": {
+    "art_key": "81059:1783215474"
+  },
+  "arrochadeira": {
+    "art_key": "111378:1783215479"
+  },
+  "bregadeira": {
+    "art_key": "93153:1783215484"
+  },
+  "brega-funk": {
+    "art_key": "254738:1783215488"
+  },
+  "batidao-romantico": {
+    "art_key": "141236:1783215493"
+  },
+  "dobrado": {
+    "art_key": "75702:1783215499"
+  },
+  "funk-brasileiro": {
+    "art_key": "272736:1783215503"
+  },
+  "arrocha-funk": {
+    "art_key": "72410:1783215507"
+  },
+  "beat-bolha": {
+    "art_key": "149820:1783215520"
+  },
+  "beat-fino": {
+    "art_key": "33688:1789057298"
+  },
+  "funk-150-bpm": {
+    "art_key": "175472:1783215530"
+  },
+  "funk-carioca-1": {
+    "art_key": "224279:1783215535"
+  },
+  "funk-proibidao": {
+    "art_key": "126789:1783215539"
+  },
+  "funk-consciente": {
+    "art_key": "202312:1783215543"
+  },
+  "funk-de-bh": {
+    "art_key": "123742:1783215548"
+  },
+  "funk-ostentacao": {
+    "art_key": "112211:1783215551"
+  },
+  "rasteirinha": {
+    "art_key": "121382:1783215557"
+  },
+  "trapfunk": {
+    "art_key": "74840:1783215562"
+  },
+  "mpb": {
+    "art_key": "27736:1789057409"
+  },
+  "northeastern-brazilian-music": {
+    "art_key": "145153:1783215571"
+  },
+  "afoxe": {
+    "art_key": "210105:1783215578"
+  },
+  "axe": {
+    "art_key": "339962:1783215583",
+    "audio_key": "3599169:1783215582|None|None|96k|full"
+  },
+  "pagodao": {
+    "art_key": "50005:1783215588"
+  },
+  "samba-reggae": {
+    "art_key": "107421:1783215592"
+  },
+  "baiao": {
+    "art_key": "127299:1783215595"
+  },
+  "coco": {
+    "art_key": "249371:1783215605"
+  },
+  "ciranda": {
+    "art_key": "63842:1789057634"
+  },
+  "embolada": {
+    "art_key": "189744:1783215614"
+  },
+  "forro": {
+    "art_key": "125332:1783215617"
+  },
+  "forro-eletronico": {
+    "art_key": "143905:1783215622"
+  },
+  "forro-de-favela": {
+    "art_key": "150658:1783215626"
+  },
+  "piseiro": {
+    "art_key": "79797:1783215631"
+  },
+  "forro-universitario": {
+    "art_key": "226860:1783215636"
+  },
+  "frevo": {
+    "art_key": "109505:1783215641"
+  },
+  "frevo-de-bloco": {
+    "art_key": "45252:1789057740"
+  },
+  "frevo-de-rua": {
+    "art_key": "198271:1783215652"
+  },
+  "frevo-eletrico": {
+    "art_key": "173143:1783215656"
+  },
+  "frevo-cancao": {
+    "art_key": "102535:1783215660"
+  },
+  "manguebeat": {
+    "art_key": "165624:1783215665"
+  },
+  "northern-brazilian-music": {
+    "art_key": "124960:1783215669"
+  },
+  "carimbo": {
+    "art_key": "158043:1783215680"
+  },
+  "lambada": {
+    "art_key": "99897:1783215685"
+  },
+  "guitarrada": {
+    "art_key": "169862:1783215690"
+  },
+  "rock-rural": {
+    "art_key": "88897:1783215695"
+  },
+  "samba": {
+    "art_key": "147240:1783215698"
+  },
+  "batucada": {
+    "art_key": "69043:1783215703",
+    "audio_key": "1911586:1783215702|None|None|96k|full"
+  },
+  "bossa-nova": {
+    "art_key": "52752:1783215707"
+  },
+  "marchinha": {
+    "art_key": "200681:1783215712"
+  },
+  "pagode": {
+    "art_key": "111807:1783215717"
+  },
+  "pagode-romantico": {
+    "art_key": "128289:1783215726"
+  },
+  "partido-alto": {
+    "art_key": "91340:1783215730"
+  },
+  "samba-de-breque": {
+    "art_key": "167828:1783215735"
+  },
+  "samba-de-gafieira": {
+    "art_key": "190325:1783215739"
+  },
+  "samba-de-terreiro": {
+    "art_key": "109501:1783215746"
+  },
+  "samba-cancao": {
+    "art_key": "182259:1783215752"
+  },
+  "samba-choro": {
+    "art_key": "136117:1783215756"
+  },
+  "samba-enredo": {
+    "art_key": "90948:1783215762"
+  },
+  "samba-exaltacao": {
+    "art_key": "156902:1783215767",
+    "audio_key": "2177562:1783215767|None|None|96k|full"
+  },
+  "samba-joia": {
+    "art_key": "112157:1783215771"
+  },
+  "samba-rock": {
+    "art_key": "289293:1783215776"
+  },
+  "samba-soul": {
+    "art_key": "450057:1783215786"
+  },
+  "sambalanco": {
+    "art_key": "89932:1783215792"
+  },
+  "sertanejo": {
+    "art_key": "97118:1783215795"
+  },
+  "southeastern-brazilian-music": {
+    "art_key": "120104:1783215799"
+  },
+  "choro": {
+    "art_key": "151796:1783215804"
+  },
+  "maxixe": {
+    "art_key": "75375:1783215809"
+  },
+  "southern-brazilian-music": {
+    "art_key": "104226:1783215814"
+  },
+  "bandinha": {
+    "art_key": "171824:1783215819"
+  },
+  "musica-gaucha": {
+    "art_key": "134943:1783215823"
+  },
+  "vanera": {
+    "art_key": "197250:1783215828"
+  },
+  "xote": {
+    "art_key": "169973:1783215833"
+  },
+  "sufi-music": {
+    "art_key": "84915:1783215838"
+  },
+  "turkic-mongolic-music": {
+    "art_key": "93017:1783215850"
+  },
+  "rock": {
+    "art_key": "125546:1783215855"
+  },
+  "aor": {
+    "art_key": "150743:1783215859"
+  },
+  "acoustic-rock": {
+    "art_key": "139762:1783215863"
+  },
+  "alternative-rock": {
+    "art_key": "234488:1783215868"
+  },
+  "geek-rock": {
+    "art_key": "123026:1783215872"
+  },
+  "grunge": {
+    "art_key": "136195:1783215878"
+  },
+  "indie-rock": {
+    "art_key": "76497:1783215884"
+  },
+  "dunedin-sound": {
+    "art_key": "34554:1788986982"
+  },
+  "garage-rock-revival": {
+    "art_key": "28080:1783251501"
+  },
+  "indie-surf": {
+    "art_key": "185726:1783215898"
+  },
+  "math-pop": {
+    "art_key": "76537:1783215903"
+  },
+  "noise-pop": {
+    "art_key": "68223:1783215909"
+  },
+  "slacker-rock": {
+    "art_key": "94555:1783215913"
+  },
+  "shitgaze": {
+    "art_key": "63402:1788987042"
+  },
+  "slowcore": {
+    "art_key": "123468:1783215922"
+  },
+  "post-grunge": {
+    "art_key": "135952:1783215926"
+  },
+  "shimokita-kei": {
+    "art_key": "53304:1783215932",
+    "audio_key": "5856448:1783215932|None|None|96k|full"
+  },
+  "shoegaze": {
+    "art_key": "111263:1783215936"
+  },
+  "art-rock": {
+    "art_key": "48618:1782764062"
+  },
+  "blues-rock": {
+    "art_key": "117640:1783215947"
+  },
+  "boogie-rock": {
+    "art_key": "209938:1783215952"
+  },
+  "christian-rock": {
+    "art_key": "139231:1783215956"
+  },
+  "comedy-rock": {
+    "art_key": "201809:1783215960"
+  },
+  "deutschrock": {
+    "art_key": "45035:1783215963"
+  },
+  "experimental-rock": {
+    "art_key": "73918:1783215968"
+  },
+  "avant-prog": {
+    "art_key": "87538:1783215973"
+  },
+  "brutal-prog": {
+    "art_key": "339159:1783215977"
+  },
+  "zeuhl": {
+    "art_key": "54708:1788987252"
+  },
+  "krautrock": {
+    "art_key": "64098:1783215993"
+  },
+  "folk-rock": {
+    "art_key": "116145:1783215997"
+  },
+  "funk-rock": {
+    "art_key": "66373:1783216003"
+  },
+  "garage-rock": {
+    "art_key": "41632:1783280079"
+  },
+  "frat-rock": {
+    "art_key": "147594:1783216065"
+  },
+  "glam-rock": {
+    "art_key": "171296:1783216070"
+  },
+  "hard-rock": {
+    "art_key": "70954:1788987457"
+  },
+  "glam-metal": {
+    "art_key": "77304:1788987487"
+  },
+  "sleaze-rock": {
+    "art_key": "32234:1788987513"
+  },
+  "occult-rock": {
+    "art_key": "216869:1783216096",
+    "audio_key": "6062668:1783216096|None|None|96k|full"
+  },
+  "heartland-rock": {
+    "art_key": "88883:1783216102"
+  },
+  "jam-band": {
+    "art_key": "43295:1783216106"
+  },
+  "jazz-rock": {
+    "art_key": "149304:1783216111"
+  },
+  "jersey-shore-sound": {
+    "art_key": "97891:1783216114"
+  },
+  "math-rock": {
+    "art_key": "87352:1783216118"
+  },
+  "new-wave": {
+    "art_key": "33922:1783216123"
+  },
+  "noise-rock": {
+    "art_key": "20240:1788987653"
+  },
+  "post-rock": {
+    "art_key": "82724:1783216132"
+  },
+  "progressive-rock": {
+    "art_key": "55630:1783216136"
+  },
+  "canterbury-scene": {
+    "art_key": "143401:1783216141"
+  },
+  "neo-canterbury": {
+    "art_key": "165091:1783216146"
+  },
+  "neo-prog": {
+    "art_key": "82146:1783216151"
+  },
+  "symphonic-prog": {
+    "art_key": "122169:1783216156"
+  },
+  "pub-rock": {
+    "art_key": "230903:1783216160"
+  },
+  "rap-rock": {
+    "art_key": "101020:1783216165"
+  },
+  "reggae-rock": {
+    "art_key": "164505:1783216168",
+    "audio_key": "3127368:1783216168|None|None|96k|full"
+  },
+  "rock-and-roll": {
+    "art_key": "211571:1783216173"
+  },
+  "indorock": {
+    "art_key": "171824:1783216179"
+  },
+  "rockabilly": {
+    "art_key": "114799:1783216183",
+    "audio_key": "2664265:1783216183|None|None|96k|full"
+  },
+  "rock-opera": {
+    "art_key": "93152:1783216188"
+  },
+  "southern-rock": {
+    "art_key": "169147:1783216199"
+  },
+  "surf-music": {
+    "art_key": "31940:1782162553"
+  },
+  "hot-rod-music": {
+    "art_key": "23584:1782159583"
+  },
+  "surf-rock": {
+    "art_key": "51938:1788988030"
+  },
+  "symphonic-rock": {
+    "art_key": "130767:1783216217"
+  },
+  "zolo": {
+    "art_key": "85721:1783216222"
+  },
+  "scenes-and-movements": {
+    "art_key": "129199:1783216228",
+    "audio_key": "6500512:1783216228|None|None|96k|full"
+  },
+  "afrofuturism": {
+    "art_key": "168761:1783216232"
+  },
+  "akron-sound": {
+    "art_key": "110723:1783216235"
+  },
+  "asian-underground": {
+    "art_key": "125955:1783216240"
+  },
+  "aussie-pub-rock": {
+    "art_key": "169733:1783216244"
+  },
+  "authenticite": {
+    "art_key": "154619:1783216250"
+  },
+  "brock": {
+    "art_key": "80396:1783216255",
+    "audio_key": "3419896:1783216254|None|None|96k|full"
+  },
+  "bay-area-thrash-metal": {
+    "art_key": "157000:1783216265"
+  },
+  "beijing-new-sound": {
+    "art_key": "8372:1788988426"
+  },
+  "bernese-dialect-scene": {
+    "art_key": "245429:1783216280"
+  },
+  "bloghouse": {
+    "art_key": "27831:1783216283"
+  },
+  "bosstown-sound": {
+    "art_key": "117648:1783216287"
+  },
+  "bristol-sound": {
+    "art_key": "75873:1783216291"
+  },
+  "british-trad-jazz": {
+    "art_key": "137106:1783216295"
+  },
+  "brno-alternative-scene": {
+    "art_key": "14848:1782073316"
+  },
+  "brony-music": {
+    "art_key": "162391:1783216312"
+  },
+  "c-pop": {
+    "art_key": "57686:1783216316"
+  },
+  "cantopop": {
+    "art_key": "231340:1783216326"
+  },
+  "gufeng": {
+    "art_key": "108129:1783216329"
+  },
+  "hokkien-pop": {
+    "art_key": "182621:1783216334"
+  },
+  "mandopop": {
+    "art_key": "27500:1788988847"
+  },
+  "cbgb-scene": {
+    "art_key": "70202:1783216343"
+  },
+  "ccm": {
+    "art_key": "185618:1783216355"
+  },
+  "praise-and-worship": {
+    "art_key": "242669:1783216360"
+  },
+  "praise-break": {
+    "art_key": "42446:1788989015"
+  },
+  "urban-contemporary-gospel": {
+    "art_key": "14919:1783216369"
+  },
+  "cascadian-black-metal": {
+    "art_key": "109910:1783216374"
+  },
+  "chicago-no-wave": {
+    "art_key": "118044:1782073509"
+  },
+  "chicago-school": {
+    "art_key": "58456:1783216386"
+  },
+  "chikipunk": {
+    "art_key": "98240:1783216390",
+    "audio_key": "2393022:1783216390|None|None|96k|full"
+  },
+  "christian-hardcore": {
+    "art_key": "128441:1783216394"
+  },
+  "cleveland-punk": {
+    "art_key": "119744:1783216398"
+  },
+  "clube-da-esquina": {
+    "art_key": "164875:1783216402"
+  },
+  "crisalida-sonica": {
+    "art_key": "61524:1783216407"
+  },
+  "darmstadt-school": {
+    "art_key": "148481:1783216412"
+  },
+  "demoscene": {
+    "art_key": "70226:1783216418"
+  },
+  "desi-hip-hop": {
+    "art_key": "176419:1783216423"
+  },
+  "donosti-sound": {
+    "art_key": "95970:1783216432"
+  },
+  "doom-wad-music": {
+    "art_key": "91600:1783216437"
+  },
+  "doujin-music": {
+    "art_key": "34812:1782073707"
+  },
+  "touhou-music": {
+    "art_key": "51708:1782162666"
+  },
+  "dusseldorf-school": {
+    "art_key": "86376:1783216450"
+  },
+  "east-coast-hip-hop": {
+    "art_key": "123748:1783216454"
+  },
+  "bronx-drill": {
+    "art_key": "81784:1788989177"
+  },
+  "brooklyn-drill": {
+    "art_key": "28714:1783216469"
+  },
+  "dmv-hip-hop": {
+    "art_key": "177624:1783216479"
+  },
+  "emo-revival": {
+    "art_key": "154568:1783216483"
+  },
+  "english-underground": {
+    "art_key": "210692:1783216489"
+  },
+  "ladbroke-grove-scene": {
+    "art_key": "7572:1788989243"
+  },
+  "epadunk": {
+    "art_key": "134737:1783216497"
+  },
+  "filk": {
+    "art_key": "160685:1783216502"
+  },
+  "first-wave-of-detroit-techno": {
+    "art_key": "26398:1788989279"
+  },
+  "florida-fast-music": {
+    "art_key": "51145:1783216520"
+  },
+  "fort-thunder-scene": {
+    "art_key": "446095:1783216530"
+  },
+  "free-noise": {
+    "art_key": "79586:1783216535"
+  },
+  "french-hip-hop": {
+    "art_key": "8294:1788989358"
+  },
+  "friese-bries": {
+    "art_key": "104169:1783216545"
+  },
+  "furry-music": {
+    "art_key": "44445:1783216549"
+  },
+  "greenwich-village-scene": {
+    "art_key": "139622:1783216552"
+  },
+  "hamburger-schule": {
+    "art_key": "101967:1783216556"
+  },
+  "harlem-renaissance": {
+    "art_key": "31418:1788989421"
+  },
+  "high-quality-rip": {
+    "art_key": "23868:1782159559"
+  },
+  "hip-hopolo": {
+    "art_key": "36610:1788989463"
+  },
+  "hoboken-sound": {
+    "art_key": "82785:1783216578"
+  },
+  "holy-terror": {
+    "art_key": "174490:1783216585"
+  },
+  "h-c6-b0ng-ca": {
+    "art_key": "51632:1788989803"
+  },
+  "j-core": {
+    "art_key": "82684:1782074155"
+  },
+  "japanese-hardcore": {
+    "art_key": "9090:1788989852"
+  },
+  "japanese-hip-hop": {
+    "art_key": "29794:1788989880"
+  },
+  "japanese-idol": {
+    "art_key": "76288:1782159895"
+  },
+  "alternative-idol": {
+    "art_key": "27278:1782075908"
+  },
+  "kansai-no-wave": {
+    "art_key": "28557:1783216623"
+  },
+  "la-beat-scene": {
+    "art_key": "89429:1783216627"
+  },
+  "laurel-canyon-scene": {
+    "art_key": "71844:1783216639"
+  },
+  "leningrad-rock-club-scene": {
+    "art_key": "37408:1788989990"
+  },
+  "little-band-scene": {
+    "art_key": "51659:1783216646"
+  },
+  "loft-jazz": {
+    "art_key": "146065:1783216652"
+  },
+  "louisville-sound": {
+    "art_key": "61200:1783216656"
+  },
+  "madchester": {
+    "art_key": "158330:1783216660"
+  },
+  "maidcore": {
+    "art_key": "221133:1783216664"
+  },
+  "manila-sound": {
+    "art_key": "44350:1782074406"
+  },
+  "mentai-rock": {
+    "art_key": "150045:1783216674",
+    "audio_key": "3388577:1783216674|None|None|96k|full"
+  },
+  "midwest-hip-hop": {
+    "art_key": "193194:1783216677"
+  },
+  "mod": {
+    "art_key": "177829:1783216682"
+  },
+  "moscow-school": {
+    "art_key": "96803:1788972230"
+  },
+  "movida-madrilena": {
+    "art_key": "78537:1783216693"
+  },
+  "mloda-polska": {
+    "art_key": "122027:1783216699",
+    "audio_key": "19694851:1783216698|None|None|96k|full"
+  },
+  "nola-sludge": {
+    "art_key": "159465:1783216703"
+  },
+  "nwobhm": {
+    "art_key": "240093:1783216713"
+  },
+  "nardcore": {
+    "art_key": "259782:1783216717"
+  },
+  "neue-deutsche-welle": {
+    "art_key": "64937:1783216721"
+  },
+  "neue-volksmusik": {
+    "art_key": "162122:1783216726"
+  },
+  "new-brunswick-basement-scene": {
+    "art_key": "90420:1783216732"
+  },
+  "new-london-jazz": {
+    "art_key": "74062:1783216735"
+  },
+  "new-orleans-blues": {
+    "art_key": "121163:1783216739"
+  },
+  "new-partisans": {
+    "art_key": "147628:1783216742"
+  },
+  "new-pop": {
+    "art_key": "95445:1783216747"
+  },
+  "new-primitivism": {
+    "art_key": "297362:1783216751"
+  },
+  "new-romantic": {
+    "art_key": "99790:1783216756"
+  },
+  "new-wave-of-new-wave": {
+    "art_key": "173844:1783216761"
+  },
+  "new-way-of-danish-fuck-you": {
+    "art_key": "117081:1783216766"
+  },
+  "new-weird-america": {
+    "art_key": "192592:1783216770"
+  },
+  "new-weird-finland": {
+    "art_key": "41746:1783216778"
+  },
+  "new-york-hardcore": {
+    "art_key": "155254:1783216783"
+  },
+  "new-york-school": {
+    "art_key": "114720:1783216789"
+  },
+  "no-wave": {
+    "art_key": "34302:1788990181"
+  },
+  "northern-gothic": {
+    "art_key": "58713:1783216798"
+  },
+  "northern-soul": {
+    "art_key": "92456:1783216802"
+  },
+  "nova-srpska-scena": {
+    "art_key": "73761:1783216807"
+  },
+  "nova-vanguarda-paulistana": {
+    "art_key": "22436:1783216812"
+  },
+  "novaya-scena": {
+    "art_key": "33298:1782161386"
+  },
+  "novo-dub": {
+    "art_key": "183918:1783216821"
+  },
+  "nueva-ola": {
+    "art_key": "38974:1788990284"
+  },
+  "palm-desert-scene": {
+    "art_key": "86365:1783216831"
+  },
+  "pansy-craze": {
+    "art_key": "101752:1783216838"
+  },
+  "pop-kreatif": {
+    "art_key": "166720:1783216843"
+  },
+  "progg": {
+    "art_key": "174365:1783216848"
+  },
+  "psichedelia-occulta-italiana": {
+    "art_key": "72106:1782161647"
+  },
+  "q-pop": {
+    "art_key": "138826:1783216859"
+  },
+  "queercore": {
+    "art_key": "182254:1783216864"
+  },
+  "rabm": {
+    "art_key": "118004:1783216870"
+  },
+  "red-dirt": {
+    "art_key": "138521:1783216873"
+  },
+  "revolution-summer": {
+    "art_key": "142946:1783216877"
+  },
+  "riot-grrrl": {
+    "art_key": "182680:1783216881"
+  },
+  "rock-barrial": {
+    "art_key": "183140:1783216886",
+    "audio_key": "4426156:1783216885|None|None|96k|full"
+  },
+  "rock-in-opposition": {
+    "art_key": "114600:1783216893"
+  },
+  "rock-radical-vasco": {
+    "art_key": "50628:1783216897"
+  },
+  "rock-subterraneo": {
+    "art_key": "187390:1783216902"
+  },
+  "rock-sonico": {
+    "art_key": "105092:1783216907"
+  },
+  "rock-triste": {
+    "art_key": "165560:1783216912"
+  },
+  "rock-urbano-espanol": {
+    "art_key": "140881:1783216917"
+  },
+  "rock-urbano-mexicano": {
+    "art_key": "116186:1783216922"
+  },
+  "russemusikk": {
+    "art_key": "253902:1783216925"
+  },
+  "san-diego-sound": {
+    "art_key": "31266:1788990416"
+  },
+  "san-francisco-sound": {
+    "art_key": "336591:1783216935"
+  },
+  "haight-ashbury-scene": {
+    "art_key": "140937:1783216938"
+  },
+  "scene": {
+    "art_key": "121546:1783216943"
+  },
+  "happy-rock": {
+    "art_key": "56954:1788990454"
+  },
+  "scottish-folk-revival": {
+    "art_key": "164636:1783216951"
+  },
+  "seapunk": {
+    "art_key": "42326:1782162142"
+  },
+  "second-british-folk-revival": {
+    "art_key": "113716:1783216961"
+  },
+  "second-viennese-school": {
+    "art_key": "107393:1783216967"
+  },
+  "second-wave-of-detroit-techno": {
+    "art_key": "23698:1783216973"
+  },
+  "shibuya-kei": {
+    "art_key": "191280:1783216984"
+  },
+  "siberian-punk": {
+    "art_key": "313998:1783216988"
+  },
+  "soundclown": {
+    "art_key": "53212:1782162450"
+  },
+  "southern-hip-hop": {
+    "art_key": "180221:1783216999"
+  },
+  "south-florida-soundcloud-rap": {
+    "art_key": "72548:1783217006"
+  },
+  "straight-edge": {
+    "art_key": "17559:1783217012"
+  },
+  "krishnacore": {
+    "art_key": "31830:1788990529"
+  },
+  "vegan-straight-edge": {
+    "art_key": "123636:1783217023"
+  },
+  "h8000": {
+    "art_key": "119316:1788990552"
+  },
+  "hardline": {
+    "art_key": "121565:1783217032"
+  },
+  "youth-crew": {
+    "art_key": "128051:1783217037"
+  },
+  "sunset-strip-glam-metal": {
+    "art_key": "172312:1783217041"
+  },
+  "t-pop": {
+    "art_key": "105214:1783217045",
+    "audio_key": "3271207:1783217045|None|None|96k|full"
+  },
+  "taqwacore": {
+    "art_key": "163771:1783217049"
+  },
+  "teutonic-thrash-metal": {
+    "art_key": "174039:1783217055",
+    "audio_key": "3898850:1783217055|None|None|96k|full"
+  },
+  "texas-psychedelia": {
+    "art_key": "143236:1783217060"
+  },
+  "the-batcave": {
+    "art_key": "169098:1783217064"
+  },
+  "the-wave": {
+    "art_key": "70400:1783217069"
+  },
+  "trova-rosarina": {
+    "art_key": "102993:1783217073"
+  },
+  "uk-hip-hop": {
+    "art_key": "70382:1783217078"
+  },
+  "uk82": {
+    "art_key": "171589:1783217083"
+  },
+  "ultra": {
+    "art_key": "57415:1783217089"
+  },
+  "v-pop": {
+    "art_key": "90346:1783217092"
+  },
+  "vanguarda-paulista": {
+    "art_key": "43868:1783217096"
+  },
+  "vietnamese-new-wave": {
+    "art_key": "115320:1783217109"
+  },
+  "visual-kei": {
+    "art_key": "80829:1783217113"
+  },
+  "kote-kei": {
+    "art_key": "91569:1783217121"
+  },
+  "nagoya-kei": {
+    "art_key": "68658:1782074742"
+  },
+  "soft-visual": {
+    "art_key": "39932:1783217130"
+  },
+  "vixa": {
+    "art_key": "135489:1783217135"
+  },
+  "vocaloid-scene": {
+    "art_key": "72197:1783217141"
+  },
+  "utaite": {
+    "art_key": "18618:1788990711"
+  },
+  "voelvry-movement": {
+    "art_key": "178167:1783217150"
+  },
+  "warez-scene": {
+    "art_key": "15358:1788991299"
+  },
+  "west-coast-hip-hop": {
+    "art_key": "173499:1783217157"
+  },
+  "west-coast-sound-of-holland": {
+    "art_key": "154976:1783217162"
+  },
+  "windmill-scene": {
+    "art_key": "132959:1783217173"
+  },
+  "wizard-rock": {
+    "art_key": "49371:1783217177"
+  },
+  "womens-music-movement": {
+    "art_key": "105047:1783217183"
+  },
+  "ytpmv": {
+    "art_key": "99421:1783217189",
+    "audio_key": "2535505:1783217186|None|None|96k|full"
+  },
+  "otomad": {
+    "art_key": "177634:1782074883"
+  },
+  "yass": {
+    "art_key": "108286:1782162938"
+  },
+  "yugoslav-new-wave": {
+    "art_key": "47812:1783217208"
+  },
+  "zimdancehall": {
+    "art_key": "84516:1783217213"
+  },
+  "ceska-alternativni-scena": {
+    "art_key": "203481:1783217216"
+  },
+  "ceska-nova-vlna": {
+    "art_key": "159892:1783217220"
+  },
+  "cesky-underground": {
+    "art_key": "152934:1783217224"
+  },
+  "singer-songwriter": {
+    "art_key": "158366:1783217228",
+    "audio_key": "2430555:1783217228|None|None|96k|full"
+  },
+  "spoken-word": {
+    "art_key": "122498:1783217234"
+  },
+  "fairy-tales": {
+    "art_key": "186583:1783217240"
+  },
+  "folktales": {
+    "art_key": "131496:1783217244",
+    "audio_key": "2527403:1783217243|None|None|96k|full"
+  },
+  "guided-meditation": {
+    "art_key": "87129:1788816219"
+  },
+  "interview": {
+    "art_key": "104191:1783217258"
+  },
+  "lectures": {
+    "art_key": "151860:1783217267"
+  },
+  "poetry": {
+    "art_key": "141818:1783217272"
+  },
+  "beat-poetry": {
+    "art_key": "189377:1783217276"
+  },
+  "slam-poetry": {
+    "art_key": "91813:1783217280"
+  },
+  "radio-drama": {
+    "art_key": "71218:1783217286"
+  },
+  "speeches": {
+    "art_key": "45334:1782162468"
+  },
+  "sermons": {
+    "art_key": "24814:1782162271"
+  },
+  "stand-up-comedy": {
+    "art_key": "59572:1783217299"
+  },
+  "asmr": {
+    "art_key": "13728:1789040547"
+  },
+  "ambient-pop": {
+    "art_key": "409617:1783217311"
+  },
+  "audio-documentary": {
+    "art_key": "66314:1783217320"
+  },
+  "beatboxing": {
+    "art_key": "62570:1783217325"
+  },
+  "bugle-call": {
+    "art_key": "27196:1782073325"
+  },
+  "childrens-music": {
+    "art_key": "204093:1783217337"
+  },
+  "lullabies": {
+    "art_key": "98961:1783217341"
+  },
+  "nursery-rhymes": {
+    "art_key": "144090:1783217347"
+  },
+  "comedy": {
+    "art_key": "22920:1782765772"
+  },
+  "break-in": {
+    "art_key": "34573:1783217359"
+  },
+  "musical-comedy": {
+    "art_key": "22634:1789040889"
+  },
+  "prank-calls": {
+    "art_key": "58319:1783217370"
+  },
+  "sketch-comedy": {
+    "art_key": "59784:1789040996"
+  },
+  "concert-band": {
+    "art_key": "7702:1783217381"
+  },
+  "dark-cabaret": {
+    "art_key": "168245:1783217387"
+  },
+  "darkwave": {
+    "art_key": "111535:1783217392"
+  },
+  "ethereal-wave": {
+    "art_key": "87190:1783217398"
+  },
+  "neoclassical-darkwave": {
+    "art_key": "141325:1783217402"
+  },
+  "neue-deutsche-todeskunst": {
+    "art_key": "108528:1789041044"
+  },
+  "field-recordings": {
+    "art_key": "37838:1783217416"
+  },
+  "nature-recordings": {
+    "art_key": "33127:1783217428"
+  },
+  "animal-sounds": {
+    "art_key": "12010:1782076011"
+  },
+  "bird-sounds": {
+    "art_key": "172211:1783217439"
+  },
+  "insect-sounds": {
+    "art_key": "116456:1783217445"
+  },
+  "whale-song": {
+    "art_key": "76698:1783217452"
+  },
+  "rain-sounds": {
+    "art_key": "262639:1783217457"
+  },
+  "radio-broadcast-recordings": {
+    "art_key": "18498:1782075030"
+  },
+  "gospel": {
+    "art_key": "128806:1783217467"
+  },
+  "hanmai": {
+    "art_key": "59172:1782074004"
+  },
+  "hauntology": {
+    "art_key": "134503:1783217475"
+  },
+  "hymn": {
+    "art_key": "137998:1783217482"
+  },
+  "jingles": {
+    "art_key": "167909:1783217494"
+  },
+  "mantra": {
+    "art_key": "149428:1783217499"
+  },
+  "march": {
+    "art_key": "6034:1782074428"
+  },
+  "circus-march": {
+    "art_key": "215259:1783217515"
+  },
+  "funeral-march": {
+    "art_key": "161464:1783217519"
+  },
+  "marching-band": {
+    "art_key": "155890:1783217524"
+  },
+  "drum-and-bugle-corps": {
+    "art_key": "114910:1783217528"
+  },
+  "drumline": {
+    "art_key": "156407:1783217531"
+  },
+  "fife-and-drum-corps": {
+    "art_key": "187992:1783217536"
+  },
+  "mashup": {
+    "art_key": "33614:1782160554"
+  },
+  "mechanical-music": {
+    "art_key": "58064:1782160606"
+  },
+  "parlour-music": {
+    "art_key": "108230:1783217551"
+  },
+  "sacred-singing-circle": {
+    "art_key": "178586:1783217556"
+  },
+  "slowed-and-reverb": {
+    "art_key": "74371:1783217560"
+  },
+  "sound-effects": {
+    "art_key": "58524:1782075299"
+  },
+  "battle-record": {
+    "art_key": "62163:1783217574"
+  },
+  "broadband-noise": {
+    "art_key": "2870:1782076536"
+  },
+  "toypop": {
+    "art_key": "26542:1782162681"
+  },
+  "worldbeat": {
+    "art_key": "119287:1783217604"
+  }
+}
