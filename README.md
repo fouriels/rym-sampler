@@ -10,7 +10,7 @@ The web companion to [The Ultimate RYM Sampler](https://www.youtube.com/watch?v=
 
 By [Fouriels](https://ko-fi.com/fouriels).
 
-Looking for a specific timestamp? See the full spreadsheet [here]([https://docs.google.com/spreadsheets/...](https://docs.google.com/spreadsheets/d/13FLYyONZIOSw8dosuoEIWaSq46TqerzwTD-Y0DVRvvE/edit?gid=1637589714).
+Looking for a specific timestamp? See the full spreadsheet [here](https://docs.google.com/spreadsheets/d/13FLYyONZIOSw8dosuoEIWaSq46TqerzwTD-Y0DVRvvE/edit?gid=1637589714).
 
 After scraping [RateYourMusic](https://rateyourmusic.com/) for their genre hierarchy, for the I first chose a cutoff such that every genre with more than 5 albums was included. Representative albums were then chosen such that each album is shown only once. I then used spotify and last.fm to identify the most popular song from that album, and youtube heatmaps to identify the most consequential 7 seconds. After this automated run came the laborious process of manually checking every single song pick to make sure that a) the album/song choices made sense and were appropriate, b) the youtube link was correct, and c) the 7 second clip accurately reflected the genre. 
 
