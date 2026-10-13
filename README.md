@@ -3,7 +3,7 @@
 The web companion to [The Ultimate RYM Sampler](https://www.youtube.com/watch?v=bElxttxaPnc) videos on the
 [Musique Non-Stop YouTube channel](https://www.youtube.com/@VirulentHorizon).
 
-[CLICK IT](https://0b0b6747.rym-sampler.pages.dev/)
+[CLICK IT](https://genresampler.com)
 
 - **Dashboard**: facts about the genres: how many releases each has, when each genre's top record came out, where its artist is from, how long it runs, etc.
 - **Genre Atlas**: explore the genre tree and listen to each genre's song.
